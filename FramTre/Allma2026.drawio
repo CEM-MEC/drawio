@@ -55,10 +55,10 @@
           <mxGeometry height="60" width="120" x="895" y="270" as="geometry" />
         </mxCell>
         <mxCell id="LbXEYyjDPEDayyUkqC1m-16" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nyregistrering" vertex="1">
-          <mxGeometry height="30" width="110" x="840" y="140" as="geometry" />
+          <mxGeometry height="30" width="110" x="840" y="130" as="geometry" />
         </mxCell>
         <mxCell id="LbXEYyjDPEDayyUkqC1m-17" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Vedlikehold" vertex="1">
-          <mxGeometry height="30" width="80" x="990" y="140" as="geometry" />
+          <mxGeometry height="30" width="80" x="990" y="130" as="geometry" />
         </mxCell>
         <mxCell id="LbXEYyjDPEDayyUkqC1m-18" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Neste gang:&lt;br&gt;&lt;br&gt;Vi ser på konkrete data i CRM, Allma og Kartverket og finner ut hvordan disse kan kobles sammen.&amp;nbsp;&lt;br&gt;&lt;br&gt;Hvordan kan vi verifisere at Hovednummer er riktig?&lt;br&gt;&lt;br&gt;Hvordan kan vi vedlikeholde data?&lt;br&gt;&lt;br&gt;Er det aktuelt å be X antall tusen skogeiere oppdatere sine eiendommer?&lt;br&gt;&lt;br&gt;Erlend kan vise eiendom når personer registrerer seg.&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="390" x="1160" y="100" as="geometry" />
