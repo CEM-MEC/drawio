@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.2">
+  <diagram name="Page-1" id="yYY8D5DAuBjGfve4yl0l">
+    <mxGraphModel dx="1176" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nbwEjoiyqG_1Tstfxgwp-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Bestilling av Allma abonnement i min side" vertex="1">
+          <mxGeometry height="80" width="120" x="445" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nbwEjoiyqG_1Tstfxgwp-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Vise anbefalte tiltak" vertex="1">
+          <mxGeometry height="80" width="120" x="595" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nbwEjoiyqG_1Tstfxgwp-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Administrasjon av brukere i Allma" vertex="1">
+          <mxGeometry height="80" width="120" x="745" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nbwEjoiyqG_1Tstfxgwp-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Matrikkeloppdatering" vertex="1">
+          <mxGeometry height="80" width="120" x="895" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-3" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;" value="- Trenger eierid&lt;br&gt;(fullmakt?)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Sjekker matrikkelen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Fullmaktskjema sendes på mail&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Sjekker at det er kjøpt skogbruksplan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="150" x="425" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-4" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;" value="- Trenger eierid&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Trenger å identifisere brukeren og at de har tilgang til eiendom og har kjøpt skogbruksplan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="595" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-5" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;" value="- Styre tilgang for skogeiere i Allma&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Hvilken type bruker++&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Fakturering av de som skal faktureres&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="745" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-6" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;" value="- Sjekk for om de eier eiendommen&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Sjekker hvem som eier eiendommen &quot;her og nå&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Sjekker at hovednummer i Allma stemmer overens&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="895" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Teigid inn i CRM" vertex="1">
+          <mxGeometry height="80" width="120" x="1045" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrere endringer &lt;br&gt;i matrikkelen" vertex="1">
+          <mxGeometry height="80" width="120" x="1195" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sperre for å tegne utenfor hovednummer" vertex="1">
+          <mxGeometry height="80" width="120" x="1345" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-10" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;" value="- Trenger å finne hovednummer" vertex="1">
+          <mxGeometry height="120" width="120" x="1345" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-12" edge="1" parent="1" source="LbXEYyjDPEDayyUkqC1m-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="955" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Koble riktig hovednummer" vertex="1">
+          <mxGeometry height="80" width="120" x="895" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-14" edge="1" parent="1" source="LbXEYyjDPEDayyUkqC1m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LbXEYyjDPEDayyUkqC1m-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="895" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-16" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nyregistrering" vertex="1">
+          <mxGeometry height="30" width="110" x="840" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-17" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Vedlikehold" vertex="1">
+          <mxGeometry height="30" width="80" x="990" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXEYyjDPEDayyUkqC1m-18" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Neste gang:&lt;br&gt;&lt;br&gt;Vi ser på konkrete data i CRM, Allma og Kartverket og finner ut hvordan disse kan kobles sammen.&amp;nbsp;&lt;br&gt;&lt;br&gt;Hvordan kan vi verifisere at Hovednummer er riktig?&lt;br&gt;&lt;br&gt;Hvordan kan vi vedlikeholde data?&lt;br&gt;&lt;br&gt;Er det aktuelt å be X antall tusen skogeiere oppdatere sine eiendommer?&lt;br&gt;&lt;br&gt;Erlend kan vise eiendom når personer registrerer seg.&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="390" x="1160" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
