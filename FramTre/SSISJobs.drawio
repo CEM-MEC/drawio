@@ -28,16 +28,28 @@
           <mxGeometry height="60" width="60" x="220" y="435" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;" value="Start" vertex="1">
-          <mxGeometry height="50" width="50" x="-130" y="435" as="geometry" />
+          <mxGeometry height="50" width="50" x="-70" y="440" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-10" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="Skogdata&lt;br&gt;Datalake" vertex="1">
-          <mxGeometry height="160" width="830" x="310" y="-280" as="geometry" />
+          <mxGeometry height="310" width="830" x="310" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="sKGZaaKBK29JXatOxkqS-1" parent="-KVQp1VEsYg9w_8yskiC-10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="" vertex="1">
+        <mxCell id="sKGZaaKBK29JXatOxkqS-1" parent="-KVQp1VEsYg9w_8yskiC-10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="Files Group&lt;br&gt;2" vertex="1">
           <mxGeometry height="60" width="88" x="270" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="-KVQp1VEsYg9w_8yskiC-12" parent="1" style="text;whiteSpace=wrap;" value="Should run at ...." vertex="1">
-          <mxGeometry height="40" width="120" x="-140" y="495" as="geometry" />
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-71" parent="-KVQp1VEsYg9w_8yskiC-10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="Oppgjørsfiler" vertex="1">
+          <mxGeometry height="60" width="120" x="495" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-73" parent="-KVQp1VEsYg9w_8yskiC-10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="Files Group&lt;br&gt;1" vertex="1">
+          <mxGeometry height="60" width="88" x="115" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-74" parent="-KVQp1VEsYg9w_8yskiC-10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="Files Group&amp;nbsp;&lt;br&gt;1" vertex="1">
+          <mxGeometry height="60" width="88" x="115" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-75" edge="1" parent="-KVQp1VEsYg9w_8yskiC-10" source="-KVQp1VEsYg9w_8yskiC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" target="-KVQp1VEsYg9w_8yskiC-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-12" parent="1" style="text;whiteSpace=wrap;" value="Should run when new files are added in Datalake.&#xa;&#xa;Triggered by Pipeline importing files" vertex="1">
+          <mxGeometry height="145" width="180" x="-140" y="495" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="End" vertex="1">
           <mxGeometry height="60" width="100" x="200" y="600" as="geometry" />
@@ -63,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-19" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Validations&lt;/h1&gt;&lt;p&gt;- Number of files in our Datalake is the same as in Skogdata&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="500" y="315" as="geometry" />
+          <mxGeometry height="120" width="180" x="500" y="300" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Send to log analytics" vertex="1">
           <mxGeometry height="60" width="90" x="530" y="570" as="geometry" />
@@ -151,7 +163,7 @@
         <mxCell id="-KVQp1VEsYg9w_8yskiC-49" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="FramTre&lt;br&gt;Datalake" vertex="1">
           <mxGeometry height="330" width="830" x="310" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="-KVQp1VEsYg9w_8yskiC-50" parent="-KVQp1VEsYg9w_8yskiC-49" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="" vertex="1">
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-50" parent="-KVQp1VEsYg9w_8yskiC-49" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="Files Group&amp;nbsp;&lt;br&gt;2" vertex="1">
           <mxGeometry height="60" width="88" x="270" y="50" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-52" parent="-KVQp1VEsYg9w_8yskiC-49" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="Blob" vertex="1">
@@ -161,7 +173,7 @@
           <mxGeometry height="130" width="630" x="50" y="180" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-54" parent="-KVQp1VEsYg9w_8yskiC-53" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" value="Oppgjørsfiler" vertex="1">
-          <mxGeometry height="60" width="88" x="482" y="35" as="geometry" />
+          <mxGeometry height="60" width="120" x="450" y="35" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-51" edge="1" parent="1" source="sKGZaaKBK29JXatOxkqS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" target="-KVQp1VEsYg9w_8yskiC-50">
           <mxGeometry relative="1" as="geometry" />
@@ -199,7 +211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-64" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Validations&lt;/h1&gt;&lt;p&gt;- Is the files uploaded&lt;/p&gt;&lt;p&gt;- Verify the the correct files is there&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="220" x="1700" y="310" as="geometry" />
+          <mxGeometry height="120" width="220" x="1700" y="300" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Send to log analytics" vertex="1">
           <mxGeometry height="60" width="90" x="1708" y="570" as="geometry" />
@@ -208,6 +220,21 @@
           <mxGeometry height="60" width="100" x="1703" y="670" as="geometry" />
         </mxCell>
         <mxCell id="-KVQp1VEsYg9w_8yskiC-68" edge="1" parent="1" source="-KVQp1VEsYg9w_8yskiC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="-KVQp1VEsYg9w_8yskiC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-72" edge="1" parent="1" source="-KVQp1VEsYg9w_8yskiC-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.454;entryY=0.229;entryDx=0;entryDy=0;entryPerimeter=0;" target="-KVQp1VEsYg9w_8yskiC-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-76" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Run daily" vertex="1">
+          <mxGeometry height="60" width="100" x="419" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-77" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Run monthly" vertex="1">
+          <mxGeometry height="60" width="100" x="574" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-78" edge="1" parent="1" source="-KVQp1VEsYg9w_8yskiC-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="sKGZaaKBK29JXatOxkqS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KVQp1VEsYg9w_8yskiC-79" edge="1" parent="1" source="-KVQp1VEsYg9w_8yskiC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="-KVQp1VEsYg9w_8yskiC-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
