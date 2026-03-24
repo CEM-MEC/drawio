@@ -4,6 +4,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WtMsc2SvToHOPEjznuUV-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sales order" vertex="1">
+          <mxGeometry height="200" width="200" x="310" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-4" parent="WtMsc2SvToHOPEjznuUV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vsys" vertex="1">
+          <mxGeometry height="30" width="50" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-9" edge="1" parent="WtMsc2SvToHOPEjznuUV-1" source="WtMsc2SvToHOPEjznuUV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-5" parent="WtMsc2SvToHOPEjznuUV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="OrgNum" vertex="1">
+          <mxGeometry height="30" width="50" x="30" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sales plan" vertex="1">
+          <mxGeometry height="200" width="200" x="310" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-14" edge="1" parent="1" source="WtMsc2SvToHOPEjznuUV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="WtMsc2SvToHOPEjznuUV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Property" vertex="1">
+          <mxGeometry height="200" width="200" x="680" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-8" edge="1" parent="1" source="WtMsc2SvToHOPEjznuUV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WtMsc2SvToHOPEjznuUV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Account" vertex="1">
+          <mxGeometry height="90" width="200" x="680" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-11" parent="WtMsc2SvToHOPEjznuUV-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Tømmerkunde" vertex="1">
+          <mxGeometry height="30" width="120" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Reskontro" vertex="1">
+          <mxGeometry height="90" width="200" x="950" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-16" parent="WtMsc2SvToHOPEjznuUV-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Customer Profile Code = 1" vertex="1">
+          <mxGeometry height="30" width="160" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-17" edge="1" parent="1" source="WtMsc2SvToHOPEjznuUV-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WtMsc2SvToHOPEjznuUV-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="620" y="480" as="sourcePoint" />
+            <mxPoint x="670" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-18" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tømmerkunde&lt;/h1&gt;&lt;p&gt;Skal man sjekke at vsysnummer er likt på tømmerkunde?&lt;br&gt;Skal tømmerkunde oppdateres om noe er forskjellig?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="680" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WtMsc2SvToHOPEjznuUV-19" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Salgsordre&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Oppdatere kun om det er tomt?&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Hva med de som er feil?&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="920" y="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
