@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="87MAbD0vSYiB1wZmWBJy">
-    <mxGraphModel dx="9173" dy="3800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6782" dy="2533" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,6 +289,12 @@
             <mxPoint x="5216" y="3799" as="sourcePoint" />
             <mxPoint x="5266" y="3749" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-60" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=84;fontStyle=1;verticalAlign=middle;align=left;autosizeText=1;" value="23.04.2026" vertex="1">
+          <mxGeometry height="182" width="1791" x="-1915" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-61" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=84;fontStyle=1;verticalAlign=middle;align=left;autosizeText=1;" value="28.04.2026" vertex="1">
+          <mxGeometry height="182" width="1791" x="-1878" y="1189" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
