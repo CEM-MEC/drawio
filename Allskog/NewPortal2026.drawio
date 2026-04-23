@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="87MAbD0vSYiB1wZmWBJy">
-    <mxGraphModel dx="5074" dy="1697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2861" dy="475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,9 +129,9 @@
         <mxCell id="iCecHqp6tfbs0CyK5LHN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nat Gateway?&lt;br&gt;NSG?" vertex="1">
           <mxGeometry height="30" width="100" x="1280" y="500.6" as="geometry" />
         </mxCell>
-        <mxCell id="ij900ri0Qf05JgbwCxFD-9" collapsed="1" parent="1" style="swimlane;startSize=0;fillColor=#FFFFFF;" value="" vertex="1">
-          <mxGeometry height="40" width="50" x="-1900" y="330" as="geometry">
-            <mxRectangle height="409" width="350" x="-1900" y="330" as="alternateBounds" />
+        <mxCell id="ij900ri0Qf05JgbwCxFD-9" parent="1" style="swimlane;startSize=0;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="409" width="350" x="-1900" y="330" as="geometry">
+            <mxRectangle height="40" width="50" x="-1900" y="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ij900ri0Qf05JgbwCxFD-1" parent="ij900ri0Qf05JgbwCxFD-9" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cartagena&lt;/h1&gt;&lt;p&gt;Panuwat Nitikitpaiboon - Utvikler&lt;br&gt;&lt;br&gt;Pakpoom Tiyasangthong&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Utvikler&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Carl Erik Melhus -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prosjektleder&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Per Fleichmann - Azurespesialist&lt;/p&gt;&lt;p&gt;Bjørn Lundell - Testperson&lt;br&gt;&lt;br&gt;Thomas Vieil - Utvikler/Integrasjon/Dataverse&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Allskog&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Ansvarlig tester&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Ansvarlig godkjenner (prosjekteier)&lt;/span&gt;&lt;/h1&gt;" vertex="1">
