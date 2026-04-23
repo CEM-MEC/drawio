@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="87MAbD0vSYiB1wZmWBJy">
-    <mxGraphModel dx="2555" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4255" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,14 +13,11 @@
         <mxCell id="d24qDe33e2AyKvG6gl8C-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
           <mxGeometry height="110" width="190" x="-253" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="0MvgDW3YmKqa5O_n9bb--3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Images_Classic.svg;" value="" vertex="1">
-          <mxGeometry height="64" width="69" x="-470" y="120" as="geometry" />
-        </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--4" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-280" y="930" as="geometry" />
         </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="370" width="750" x="-30" y="500" as="geometry" />
+          <mxGeometry height="420" width="750" x="-30" y="500" as="geometry" />
         </mxCell>
         <mxCell id="ofBwjdG63VGD32ts5RjX-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" value="" vertex="1">
           <mxGeometry height="64" width="64" x="564" y="590" as="geometry" />
@@ -29,7 +26,7 @@
           <mxGeometry height="50" width="32" x="580" y="700" as="geometry" />
         </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--1" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" value="" vertex="1">
-          <mxGeometry height="42" width="50" x="108" y="720" as="geometry" />
+          <mxGeometry height="42" width="50" x="250" y="730" as="geometry" />
         </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_SQL_VM.svg;" value="" vertex="1">
           <mxGeometry height="60" width="64" x="-159" y="640" as="geometry" />
@@ -76,8 +73,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="385" y="700" />
-              <mxPoint x="190" y="700" />
-              <mxPoint x="190" y="741" />
+              <mxPoint x="330" y="700" />
+              <mxPoint x="330" y="751" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -94,7 +91,7 @@
           <mxGeometry height="190" width="180" x="140" y="300" as="geometry" />
         </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--25" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Vurdere&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Nat Gateway&lt;/b&gt;&lt;br&gt;For å ha samme ip ut.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NSG (Network security group)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Nettverksregler&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="180" x="-640" y="340" as="geometry" />
+          <mxGeometry height="150" width="180" x="-260" y="274.4" as="geometry" />
         </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="App service&lt;br&gt;(backend)" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="624" as="geometry" />
@@ -108,8 +105,8 @@
         <mxCell id="0MvgDW3YmKqa5O_n9bb--32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Application insights" vertex="1">
           <mxGeometry height="30" width="60" x="630" y="695" as="geometry" />
         </mxCell>
-        <mxCell id="0MvgDW3YmKqa5O_n9bb--33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Redis cache" vertex="1">
-          <mxGeometry height="30" width="60" x="30" y="726" as="geometry" />
+        <mxCell id="0MvgDW3YmKqa5O_n9bb--33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Azure Managed Redis Instance" vertex="1">
+          <mxGeometry height="60" width="90" x="142" y="720" as="geometry" />
         </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="VM with SQL" vertex="1">
           <mxGeometry height="35" width="67" x="-240" y="645" as="geometry" />
@@ -117,11 +114,11 @@
         <mxCell id="0MvgDW3YmKqa5O_n9bb--35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Azure Devops" vertex="1">
           <mxGeometry height="30" width="80" x="-290" y="980" as="geometry" />
         </mxCell>
-        <mxCell id="d24qDe33e2AyKvG6gl8C-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VNet" vertex="1">
-          <mxGeometry height="30" width="60" x="20" y="525" as="geometry" />
+        <mxCell id="d24qDe33e2AyKvG6gl8C-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#66B2FF;" value="VNet" vertex="1">
+          <mxGeometry height="30" width="60" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="d24qDe33e2AyKvG6gl8C-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Azure Tenant" vertex="1">
-          <mxGeometry height="30" width="110" x="-278" y="450" as="geometry" />
+        <mxCell id="d24qDe33e2AyKvG6gl8C-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#66B2FF;" value="Azure Tenant" vertex="1">
+          <mxGeometry height="30" width="110" x="-278" y="437" as="geometry" />
         </mxCell>
         <mxCell id="d24qDe33e2AyKvG6gl8C-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VNet" vertex="1">
           <mxGeometry height="30" width="60" x="-253" y="610" as="geometry" />
@@ -131,6 +128,41 @@
         </mxCell>
         <mxCell id="iCecHqp6tfbs0CyK5LHN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nat Gateway?&lt;br&gt;NSG?" vertex="1">
           <mxGeometry height="30" width="100" x="80" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-9" parent="1" style="swimlane;startSize=0;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="265" width="350" x="-1900" y="330" as="geometry">
+            <mxRectangle height="40" width="50" x="-1610" y="295" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-1" parent="ij900ri0Qf05JgbwCxFD-9" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Panuwat Nitikitpaiboon - Utvikler&lt;br&gt;&lt;br&gt;Pakpoom Tiyasangthong&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Utvikler&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Carl Erik Melhus -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prosjektleder&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Per Fleichmann - Azurespesialist&lt;/p&gt;&lt;p&gt;Bjørn Lundell - Testperson&lt;br&gt;&lt;br&gt;Thomas Vieil - Utvikler/Integrasjon/Dataverse&lt;/p&gt;" vertex="1">
+          <mxGeometry height="231" width="283" x="47" y="-5" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-3" parent="ij900ri0Qf05JgbwCxFD-9" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
+          <mxGeometry height="22" width="19" x="23" y="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-4" parent="ij900ri0Qf05JgbwCxFD-9" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
+          <mxGeometry height="22" width="19" x="23" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-5" parent="ij900ri0Qf05JgbwCxFD-9" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
+          <mxGeometry height="22" width="19" x="23" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-6" parent="ij900ri0Qf05JgbwCxFD-9" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
+          <mxGeometry height="22" width="19" x="24" y="117" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-7" parent="ij900ri0Qf05JgbwCxFD-9" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
+          <mxGeometry height="22" width="19" x="23" y="145.39999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-8" parent="ij900ri0Qf05JgbwCxFD-9" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
+          <mxGeometry height="22" width="19" x="25" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-11" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="265" width="330" x="-1530" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;" value="Team" vertex="1">
+          <mxGeometry height="30" width="350" x="-1900" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;" value="Suksesskriterier" vertex="1">
+          <mxGeometry height="30" width="330" x="-1530" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
