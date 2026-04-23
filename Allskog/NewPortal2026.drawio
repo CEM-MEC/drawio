@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="87MAbD0vSYiB1wZmWBJy">
-    <mxGraphModel dx="2861" dy="475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3484" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
         <mxCell id="0MvgDW3YmKqa5O_n9bb--30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Static web app&lt;br&gt;(frontend)" vertex="1">
           <mxGeometry height="30" width="90" x="1550" y="845.6" as="geometry" />
         </mxCell>
-        <mxCell id="0MvgDW3YmKqa5O_n9bb--31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Static web app" vertex="1">
+        <mxCell id="0MvgDW3YmKqa5O_n9bb--31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Monitor" vertex="1">
           <mxGeometry height="30" width="60" x="1840" y="582.6" as="geometry" />
         </mxCell>
         <mxCell id="0MvgDW3YmKqa5O_n9bb--32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Application insights" vertex="1">
@@ -167,12 +167,12 @@
         <mxCell id="ij900ri0Qf05JgbwCxFD-44" parent="ij900ri0Qf05JgbwCxFD-9" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
           <mxGeometry height="22" width="19" x="23" y="311" as="geometry" />
         </mxCell>
-        <mxCell id="ij900ri0Qf05JgbwCxFD-11" collapsed="1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="40" width="50" x="-1530" y="330" as="geometry">
-            <mxRectangle height="265" width="330" x="-1530" y="330" as="alternateBounds" />
+        <mxCell id="ij900ri0Qf05JgbwCxFD-11" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="265" width="330" x="-1530" y="330" as="geometry">
+            <mxRectangle height="40" width="50" x="-1530" y="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ij900ri0Qf05JgbwCxFD-14" parent="ij900ri0Qf05JgbwCxFD-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="-&amp;nbsp;" vertex="1">
+        <mxCell id="ij900ri0Qf05JgbwCxFD-14" parent="ij900ri0Qf05JgbwCxFD-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="-&amp;nbsp; Lik funksjon eller bedre&lt;br&gt;- Kode er ryddig og oversiktlig (bra kvalitet). Kommentarer. Følge bransjestandard. Bruke moderne teknologi.&lt;br&gt;- Unngå lisenser. Allskog ønsker rettigheter til alt og ta dette videre.&lt;div&gt;- Overvåkning&lt;/div&gt;&lt;div&gt;- Enkelt å endre tekst.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="220" width="290" x="20" y="21.80000000000001" as="geometry" />
         </mxCell>
         <mxCell id="ij900ri0Qf05JgbwCxFD-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;" value="Team" vertex="1">
@@ -247,6 +247,9 @@
         </UserObject>
         <mxCell id="ij900ri0Qf05JgbwCxFD-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;" value="Ønsker fra Allskog" vertex="1">
           <mxGeometry height="30" width="330" x="3460" y="317.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ij900ri0Qf05JgbwCxFD-45" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- Kan man enkelt endre fetchxml?&lt;br&gt;- Kan man automatisk publisere&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- Testmiljø&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="207.43" x="-1522" y="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
