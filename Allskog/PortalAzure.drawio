@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="erwCpUia3UnZRjW9s2xZ">
-    <mxGraphModel dx="2152" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2152" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,9 +86,6 @@
         </mxCell>
         <mxCell id="im-0CeaT-pIxiae1SIKG-23" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;" value="" vertex="1">
           <mxGeometry height="54" width="68" x="761" y="785.6" as="geometry" />
-        </mxCell>
-        <mxCell id="im-0CeaT-pIxiae1SIKG-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TODO&lt;/h1&gt;&lt;p&gt;Dataverse: New table to create and edit events&lt;br&gt;&lt;br&gt;Sharepoint:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Shared folder between territories&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="190" width="180" x="550" y="285.6" as="geometry" />
         </mxCell>
         <mxCell id="im-0CeaT-pIxiae1SIKG-25" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Vurdere&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Nat Gateway&lt;/b&gt;&lt;br&gt;For å ha samme ip ut.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NSG (Network security group)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Nettverksregler&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="180" x="150" y="260" as="geometry" />
