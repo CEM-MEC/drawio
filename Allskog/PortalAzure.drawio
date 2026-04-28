@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="erwCpUia3UnZRjW9s2xZ">
-    <mxGraphModel dx="2152" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1701" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="im-0CeaT-pIxiae1SIKG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="100" width="190" x="157" y="485.6" as="geometry" />
-        </mxCell>
         <mxCell id="im-0CeaT-pIxiae1SIKG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
           <mxGeometry height="635" width="1200" x="70" y="422.6" as="geometry" />
+        </mxCell>
+        <mxCell id="im-0CeaT-pIxiae1SIKG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="420" width="750" x="380" y="485.6" as="geometry" />
+        </mxCell>
+        <mxCell id="im-0CeaT-pIxiae1SIKG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="100" width="190" x="157" y="485.6" as="geometry" />
         </mxCell>
         <mxCell id="im-0CeaT-pIxiae1SIKG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
           <mxGeometry height="110" width="190" x="157" y="595.6" as="geometry" />
         </mxCell>
         <mxCell id="im-0CeaT-pIxiae1SIKG-4" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="130" y="915.6" as="geometry" />
-        </mxCell>
-        <mxCell id="im-0CeaT-pIxiae1SIKG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="420" width="750" x="380" y="485.6" as="geometry" />
         </mxCell>
         <mxCell id="im-0CeaT-pIxiae1SIKG-6" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" value="" vertex="1">
           <mxGeometry height="64" width="64" x="974" y="575.6" as="geometry" />
