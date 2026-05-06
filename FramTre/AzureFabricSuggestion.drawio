@@ -568,7 +568,10 @@
           <mxGeometry height="64" width="64" x="-448" y="558" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-72" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="68" width="68" x="-448" y="370" as="geometry" />
+          <mxGeometry height="68" width="68" x="338" y="372.75" as="geometry" />
+        </mxCell>
+        <mxCell id="RQRkZv34ZRFmdA0sen12-73" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="64" width="64" x="338" y="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
