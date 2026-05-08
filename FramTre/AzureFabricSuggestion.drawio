@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="8400.5" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="7510" dy="2269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -385,10 +385,10 @@
           <mxGeometry height="100" width="796" x="470" y="956.5" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#D5E8D4;strokeColor=#82b366;" value="&lt;span&gt;Billigere&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="220" x="-4270" y="300" as="geometry" />
+          <mxGeometry height="30" width="220" x="-3090" y="180" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="30" width="209.15" x="-4049.15" y="300" as="geometry" />
+          <mxGeometry height="30" width="209.15" x="-2869.15" y="180" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-19" parent="1" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Cross-Functional Flowchart" vertex="1">
           <mxGeometry height="400" width="1233.5" x="-623.5" y="1510" as="geometry" />
@@ -448,10 +448,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="Flytte målenota ut i ekstern database" vertex="1">
-          <mxGeometry height="30" width="147" x="-4418" y="300" as="geometry" />
+          <mxGeometry height="30" width="147" x="-3238" y="180" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-33" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#d6b656;fontSize=16;fontFamily=Helvetica;labelBackgroundColor=default;fillColor=#fff2cc;" value="Table" vertex="1">
-          <mxGeometry height="150" width="580" x="-4420" y="390" as="geometry" />
+          <mxGeometry height="150" width="580" x="-3240" y="270" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-34" parent="RQRkZv34ZRFmdA0sen12-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="40" width="580" y="30" as="geometry" />
@@ -508,7 +508,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="Bygge om eksisterende jobber" vertex="1">
-          <mxGeometry height="40" width="209.15" x="-4049.15" y="420" as="geometry" />
+          <mxGeometry height="40" width="209.15" x="-2869.15" y="300" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-51" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Azure" vertex="1">
           <mxGeometry height="480" width="1330" x="1710" y="370" as="geometry" />
