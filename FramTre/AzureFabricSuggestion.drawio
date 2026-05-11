@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="7510" dy="2269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="4244" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -572,6 +572,48 @@
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-73" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="64" width="64" x="338" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Pool" vertex="1">
+          <mxGeometry height="480" width="480" x="-329.99999999999955" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-2" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="ADF" vertex="1">
+          <mxGeometry height="460" width="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-5" parent="zsRd20rAmreD_-WHkMvg-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Filer importert" vertex="1">
+          <mxGeometry height="32" width="100" x="10" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-10" parent="zsRd20rAmreD_-WHkMvg-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Korrigere data" vertex="1">
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-3" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Azure Function" vertex="1">
+          <mxGeometry height="460" width="120" x="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-6" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Sette inn i Staging&lt;br&gt;Python" vertex="1">
+          <mxGeometry height="48" width="100" x="10" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-4" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Postgre SQL" vertex="1">
+          <mxGeometry height="460" width="120" x="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-8" parent="zsRd20rAmreD_-WHkMvg-4" style="rounded=1;whiteSpace=wrap;html=1;" value="Sette inn i Staging" vertex="1">
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-7" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-9" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-11" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-12" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Dataverse" vertex="1">
+          <mxGeometry height="460" width="120" x="360" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-13" parent="zsRd20rAmreD_-WHkMvg-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Virtuell tabell" vertex="1">
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-14" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
