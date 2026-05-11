@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="4383" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="4500" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -574,7 +574,7 @@
           <mxGeometry height="64" width="64" x="338" y="590" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Pool" vertex="1">
-          <mxGeometry height="480" width="480" x="-329.99999999999955" y="2490" as="geometry" />
+          <mxGeometry height="480" width="480" x="-329.99999999999955" y="2540" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-2" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="ADF" vertex="1">
           <mxGeometry height="460" width="120" y="20" as="geometry" />
@@ -583,31 +583,37 @@
           <mxGeometry height="32" width="100" x="10" y="32" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-10" parent="zsRd20rAmreD_-WHkMvg-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Korrigere data" vertex="1">
-          <mxGeometry height="32" width="100" x="9.999999999999545" y="162" as="geometry" />
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="308" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-3" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Azure Function" vertex="1">
           <mxGeometry height="460" width="120" x="120" y="20" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-6" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Sette inn i Staging&lt;br&gt;Python" vertex="1">
-          <mxGeometry height="48" width="100" x="10" y="74" as="geometry" />
+          <mxGeometry height="48" width="100" x="10" y="180" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-18" edge="1" parent="zsRd20rAmreD_-WHkMvg-3" source="zsRd20rAmreD_-WHkMvg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-15" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Batch 150 records&lt;br&gt;(hode)" vertex="1">
-          <mxGeometry height="48" width="100" x="9.999999999999545" y="210" as="geometry" />
+        <mxCell id="zsRd20rAmreD_-WHkMvg-15" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ExecuteMultiple-&lt;br&gt;Request" vertex="1">
+          <mxGeometry height="48" width="100" x="9.999999999999545" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-16" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Batch 150 records&lt;br&gt;(linje)" vertex="1">
-          <mxGeometry height="48" width="100" x="9.999999999999545" y="290" as="geometry" />
+        <mxCell id="zsRd20rAmreD_-WHkMvg-16" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ExecuteTransaction-&lt;br&gt;Request" vertex="1">
+          <mxGeometry height="48" width="100" x="9.999999999999545" y="370" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-4" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Postgre SQL" vertex="1">
           <mxGeometry height="460" width="120" x="240" y="20" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-8" parent="zsRd20rAmreD_-WHkMvg-4" style="rounded=1;whiteSpace=wrap;html=1;" value="Sette inn i Staging" vertex="1">
-          <mxGeometry height="32" width="100" x="9.999999999999545" y="122" as="geometry" />
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="244" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-7" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-6">
+        <mxCell id="zsRd20rAmreD_-WHkMvg-39" edge="1" parent="zsRd20rAmreD_-WHkMvg-4" source="zsRd20rAmreD_-WHkMvg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-36" parent="zsRd20rAmreD_-WHkMvg-4" style="rounded=1;whiteSpace=wrap;html=1;" value="ImportFolder" vertex="1">
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-37" parent="zsRd20rAmreD_-WHkMvg-4" style="rounded=1;whiteSpace=wrap;html=1;" value="ImportFile" vertex="1">
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="110" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-9" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-8">
           <mxGeometry relative="1" as="geometry" />
@@ -619,12 +625,18 @@
           <mxGeometry height="460" width="120" x="360" y="20" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-13" parent="zsRd20rAmreD_-WHkMvg-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Virtuell tabell" vertex="1">
-          <mxGeometry height="32" width="100" x="9.999999999999545" y="122" as="geometry" />
+          <mxGeometry height="32" width="100" x="14.999999999999545" y="244" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-14" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-17" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-38" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-40" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="ImportFolder" vertex="1">
@@ -636,11 +648,11 @@
         <mxCell id="zsRd20rAmreD_-WHkMvg-21" parent="zsRd20rAmreD_-WHkMvg-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportFolder" vertex="1">
           <mxGeometry height="30" width="160" y="56" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-22" parent="zsRd20rAmreD_-WHkMvg-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+        <mxCell id="zsRd20rAmreD_-WHkMvg-22" parent="zsRd20rAmreD_-WHkMvg-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Status" vertex="1">
           <mxGeometry height="30" width="160" y="86" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-23" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Head" vertex="1">
-          <mxGeometry height="116" width="160" x="-534" y="2630" as="geometry" />
+        <mxCell id="zsRd20rAmreD_-WHkMvg-23" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="StagingHead" vertex="1">
+          <mxGeometry height="146" width="160" x="-534" y="2780" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-24" parent="zsRd20rAmreD_-WHkMvg-23" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Id" vertex="1">
           <mxGeometry height="30" width="160" y="26" as="geometry" />
@@ -648,11 +660,14 @@
         <mxCell id="zsRd20rAmreD_-WHkMvg-25" parent="zsRd20rAmreD_-WHkMvg-23" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportFolder" vertex="1">
           <mxGeometry height="30" width="160" y="56" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-26" parent="zsRd20rAmreD_-WHkMvg-23" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+        <mxCell id="zsRd20rAmreD_-WHkMvg-43" parent="zsRd20rAmreD_-WHkMvg-23" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportFile_Id" vertex="1">
           <mxGeometry height="30" width="160" y="86" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-27" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Head" vertex="1">
-          <mxGeometry height="116" width="160" x="-534" y="2770" as="geometry" />
+        <mxCell id="zsRd20rAmreD_-WHkMvg-26" parent="zsRd20rAmreD_-WHkMvg-23" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Status" vertex="1">
+          <mxGeometry height="30" width="160" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-27" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="StagingLine" vertex="1">
+          <mxGeometry height="176" width="160" x="-534" y="2950" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-28" parent="zsRd20rAmreD_-WHkMvg-27" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Id" vertex="1">
           <mxGeometry height="30" width="160" y="26" as="geometry" />
@@ -660,8 +675,50 @@
         <mxCell id="zsRd20rAmreD_-WHkMvg-29" parent="zsRd20rAmreD_-WHkMvg-27" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportFolder" vertex="1">
           <mxGeometry height="30" width="160" y="56" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-30" parent="zsRd20rAmreD_-WHkMvg-27" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+        <mxCell id="zsRd20rAmreD_-WHkMvg-42" parent="zsRd20rAmreD_-WHkMvg-27" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="StagingHead_Id" vertex="1">
           <mxGeometry height="30" width="160" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-30" parent="zsRd20rAmreD_-WHkMvg-27" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Status" vertex="1">
+          <mxGeometry height="30" width="160" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-44" parent="zsRd20rAmreD_-WHkMvg-27" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportFile_Id" vertex="1">
+          <mxGeometry height="30" width="160" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-32" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="ImportFile" vertex="1">
+          <mxGeometry height="146" width="160" x="-534" y="2616" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-33" parent="zsRd20rAmreD_-WHkMvg-32" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Id" vertex="1">
+          <mxGeometry height="30" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-34" parent="zsRd20rAmreD_-WHkMvg-32" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportFolder" vertex="1">
+          <mxGeometry height="30" width="160" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-35" parent="zsRd20rAmreD_-WHkMvg-32" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="RawXML" vertex="1">
+          <mxGeometry height="30" width="160" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-41" parent="zsRd20rAmreD_-WHkMvg-32" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Status" vertex="1">
+          <mxGeometry height="30" width="160" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-46" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="230" y="2576" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-48" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Start" vertex="1">
+          <mxGeometry height="33" width="86" x="270" y="2573" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-49" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="230" y="2853" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-50" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Start" vertex="1">
+          <mxGeometry height="33" width="86" x="270" y="2850" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-51" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="230" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-52" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.magnifying_glass;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="28" width="30" x="280" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-53" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Verifies data before import&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="320" y="2800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
