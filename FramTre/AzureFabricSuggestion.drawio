@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="4244" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="4078" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -588,8 +588,17 @@
         <mxCell id="zsRd20rAmreD_-WHkMvg-3" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Azure Function" vertex="1">
           <mxGeometry height="460" width="120" x="120" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-6" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Sette inn i Staging&lt;br&gt;Python" vertex="1">
+        <mxCell id="zsRd20rAmreD_-WHkMvg-6" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Sette inn i Staging&lt;br&gt;Python" vertex="1">
           <mxGeometry height="48" width="100" x="10" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-18" edge="1" parent="zsRd20rAmreD_-WHkMvg-3" source="zsRd20rAmreD_-WHkMvg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-15" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Batch 150 records&lt;br&gt;(hode)" vertex="1">
+          <mxGeometry height="48" width="100" x="9.999999999999545" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-16" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Batch 150 records&lt;br&gt;(linje)" vertex="1">
+          <mxGeometry height="48" width="100" x="9.999999999999545" y="290" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-4" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Postgre SQL" vertex="1">
           <mxGeometry height="460" width="120" x="240" y="20" as="geometry" />
@@ -614,6 +623,21 @@
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-14" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-17" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="ImportFolder" vertex="1">
+          <mxGeometry height="116" width="160" x="-534" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-20" parent="zsRd20rAmreD_-WHkMvg-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Id" vertex="1">
+          <mxGeometry height="30" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-21" parent="zsRd20rAmreD_-WHkMvg-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportFolder" vertex="1">
+          <mxGeometry height="30" width="160" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-22" parent="zsRd20rAmreD_-WHkMvg-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="160" y="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
