@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="4673" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="5183" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -739,6 +739,9 @@
             <mxPoint x="400" y="390" as="sourcePoint" />
             <mxPoint x="450" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-64" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Service_Bus.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Azure Service Bus" vertex="1">
+          <mxGeometry height="60" width="68" x="336" y="690.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
