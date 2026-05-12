@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="6860" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="4360" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -527,6 +527,9 @@
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-82" parent="RQRkZv34ZRFmdA0sen12-52" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Testing" vertex="1">
           <mxGeometry height="30" width="90" x="290" y="80.25" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-88" parent="RQRkZv34ZRFmdA0sen12-52" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#e1d5e7;strokeColor=#9673a6;" value="AmountAndDeductionAddition" vertex="1">
+          <mxGeometry height="30" width="150" x="290" y="140" as="geometry" />
         </mxCell>
         <mxCell id="RQRkZv34ZRFmdA0sen12-53" parent="RQRkZv34ZRFmdA0sen12-51" style="swimlane;startSize=20;horizontal=0;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;strokeColor=#d79b00;fillColor=#ffe6cc;" value="&lt;span&gt;ADF&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="1310" x="20" y="200" as="geometry" />
