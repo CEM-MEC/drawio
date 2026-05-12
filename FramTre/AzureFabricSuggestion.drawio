@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="6487" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="4673" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -588,7 +588,7 @@
         <mxCell id="zsRd20rAmreD_-WHkMvg-3" parent="zsRd20rAmreD_-WHkMvg-1" style="swimlane;startSize=20;html=1;" value="Azure Function" vertex="1">
           <mxGeometry height="460" width="120" x="120" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="zsRd20rAmreD_-WHkMvg-6" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Sette inn i Staging&lt;br&gt;Python" vertex="1">
+        <mxCell id="zsRd20rAmreD_-WHkMvg-6" parent="zsRd20rAmreD_-WHkMvg-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Parse XML" vertex="1">
           <mxGeometry height="48" width="100" x="10" y="180" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-18" edge="1" parent="zsRd20rAmreD_-WHkMvg-3" source="zsRd20rAmreD_-WHkMvg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-16">
@@ -610,10 +610,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-36" parent="zsRd20rAmreD_-WHkMvg-4" style="rounded=1;whiteSpace=wrap;html=1;" value="ImportFolder" vertex="1">
-          <mxGeometry height="32" width="100" x="9.999999999999545" y="64" as="geometry" />
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="68" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-37" parent="zsRd20rAmreD_-WHkMvg-4" style="rounded=1;whiteSpace=wrap;html=1;" value="ImportFile" vertex="1">
-          <mxGeometry height="32" width="100" x="9.999999999999545" y="110" as="geometry" />
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="112" as="geometry" />
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-9" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-8">
           <mxGeometry relative="1" as="geometry" />
@@ -627,6 +627,9 @@
         <mxCell id="zsRd20rAmreD_-WHkMvg-13" parent="zsRd20rAmreD_-WHkMvg-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Virtuell tabell" vertex="1">
           <mxGeometry height="32" width="100" x="14.999999999999545" y="244" as="geometry" />
         </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-60" parent="zsRd20rAmreD_-WHkMvg-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Timber Settlment" vertex="1">
+          <mxGeometry height="32" width="100" x="9.999999999999545" y="414" as="geometry" />
+        </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-14" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zsRd20rAmreD_-WHkMvg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -638,6 +641,14 @@
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-40" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zsRd20rAmreD_-WHkMvg-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-62" edge="1" parent="zsRd20rAmreD_-WHkMvg-1" source="zsRd20rAmreD_-WHkMvg-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="zsRd20rAmreD_-WHkMvg-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsRd20rAmreD_-WHkMvg-63" connectable="0" parent="zsRd20rAmreD_-WHkMvg-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Oppretter data" vertex="1">
+          <mxGeometry relative="1" x="0.0356" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zsRd20rAmreD_-WHkMvg-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="ImportFolder" vertex="1">
           <mxGeometry height="116" width="160" x="-534" y="2490" as="geometry" />
