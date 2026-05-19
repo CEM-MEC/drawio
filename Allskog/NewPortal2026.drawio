@@ -513,7 +513,7 @@
           <mxGeometry height="42" width="120" x="-754" y="2962" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-37" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Person" vertex="1">
-          <mxGeometry height="60" width="30" x="-703" y="3125" as="geometry" />
+          <mxGeometry height="60" width="30" x="-704" y="3124" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-38" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="hzf11AnsS7AYa_jm88e5-35">
           <mxGeometry relative="1" as="geometry" />
@@ -539,6 +539,9 @@
           <mxGeometry relative="1" x="0.7689" y="-4" as="geometry">
             <mxPoint x="-1" y="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hzf11AnsS7AYa_jm88e5-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Get Oldest Created Person&lt;br&gt;No need for default contact" vertex="1">
+          <mxGeometry height="30" width="158" x="-959.5" y="3252" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
