@@ -415,14 +415,14 @@
         <mxCell id="ij900ri0Qf05JgbwCxFD-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nat Gateway?&lt;br&gt;NSG?" vertex="1">
           <mxGeometry height="30" width="100" x="-1478" y="1571.6" as="geometry" />
         </mxCell>
-        <mxCell id="hzf11AnsS7AYa_jm88e5-3" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hzf11AnsS7AYa_jm88e5-4">
+        <mxCell id="hzf11AnsS7AYa_jm88e5-3" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="hzf11AnsS7AYa_jm88e5-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1238.2093023255813" y="3060.2093023255816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzf11AnsS7AYa_jm88e5-31" connectable="0" parent="hzf11AnsS7AYa_jm88e5-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="jostein@skog.no" vertex="1">
+        <mxCell id="hzf11AnsS7AYa_jm88e5-31" connectable="0" parent="hzf11AnsS7AYa_jm88e5-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="jostein@skog.no&lt;br&gt;99955999" vertex="1">
           <mxGeometry relative="1" x="0.5924" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-7" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hzf11AnsS7AYa_jm88e5-5">
@@ -467,7 +467,7 @@
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-33" connectable="0" parent="hzf11AnsS7AYa_jm88e5-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="konatiljostein@skog.no" vertex="1">
           <mxGeometry relative="1" x="0.7031" y="-2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forretnigsforbindelse" vertex="1">
@@ -513,7 +513,7 @@
           <mxGeometry height="42" width="120" x="-754" y="2962" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-37" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Person" vertex="1">
-          <mxGeometry height="60" width="30" x="-703" y="3117" as="geometry" />
+          <mxGeometry height="60" width="30" x="-703" y="3125" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-38" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="hzf11AnsS7AYa_jm88e5-35">
           <mxGeometry relative="1" as="geometry" />
@@ -537,7 +537,7 @@
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-44" connectable="0" parent="hzf11AnsS7AYa_jm88e5-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="regnskapsforer@email.no" vertex="1">
           <mxGeometry relative="1" x="0.7689" y="-4" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
