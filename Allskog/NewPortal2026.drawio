@@ -549,7 +549,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Get Oldest Created Person&lt;br&gt;No need for default contact" vertex="1">
-          <mxGeometry height="30" width="158" x="-959.5" y="3252" as="geometry" />
+          <mxGeometry height="30" width="158" x="-949" y="3258" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
