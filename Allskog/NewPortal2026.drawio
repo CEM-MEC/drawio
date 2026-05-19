@@ -453,7 +453,7 @@
         <mxCell id="hzf11AnsS7AYa_jm88e5-14" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hzf11AnsS7AYa_jm88e5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hzf11AnsS7AYa_jm88e5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kontakt 2" vertex="1">
+        <mxCell id="hzf11AnsS7AYa_jm88e5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kontakt 2&lt;br&gt;(Kona)" vertex="1">
           <mxGeometry height="42" width="120" x="-1223" y="3026" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-13" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hzf11AnsS7AYa_jm88e5-10">
@@ -506,20 +506,37 @@
         <mxCell id="hzf11AnsS7AYa_jm88e5-34" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hzf11AnsS7AYa_jm88e5-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hzf11AnsS7AYa_jm88e5-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kontakt 4" vertex="1">
-          <mxGeometry height="42" width="120" x="-780" y="3026" as="geometry" />
+        <mxCell id="hzf11AnsS7AYa_jm88e5-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kontakt 5" vertex="1">
+          <mxGeometry height="42" width="120" x="-754" y="3026" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forretnigsforbindelse" vertex="1">
-          <mxGeometry height="42" width="120" x="-780" y="2962" as="geometry" />
+          <mxGeometry height="42" width="120" x="-754" y="2962" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-37" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Person" vertex="1">
-          <mxGeometry height="60" width="30" x="-730" y="3128" as="geometry" />
+          <mxGeometry height="60" width="30" x="-703" y="3117" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-38" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="hzf11AnsS7AYa_jm88e5-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hzf11AnsS7AYa_jm88e5-39" connectable="0" parent="hzf11AnsS7AYa_jm88e5-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="jostein@skog.no" vertex="1">
           <mxGeometry relative="1" x="-0.0915" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzf11AnsS7AYa_jm88e5-40" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hzf11AnsS7AYa_jm88e5-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzf11AnsS7AYa_jm88e5-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kontakt 4" vertex="1">
+          <mxGeometry height="42" width="120" x="-936" y="3026" as="geometry" />
+        </mxCell>
+        <mxCell id="hzf11AnsS7AYa_jm88e5-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forretnigsforbindelse" vertex="1">
+          <mxGeometry height="42" width="120" x="-936" y="2962" as="geometry" />
+        </mxCell>
+        <mxCell id="hzf11AnsS7AYa_jm88e5-43" edge="1" parent="1" source="hzf11AnsS7AYa_jm88e5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.585;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="hzf11AnsS7AYa_jm88e5-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzf11AnsS7AYa_jm88e5-44" connectable="0" parent="hzf11AnsS7AYa_jm88e5-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="regnskapsforer@email.no" vertex="1">
+          <mxGeometry relative="1" x="0.7689" y="-4" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
