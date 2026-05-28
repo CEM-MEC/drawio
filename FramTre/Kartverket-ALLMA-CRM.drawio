@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="BotAKa2tyzWGanlXmbeN">
-    <mxGraphModel dx="1981" dy="2254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="1758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="xipfw7xNsbWfEUssv10E-11" edge="1" parent="1" source="xipfw7xNsbWfEUssv10E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" target="xipfw7xNsbWfEUssv10E-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xipfw7xNsbWfEUssv10E-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Eiendom (CRM)" vertex="1">
+        <mxCell id="xipfw7xNsbWfEUssv10E-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Eiendom (CRM)" vertex="1">
           <mxGeometry height="116" width="160" x="340" y="153" as="geometry" />
         </mxCell>
         <mxCell id="xipfw7xNsbWfEUssv10E-6" parent="xipfw7xNsbWfEUssv10E-5" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Eiendomid" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="xipfw7xNsbWfEUssv10E-35" edge="1" parent="1" source="xipfw7xNsbWfEUssv10E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="xipfw7xNsbWfEUssv10E-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xipfw7xNsbWfEUssv10E-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Matrikkelenhet" vertex="1">
+        <mxCell id="xipfw7xNsbWfEUssv10E-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="Matrikkelenhet" vertex="1">
           <mxGeometry height="116" width="160" x="340" y="341" as="geometry" />
         </mxCell>
         <mxCell id="xipfw7xNsbWfEUssv10E-14" parent="xipfw7xNsbWfEUssv10E-12" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="MatrikkelId" vertex="1">
@@ -160,32 +160,32 @@
         <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-37" edge="1" parent="1" source="Rb3jv_cV7C8R9ZPWmrSo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Rb3jv_cV7C8R9ZPWmrSo-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eiendom" vertex="1">
+        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Eiendom" vertex="1">
           <mxGeometry height="39" width="120" x="965" y="347" as="geometry" />
         </mxCell>
         <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-34" edge="1" parent="1" source="Rb3jv_cV7C8R9ZPWmrSo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Rb3jv_cV7C8R9ZPWmrSo-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eiendom" vertex="1">
+        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Eiendom" vertex="1">
           <mxGeometry height="39" width="120" x="1149" y="347" as="geometry" />
         </mxCell>
         <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-40" edge="1" parent="1" source="Rb3jv_cV7C8R9ZPWmrSo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Rb3jv_cV7C8R9ZPWmrSo-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eiendom" vertex="1">
+        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Eiendom" vertex="1">
           <mxGeometry height="39" width="120" x="1410.5" y="353" as="geometry" />
         </mxCell>
-        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Matrikkelenhet&lt;br&gt;Tom" vertex="1">
+        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Matrikkelenhet&lt;br&gt;Tom" vertex="1">
           <mxGeometry height="39" width="120" x="891" y="473" as="geometry" />
         </mxCell>
-        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Matrikkelenhet&lt;br&gt;Tom" vertex="1">
+        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Matrikkelenhet&lt;br&gt;Tom" vertex="1">
           <mxGeometry height="39" width="120" x="1023" y="473" as="geometry" />
         </mxCell>
-        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Matrikkelenhet&lt;br&gt;Tom/Olav" vertex="1">
+        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Matrikkelenhet&lt;br&gt;Tom/Olav" vertex="1">
           <mxGeometry height="39" width="120" x="1155" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Matrikkelenhet&lt;br&gt;Olav" vertex="1">
-          <mxGeometry height="39" width="120" x="1399.5" y="483" as="geometry" />
+        <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Matrikkelenhet&lt;br&gt;Olav" vertex="1">
+          <mxGeometry height="39" width="120" x="1410.5" y="473" as="geometry" />
         </mxCell>
         <mxCell id="Rb3jv_cV7C8R9ZPWmrSo-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forretningsforbindelse" vertex="1">
           <mxGeometry height="40" width="145" x="1226" y="261" as="geometry" />
@@ -193,8 +193,20 @@
         <mxCell id="HWRlUolUevb7EG3PThkz-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. Skal vi hente fra Allma eller Matrikkelen&lt;/h1&gt;&lt;p&gt;- Sjekk&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="642" x="120" y="732" as="geometry" />
         </mxCell>
-        <mxCell id="HWRlUolUevb7EG3PThkz-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;- Sjekk om han har lov til å hogge&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Sjekk om han er eier av eiendommen.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Holde data oppdatert&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Hvis eier skal endres.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Fullmakter&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Signaturrett&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="HWRlUolUevb7EG3PThkz-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;- Sjekk om han har lov til å hogge&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Sjekk om han er eier av eiendommen.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Holde data oppdatert&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Hvis eier skal endres.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Fullmakter&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Signaturrett&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Når de bestiller tilgang og allma oppdrag - Sørge for at data er riktig og oppdatert&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="296" width="475" x="1081" y="648" as="geometry" />
+        </mxCell>
+        <mxCell id="HWRlUolUevb7EG3PThkz-3" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="Allma Matrikkel CRM" vertex="1">
+          <mxGeometry height="140" width="975" x="155" y="932" as="geometry" />
+        </mxCell>
+        <mxCell id="HWRlUolUevb7EG3PThkz-4" parent="HWRlUolUevb7EG3PThkz-3" style="swimlane;startSize=20;horizontal=0;html=1;" value="Fase 1" vertex="1">
+          <mxGeometry height="120" width="975" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HWRlUolUevb7EG3PThkz-7" parent="HWRlUolUevb7EG3PThkz-4" style="rounded=1;whiteSpace=wrap;html=1;" value="Undersøkelse:&amp;nbsp;&lt;br&gt;Allma eller Matrikkel" vertex="1">
+          <mxGeometry height="45" width="121" x="62" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="HWRlUolUevb7EG3PThkz-8" parent="HWRlUolUevb7EG3PThkz-4" style="rounded=1;whiteSpace=wrap;html=1;" value="Definere tabellstruktur&lt;br&gt;Matrikkelenhet og Eierforhold" vertex="1">
+          <mxGeometry height="61" width="161" x="324" y="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
