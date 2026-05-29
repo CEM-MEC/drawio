@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="87MAbD0vSYiB1wZmWBJy">
-    <mxGraphModel dx="3585" dy="923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3321" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,10 +215,10 @@
           <mxGeometry height="20" width="690" x="-540" y="528.6" as="geometry" />
         </mxCell>
         <mxCell id="ij900ri0Qf05JgbwCxFD-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="10.06 Allskog begynner å teste" vertex="1">
-          <mxGeometry height="20" width="554" x="-114" y="572.6" as="geometry" />
+          <mxGeometry height="20" width="554" x="-114" y="586" as="geometry" />
         </mxCell>
         <mxCell id="ij900ri0Qf05JgbwCxFD-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Bugfixing" vertex="1">
-          <mxGeometry height="20" width="680" x="-240" y="610" as="geometry" />
+          <mxGeometry height="20" width="680" x="-240" y="623.4" as="geometry" />
         </mxCell>
         <mxCell id="ij900ri0Qf05JgbwCxFD-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Design / UI" vertex="1">
           <mxGeometry height="20" width="554" x="-800" y="445.6" as="geometry" />
@@ -558,7 +558,10 @@
           <mxGeometry height="19.6" width="785" x="-346" y="504.8" as="geometry" />
         </mxCell>
         <mxCell id="3tTpDqVqKfAU_9wk4KS6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="28.05 Design sendes over til Allskog" vertex="1">
-          <mxGeometry height="31" width="128" x="-252" y="565.6" as="geometry" />
+          <mxGeometry height="31" width="128" x="-252" y="579" as="geometry" />
+        </mxCell>
+        <mxCell id="utJoik8NpYItBHoTXAYW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=8;" value="Allskog oppretter ContentBlock tabell" vertex="1">
+          <mxGeometry height="30.5" width="77" x="-114" y="552.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
