@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="BotAKa2tyzWGanlXmbeN">
-    <mxGraphModel dx="3261" dy="1403" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3813" dy="1843" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HWRlUolUevb7EG3PThkz-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="353" width="792" x="-458" y="1699" as="geometry" />
+          <mxGeometry height="353" width="792" x="-317" y="1624" as="geometry" />
         </mxCell>
         <mxCell id="xipfw7xNsbWfEUssv10E-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Matrikkel (Virtuell)" vertex="1">
           <mxGeometry height="116" width="160" x="55" y="153.5" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWRlUolUevb7EG3PThkz-35" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Matrikkel" vertex="1">
-          <mxGeometry height="80" width="60" x="-300" y="1488" as="geometry" />
+          <mxGeometry height="80" width="60" x="-159" y="1413" as="geometry" />
         </mxCell>
         <mxCell id="HWRlUolUevb7EG3PThkz-42" edge="1" parent="1" source="HWRlUolUevb7EG3PThkz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#7EA6E0;" target="HWRlUolUevb7EG3PThkz-40">
           <mxGeometry relative="1" as="geometry" />
@@ -266,16 +266,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWRlUolUevb7EG3PThkz-36" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="Allma" vertex="1">
-          <mxGeometry height="80" width="60" x="-119" y="1583" as="geometry" />
+          <mxGeometry height="80" width="60" x="22" y="1508" as="geometry" />
         </mxCell>
         <mxCell id="HWRlUolUevb7EG3PThkz-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Verdana;" value="FramTres tenant" vertex="1">
-          <mxGeometry height="30" width="136" x="-452" y="1706" as="geometry" />
+          <mxGeometry height="30" width="136" x="-311" y="1631" as="geometry" />
         </mxCell>
         <mxCell id="HWRlUolUevb7EG3PThkz-40" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="" vertex="1">
-          <mxGeometry height="72" width="54" x="-115" y="1742" as="geometry" />
+          <mxGeometry height="72" width="54" x="26" y="1667" as="geometry" />
         </mxCell>
         <mxCell id="HWRlUolUevb7EG3PThkz-41" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/Dataverse.svg;" value="" vertex="1">
-          <mxGeometry height="52.400000000000006" width="68" x="74" y="1876" as="geometry" />
+          <mxGeometry height="52.400000000000006" width="68" x="215" y="1801" as="geometry" />
         </mxCell>
         <mxCell id="HWRlUolUevb7EG3PThkz-44" edge="1" parent="1" source="HWRlUolUevb7EG3PThkz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.444;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=#7EA6E0;" target="HWRlUolUevb7EG3PThkz-41">
           <mxGeometry relative="1" as="geometry" />
@@ -544,6 +544,9 @@
           <mxGeometry height="30" width="342.29411764705856" x="861.4915966386559" as="geometry">
             <mxRectangle height="30" width="342.29411764705856" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2LrOzEbfrmLZBT6MeJz--111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="NYTT NAVN PÅ EIENDOM&lt;br&gt;Matrikkelområde&lt;div&gt;Skogeiers område&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Eiendomsområde -&amp;gt; Matrikkelområde&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="83" width="203" x="105" y="842" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
