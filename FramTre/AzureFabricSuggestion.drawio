@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="6527" dy="2819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="light-dark(#f0f0f0, #97bcf1)" math="0" shadow="0">
+    <mxGraphModel dx="5621" dy="2379" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -547,8 +547,8 @@
         <mxCell id="zsRd20rAmreD_-WHkMvg-85" edge="1" parent="1" source="zsRd20rAmreD_-WHkMvg-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#ffffff, #ededed);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="eDr1L0SSq1wsrKZtdCsi-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3iarBlg0cVlMuzxkvQDd-1" parent="1" style="text;whiteSpace=wrap;html=1;rounded=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Throttling i Fabric...feil håndtering&lt;br&gt;Activity pointer&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="210" x="224" y="1940" as="geometry" />
+        <mxCell id="3iarBlg0cVlMuzxkvQDd-1" parent="1" style="text;whiteSpace=wrap;html=1;rounded=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Husk&lt;br&gt;Throttling i Fabric...feil håndtering&lt;br&gt;Activity pointer&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="-584" y="2067" as="geometry" />
         </mxCell>
         <mxCell id="3iarBlg0cVlMuzxkvQDd-3" edge="1" parent="1" source="3iarBlg0cVlMuzxkvQDd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="eDr1L0SSq1wsrKZtdCsi-71">
           <mxGeometry relative="1" as="geometry">
