@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="zc9wllA4BAGigOI4BDfc">
-    <mxGraphModel dx="632" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1317" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,40 +104,40 @@
           <mxGeometry height="30" width="130" x="550" y="730" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="270" width="490" x="900" y="1010" as="geometry" />
+          <mxGeometry height="270" width="490" x="150" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="940" y="1090" as="geometry" />
+          <mxGeometry height="80" width="80" x="190" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-40" parent="1" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" value="" vertex="1">
-          <mxGeometry height="33" width="41.25" x="964.38" y="1113.5" as="geometry" />
+          <mxGeometry height="33" width="41.25" x="214.38" y="1123.5" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=51;" value="Alt er ok!" vertex="1">
-          <mxGeometry height="180" width="230" x="1060" y="1040" as="geometry" />
+          <mxGeometry height="180" width="230" x="310" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="270" width="490" x="900" y="1340" as="geometry" />
+          <mxGeometry height="270" width="490" x="150" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;Mangler forretningsforbindelse&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="320" x="1053" y="1357" as="geometry" />
+          <mxGeometry height="80" width="320" x="303" y="1367" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-46" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#f8cecc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Part_1-2567/9-Cancel-1378.svg;strokeColor=#0011FF;labelBorderColor=#b85450;fillColor=#6DFF9E;fontColor=light-dark(#000000,#5162FF);" value="" vertex="1">
-          <mxGeometry height="112" width="112" x="929" y="1404" as="geometry" />
+          <mxGeometry height="112" width="112" x="179" y="1414" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Gå inn på kontakten og vel forretningsforbindelse.&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Gå til kontakten her&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="320" x="1060" y="1391" as="geometry" />
+          <mxGeometry height="80" width="320" x="310" y="1401" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-50" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;strokeColor=#0080f0;" value="" vertex="1">
-          <mxGeometry height="12" width="6" x="1053" y="1391" as="geometry" />
+          <mxGeometry height="12" width="6" x="303" y="1401" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;Alle har ikke signert&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="320" x="1060" y="1445" as="geometry" />
+          <mxGeometry height="80" width="320" x="310" y="1455" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Gå til taben &quot;Signaturer&quot; for å se mer.&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Gå til kontakten her&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="320" x="1060" y="1479" as="geometry" />
+          <mxGeometry height="80" width="320" x="310" y="1489" as="geometry" />
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-53" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;strokeColor=#0080f0;" value="" vertex="1">
-          <mxGeometry height="12" width="6" x="1046" y="1479" as="geometry" />
+          <mxGeometry height="12" width="6" x="296" y="1489" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
