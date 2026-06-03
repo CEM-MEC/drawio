@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="zc9wllA4BAGigOI4BDfc">
-    <mxGraphModel dx="1317" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,6 +138,33 @@
         </mxCell>
         <mxCell id="roehJRH04m8BwywNVQlg-53" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;strokeColor=#0080f0;" value="" vertex="1">
           <mxGeometry height="12" width="6" x="296" y="1489" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Details (batch)" vertex="1">
+          <mxGeometry height="60" width="120" x="1583" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-9" edge="1" parent="1" source="TJBaD-beFG-yKQn4A85M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TJBaD-beFG-yKQn4A85M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Supplypoint" vertex="1">
+          <mxGeometry height="60" width="120" x="1757" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-5" edge="1" parent="1" source="TJBaD-beFG-yKQn4A85M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TJBaD-beFG-yKQn4A85M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-6" edge="1" parent="1" source="TJBaD-beFG-yKQn4A85M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TJBaD-beFG-yKQn4A85M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-7" edge="1" parent="1" source="TJBaD-beFG-yKQn4A85M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TJBaD-beFG-yKQn4A85M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contract" vertex="1">
+          <mxGeometry height="60" width="120" x="1575" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Map elements" vertex="1">
+          <mxGeometry height="60" width="120" x="1409" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="TJBaD-beFG-yKQn4A85M-8" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Logic_Apps.svg;" value="" vertex="1">
+          <mxGeometry height="68" width="68" x="1783" y="908" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
