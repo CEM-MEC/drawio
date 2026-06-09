@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eDr1L0SSq1wsrKZtdCsi-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#000000;align=center;strokeColor=#FFFFFF;verticalAlign=bottom;" value="Data Factory" vertex="1">
-          <mxGeometry height="59" width="151" x="718.5" y="517.88" as="geometry" />
+          <mxGeometry height="59" width="199.5" x="718.5" y="517.88" as="geometry" />
         </mxCell>
         <mxCell id="eDr1L0SSq1wsrKZtdCsi-8" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;rounded=1;" value="" vertex="1">
           <mxGeometry height="32" width="32" x="729.5" y="524.88" as="geometry" />
