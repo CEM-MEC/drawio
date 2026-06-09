@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="5522" dy="2280" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5680" dy="4168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -589,7 +589,7 @@
         <mxCell id="blQbrBCKxodhvlSzif8Y-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#dae8fc;fontSize=12;align=center;strokeColor=#6c8ebf;arcSize=3;gradientColor=#7ea6e0;" value="" vertex="1">
           <mxGeometry height="100" width="111" x="678.5" y="974.5" as="geometry" />
         </mxCell>
-        <mxCell id="blQbrBCKxodhvlSzif8Y-20" edge="1" parent="1" source="blQbrBCKxodhvlSzif8Y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eDr1L0SSq1wsrKZtdCsi-72">
+        <mxCell id="blQbrBCKxodhvlSzif8Y-20" edge="1" parent="1" source="blQbrBCKxodhvlSzif8Y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#ffffff, #ededed);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="eDr1L0SSq1wsrKZtdCsi-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="blQbrBCKxodhvlSzif8Y-12" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;rounded=1;" value="Azure Keyvault" vertex="1">
