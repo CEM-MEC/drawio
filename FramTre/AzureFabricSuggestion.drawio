@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="7735" dy="3615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5009" dy="1992" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -621,6 +621,21 @@
         </mxCell>
         <mxCell id="blQbrBCKxodhvlSzif8Y-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#000000;align=center;strokeColor=#FFFFFF;verticalAlign=middle;" value="MS SQL" vertex="1">
           <mxGeometry height="46" width="170" x="-1634" y="713.75" as="geometry" />
+        </mxCell>
+        <mxCell id="blQbrBCKxodhvlSzif8Y-24" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;" value="" vertex="1">
+          <mxGeometry height="100" width="812" x="-498" y="-912" as="geometry" />
+        </mxCell>
+        <mxCell id="blQbrBCKxodhvlSzif8Y-25" parent="blQbrBCKxodhvlSzif8Y-24" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;" value="&lt;b&gt;Slette unødvendige data&lt;/b&gt;" vertex="1">
+          <mxGeometry height="57" width="170" x="10" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="blQbrBCKxodhvlSzif8Y-26" parent="blQbrBCKxodhvlSzif8Y-24" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;" value="&lt;b&gt;Rydde opp i eksisterende&lt;/b&gt;" vertex="1">
+          <mxGeometry height="57" width="293" x="168" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="blQbrBCKxodhvlSzif8Y-27" parent="blQbrBCKxodhvlSzif8Y-24" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;" value="&lt;div&gt;&lt;b&gt;Gjøre det enhetlig&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57" width="179" x="449" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="blQbrBCKxodhvlSzif8Y-28" parent="blQbrBCKxodhvlSzif8Y-24" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;" value="&lt;b&gt;Utvide funksjonalitet&lt;/b&gt;" vertex="1">
+          <mxGeometry height="57" width="186" x="616" y="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
