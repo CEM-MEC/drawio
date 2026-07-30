@@ -8,7 +8,7 @@
           <mxGeometry height="26" width="56" x="-1855" y="-3538" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-191" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#dae8fc;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;" value="ctg_survey (Undersøkelse)" vertex="1">
-          <mxGeometry height="244" width="300" x="-1501" y="-2550" as="geometry" />
+          <mxGeometry height="343" width="300" x="-1501" y="-2597" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-192" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_surveyid&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;GUID&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="34" as="geometry" />
@@ -28,8 +28,17 @@
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-197" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_validto&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;Date and time&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="184" as="geometry" />
         </mxCell>
-        <mxCell id="Xh6_ywg2XG-sg3yolRrn-198" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_completionmessage&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-285" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_completionmessage&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="214" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-286" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_notification&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:10px;opacity:0.65&quot;&gt;Multiple Choice: Blank / Notify on email / Notify on SMS&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="300" y="244" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-198" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_smstext&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="300" y="274" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-287" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_emailtext&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="300" y="304" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-199" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#d5e8d4;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;fontColor=light-dark(#000000,#EDEDED);" value="ctg_surveyquestion (Spørsmål)" vertex="1">
           <mxGeometry height="329" width="320" x="-1138.73" y="-2592" as="geometry" />
@@ -261,8 +270,32 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xh6_ywg2XG-sg3yolRrn-275" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=14;fontColor=#666666;" value="&lt;span style=&quot;font-weight: 700; white-space: nowrap;&quot;&gt;Not needed for now, but could be nice to have later&lt;/span&gt;" vertex="1">
-          <mxGeometry height="29" width="357" x="-759" y="-2549" as="geometry" />
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-275" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=14;fontColor=#666666;" value="&lt;span style=&quot;font-weight: 700; white-space: nowrap;&quot;&gt;Ikke behov for akkurat nå, men vil kunne være fint til senere.&lt;br&gt;Da denne tabellen gir muligheter til å gi tekst som alternativ.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46" width="420" x="-776" y="-2586" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-276" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;" value="Prosessen" vertex="1">
+          <mxGeometry height="123" width="816" x="-1500" y="-2800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-282" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=none;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Status på Tømmerkontrakt&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;endres&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="134" x="10" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-288" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=none;fontColor=#ffffff;size=-92;" value="" vertex="1">
+          <mxGeometry height="80" width="28" x="132" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-283" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=none;fontColor=#ffffff;size=13;" value="" vertex="1">
+          <mxGeometry height="80" width="28" x="148" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-278" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Power Automate &lt;br&gt;oppretter&lt;br&gt;ctg_surveyresponse" vertex="1">
+          <mxGeometry height="80" width="156" x="164" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-279" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Power Automate&lt;br&gt;sender ut &lt;br&gt;SMS og/eller e-post" vertex="1">
+          <mxGeometry height="80" width="144.77" x="308" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-280" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Portalen oppretter&lt;div&gt;ctg_surveyquestionresponse&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="197.23" x="440.77" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-281" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Portalen setter &lt;br&gt;Fullført dato og status på ctg_surveyresponse" vertex="1">
+          <mxGeometry height="80" width="180" x="626" y="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
