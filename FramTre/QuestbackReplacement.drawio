@@ -8,7 +8,7 @@
           <mxGeometry height="26" width="56" x="-1855" y="-3538" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-191" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#dae8fc;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;" value="ctg_survey (Undersøkelse)" vertex="1">
-          <mxGeometry height="366" width="300" x="-1501" y="-2597" as="geometry" />
+          <mxGeometry height="394" width="300" x="-1501" y="-2597" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-192" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_surveyid&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;GUID&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="34" as="geometry" />
@@ -43,6 +43,9 @@
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-289" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_notificationsentdate&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Date and time&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="334" as="geometry" />
         </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-297" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg__allowmultipleresponses&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;True/False&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="300" y="364" as="geometry" />
+        </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-199" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;" value="ctg_surveyquestion (Spørsmål)" vertex="1">
           <mxGeometry height="329" width="320" x="-1138.73" y="-2579" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-203" parent="Xh6_ywg2XG-sg3yolRrn-199" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_questiontext&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="320" y="124" as="geometry" />
         </mxCell>
-        <mxCell id="Xh6_ywg2XG-sg3yolRrn-204" parent="Xh6_ywg2XG-sg3yolRrn-199" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_questiontype&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;Choice: Free Text / Single Choice / Multiple Choice / Scale&lt;/span&gt;" vertex="1">
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-204" parent="Xh6_ywg2XG-sg3yolRrn-199" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_questiontype&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:10px;opacity:0.65&quot;&gt;Choice: Free Text / Single Choice / Multiple Choice / Scale / Number?&lt;/span&gt;" vertex="1">
           <mxGeometry height="46" width="320" y="154" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-205" parent="Xh6_ywg2XG-sg3yolRrn-199" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_required&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;Yes/No&lt;/span&gt;" vertex="1">
