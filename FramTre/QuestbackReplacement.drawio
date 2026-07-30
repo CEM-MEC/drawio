@@ -8,7 +8,7 @@
           <mxGeometry height="26" width="56" x="-1855" y="-3538" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-191" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#dae8fc;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;" value="ctg_survey (Undersøkelse)" vertex="1">
-          <mxGeometry height="343" width="300" x="-1501" y="-2597" as="geometry" />
+          <mxGeometry height="366" width="300" x="-1501" y="-2597" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-192" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_surveyid&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;GUID&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="34" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-285" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_completionmessage&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="214" as="geometry" />
         </mxCell>
-        <mxCell id="Xh6_ywg2XG-sg3yolRrn-286" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_notification&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:10px;opacity:0.65&quot;&gt;Multiple Choice: Blank / Notify on email / Notify on SMS&lt;/span&gt;" vertex="1">
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-286" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_notificationmethod&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:10px;opacity:0.65&quot;&gt;Choice: Blank / Email / SMS / Email and SMS&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="244" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-198" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_smstext&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
@@ -40,8 +40,11 @@
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-287" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_emailtext&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Multiple text lines&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="304" as="geometry" />
         </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-289" parent="Xh6_ywg2XG-sg3yolRrn-191" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_notificationsentdate&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Date and time&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="300" y="334" as="geometry" />
+        </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-199" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#d5e8d4;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;fontColor=light-dark(#000000,#EDEDED);" value="ctg_surveyquestion (Spørsmål)" vertex="1">
-          <mxGeometry height="329" width="320" x="-1138.73" y="-2592" as="geometry" />
+          <mxGeometry height="329" width="320" x="-1138.73" y="-2579" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-200" parent="Xh6_ywg2XG-sg3yolRrn-199" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_surveyquestionid&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;GUID&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="320" y="34" as="geometry" />
@@ -71,7 +74,7 @@
           <mxGeometry height="30" width="320" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-209" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#ffe6cc;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;" value="ctg_surveyansweroption (Svaralternativ)" vertex="1">
-          <mxGeometry height="184" width="300" x="-733.29" y="-2520" as="geometry" />
+          <mxGeometry height="184" width="300" x="-733.29" y="-2506" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-210" parent="Xh6_ywg2XG-sg3yolRrn-209" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_surveyansweroptionid&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;GUID&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" y="34" as="geometry" />
@@ -89,7 +92,7 @@
           <mxGeometry height="30" width="300" y="154" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-215" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#e1d5e7;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;" value="ctg_surveyresponse (Undersøkelsesbesvarelse)" vertex="1">
-          <mxGeometry height="331.06" width="320" x="-1509.5" y="-2214.06" as="geometry" />
+          <mxGeometry height="331.06" width="320" x="-1510.5" y="-2190.06" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-216" parent="Xh6_ywg2XG-sg3yolRrn-215" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_surveyresponseid&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;GUID&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="320" y="34" as="geometry" />
@@ -119,7 +122,7 @@
           <mxGeometry height="30" width="320" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-227" parent="1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;fillColor=#cce5ff;strokeColor=#666666;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;rounded=1;" value="ctg_surveyquestionresponse (Spørsmålssvar)" vertex="1">
-          <mxGeometry height="244" width="320" x="-1138.73" y="-2170.24" as="geometry" />
+          <mxGeometry height="244" width="320" x="-1138.73" y="-2146.24" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-228" parent="Xh6_ywg2XG-sg3yolRrn-227" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];overflow=hidden;whiteSpace=wrap;fontSize=12;spacingLeft=10;spacingRight=6;fillColor=#ffffff;" value="&lt;b&gt;ctg_surveyquestionresponseid&lt;/b&gt;&lt;br/&gt;&lt;span style=&#39;font-size:10px;opacity:0.65&#39;&gt;GUID&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="320" y="34" as="geometry" />
@@ -140,13 +143,13 @@
           <mxGeometry height="30" width="320" y="184" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-239" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" value="Tømmerkontrakt (existing table)" vertex="1">
-          <mxGeometry height="70" width="180" x="-1500.5" y="-1694" as="geometry" />
+          <mxGeometry height="70" width="180" x="-1500.5" y="-1771" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-240" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" value="Account (existing table)" vertex="1">
-          <mxGeometry height="70" width="180" x="-1280.5" y="-1694" as="geometry" />
+          <mxGeometry height="70" width="180" x="-1280.5" y="-1771" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-241" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" value="Contact (existing table)" vertex="1">
-          <mxGeometry height="70" width="180" x="-1060.5" y="-1694" as="geometry" />
+          <mxGeometry height="70" width="180" x="-1060.5" y="-1771" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-242" edge="1" parent="1" source="Xh6_ywg2XG-sg3yolRrn-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="Xh6_ywg2XG-sg3yolRrn-199" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -184,7 +187,7 @@
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-250" connectable="0" parent="Xh6_ywg2XG-sg3yolRrn-248" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="*" vertex="1">
           <mxGeometry relative="1" x="0.8" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-251" edge="1" parent="1" source="Xh6_ywg2XG-sg3yolRrn-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="Xh6_ywg2XG-sg3yolRrn-227" value="">
@@ -197,7 +200,7 @@
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-253" connectable="0" parent="Xh6_ywg2XG-sg3yolRrn-251" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="*" vertex="1">
           <mxGeometry relative="1" x="0.8" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-254" edge="1" parent="1" source="Xh6_ywg2XG-sg3yolRrn-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="Xh6_ywg2XG-sg3yolRrn-227" value="">
@@ -210,14 +213,14 @@
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-256" connectable="0" parent="Xh6_ywg2XG-sg3yolRrn-254" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="*" vertex="1">
           <mxGeometry relative="1" x="0.8" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-263" edge="1" parent="1" source="Xh6_ywg2XG-sg3yolRrn-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="Xh6_ywg2XG-sg3yolRrn-239" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1349.5" y="-1765.17" />
-              <mxPoint x="-1410.5" y="-1765.17" />
+              <mxPoint x="-1349.5" y="-1820" />
+              <mxPoint x="-1410.5" y="-1820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -228,14 +231,14 @@
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-265" connectable="0" parent="Xh6_ywg2XG-sg3yolRrn-263" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="1" vertex="1">
           <mxGeometry relative="1" x="0.8" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-266" edge="1" parent="1" source="Xh6_ywg2XG-sg3yolRrn-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="Xh6_ywg2XG-sg3yolRrn-240" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1349.5" y="-1765.17" />
-              <mxPoint x="-1190.5" y="-1765.17" />
+              <mxPoint x="-1349.5" y="-1821" />
+              <mxPoint x="-1190.5" y="-1821" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -252,23 +255,20 @@
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-269" edge="1" parent="1" source="Xh6_ywg2XG-sg3yolRrn-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="Xh6_ywg2XG-sg3yolRrn-241" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1349.5" y="-1765" />
-              <mxPoint x="-970.56" y="-1765" />
+              <mxPoint x="-1349.5" y="-1821" />
+              <mxPoint x="-970.6" y="-1821" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-270" connectable="0" parent="Xh6_ywg2XG-sg3yolRrn-269" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="*" vertex="1">
           <mxGeometry relative="1" x="-0.8" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-271" connectable="0" parent="Xh6_ywg2XG-sg3yolRrn-269" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="1" vertex="1">
           <mxGeometry relative="1" x="0.8" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="22" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Xh6_ywg2XG-sg3yolRrn-275" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=14;fontColor=#666666;" value="&lt;span style=&quot;font-weight: 700; white-space: nowrap;&quot;&gt;Ikke behov for akkurat nå, men vil kunne være fint til senere.&lt;br&gt;Da denne tabellen gir muligheter til å gi tekst som alternativ.&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46" width="420" x="-776" y="-2586" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-276" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;" value="Prosessen (Bør vurderes ut i fra hvordan dette gjøres i dag)" vertex="1">
           <mxGeometry height="123" width="816" x="-1399" y="-2738" as="geometry" />
@@ -288,11 +288,14 @@
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-279" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Power Automate&lt;br&gt;sender ut &lt;br&gt;SMS og/eller e-post" vertex="1">
           <mxGeometry height="80" width="144.77" x="308" y="33" as="geometry" />
         </mxCell>
-        <mxCell id="Xh6_ywg2XG-sg3yolRrn-280" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Portalen oppretter&lt;div&gt;ctg_surveyquestionresponse&lt;/div&gt;" vertex="1">
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-280" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Portalen oppretter&lt;div&gt;ctg_surveyquestionresponse &lt;br&gt;i batch&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="197.23" x="440.77" y="33" as="geometry" />
         </mxCell>
         <mxCell id="Xh6_ywg2XG-sg3yolRrn-281" parent="Xh6_ywg2XG-sg3yolRrn-276" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Portalen setter &lt;br&gt;Fullført dato og status på ctg_surveyresponse" vertex="1">
           <mxGeometry height="80" width="180" x="626" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh6_ywg2XG-sg3yolRrn-290" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 11px; font-weight: 700; white-space: nowrap;&quot;&gt;Ikke behov for akkurat nå, men vil&lt;/span&gt;&lt;br style=&quot;color: rgb(102, 102, 102); font-size: 11px; font-weight: 700; white-space: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 11px; font-weight: 700; white-space: nowrap;&quot;&gt;kunne være fint til senere.&lt;/span&gt;&lt;br style=&quot;color: rgb(102, 102, 102); font-size: 11px; font-weight: 700; white-space: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 11px; font-weight: 700; white-space: nowrap;&quot;&gt;Da denne tabellen gir muligheter til å&lt;/span&gt;&lt;br style=&quot;color: rgb(102, 102, 102); font-size: 11px; font-weight: 700; white-space: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 11px; font-weight: 700; white-space: nowrap;&quot;&gt;gi tekst som alternativ.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="136.94" width="316" x="-733.29" y="-2317" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
