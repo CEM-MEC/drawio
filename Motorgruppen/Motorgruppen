@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="4598" dy="2708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2499" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,6 +205,108 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="glOyAyHKgjkXf0rJRs08-26" edge="1" parent="1" source="glOyAyHKgjkXf0rJRs08-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="glOyAyHKgjkXf0rJRs08-14" value="Nei – avvis / ignorer">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--1" parent="1" style="text;html=1;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;" value="Import og behandling av data fra OneDrive til Dynamics 365 / Dataverse" vertex="1">
+          <mxGeometry height="40" width="900" x="229" y="1549" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="1. Kilde – OneDrive" vertex="1">
+          <mxGeometry height="270" width="300" x="229" y="1609" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="OneDrive-mappe&#xa;/Import/Inbound" vertex="1">
+          <mxGeometry height="50" width="260" x="249" y="1649" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="4–6 filer (CSV/XLSX)&#xa;Fast filnavnmønster per kilde bestemmer&#xa;hvilken mapping som brukes" vertex="1">
+          <mxGeometry height="60" width="260" x="249" y="1719" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Arkivering etter kjøring&#xa;/Processed og /Failed" vertex="1">
+          <mxGeometry height="50" width="260" x="249" y="1799" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="2. Innlesing og staging" vertex="1">
+          <mxGeometry height="270" width="340" x="589" y="1609" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Power Automate&#xa;Trigger: fil opprettet/endret i mappe&#xa;(alt. planlagt kjøring)" vertex="1">
+          <mxGeometry height="60" width="300" x="609" y="1649" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Dataflow / Power Query&#xa;Les fil → normaliser, trim, valider&#xa;(format, obligatoriske felt, duplikater i fil)" vertex="1">
+          <mxGeometry height="60" width="300" x="609" y="1724" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Staging i Dataverse&#xa;Importbatch + Importrad&#xa;(rådata + normaliserte felt)" vertex="1">
+          <mxGeometry height="60" width="300" x="609" y="1799" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="3. Sammenligning og matching mot CRM" vertex="1">
+          <mxGeometry height="270" width="340" x="989" y="1609" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="Matcheregler per entitet" vertex="1">
+          <mxGeometry height="40" width="300" x="1009" y="1649" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=10;" value="Account: org.nr → navn + adresse&#xa;Contact: e-post → mobil → navn + adresse&#xa;Vehicle: VIN → registreringsnummer&#xa;Vehicle Owner: Vehicle + eier-referanse" vertex="1">
+          <mxGeometry height="80" width="300" x="1009" y="1699" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Resultat per rad: entydig match / usikker match /&#xa;ingen match (ny post) / ingen endring" vertex="1">
+          <mxGeometry height="60" width="300" x="1009" y="1799" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--14" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Sikker match og&#xa;endring som kan&#xa;behandles automatisk?" vertex="1">
+          <mxGeometry height="130" width="240" x="1039" y="1939" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="4. Automatisk behandling&#xa;Opprett eller oppdater post direkte i CRM&#xa;Logg endring på importraden" vertex="1">
+          <mxGeometry height="80" width="300" x="629" y="1964" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--16" parent="1" style="shape=note;whiteSpace=wrap;html=1;size=20;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacingLeft=8;" value="Ingen endring i data → raden markeres som&#xa;&quot;Ingen endring&quot; og lukkes uten skriving mot CRM.&#xa;Avviste poster beholdes i staging for sporbarhet." vertex="1">
+          <mxGeometry height="100" width="320" x="330" y="2266" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="5. Manuell verifisering" vertex="1">
+          <mxGeometry height="290" width="600" x="959" y="2129" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Kontrolltabell i Dataverse&#xa;Importrader med status &quot;Til kontroll&quot;&#xa;+ foreslått match og begrunnelse" vertex="1">
+          <mxGeometry height="70" width="260" x="984" y="2169" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Modelldrevet app&#xa;Saksbehandler går gjennom&#xa;postene i egen visning" vertex="1">
+          <mxGeometry height="70" width="260" x="1274" y="2169" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;spacingLeft=12;" value="Beslutning per rad&#xa;• Opprett ny Contact / Account / Vehicle / Vehicle Owner&#xa;• Koble mot eksisterende post&#xa;• Oppdater eksisterende data&#xa;• Avvis eller ignorer" vertex="1">
+          <mxGeometry height="120" width="550" x="984" y="2269" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;" value="6. Dynamics 365 / Dataverse&#xa;Account · Contact · Vehicle · Vehicle Owner" vertex="1">
+          <mxGeometry height="90" width="560" x="499" y="2464" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="Status og sporbarhet&#xa;Batchstatus, radstatus, handling,&#xa;feilmelding, behandlet av / når" vertex="1">
+          <mxGeometry height="90" width="285" x="1257.5" y="2464" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--23" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--24" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--25" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--26" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="C9seFHKmE-eIZFqgsud--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--27" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--28" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontStyle=1;" target="C9seFHKmE-eIZFqgsud--15" value="Ja">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--29" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontStyle=1;" target="C9seFHKmE-eIZFqgsud--18" value="Nei / usikker match">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--30" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--31" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--32" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--33" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontStyle=1;" target="C9seFHKmE-eIZFqgsud--21" value="Godkjent">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9seFHKmE-eIZFqgsud--34" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;" target="C9seFHKmE-eIZFqgsud--22" value="Skriv tilbake status">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
