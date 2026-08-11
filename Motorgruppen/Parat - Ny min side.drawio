@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="3DShomfnbk16Pjk_byxe">
-    <mxGraphModel dx="2499" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3059" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,18 @@
         </mxCell>
         <mxCell id="r2IDLewT36VNd06fK_9r-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- Sessami?&lt;br&gt;- Rik tekst redigering: Labrador? CRM?&lt;div&gt;- Innlogging - Samme som tidligere? Vipps?&lt;/div&gt;&lt;div&gt;- WinOrg (tillitsvalgt-løsning)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="214" x="-290" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="FXFTBYnEr4tEkG_l54QM-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Fase 1" vertex="1">
+          <mxGeometry height="983" width="1202" x="-94" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="FXFTBYnEr4tEkG_l54QM-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Senere fase" vertex="1">
+          <mxGeometry height="435" width="617" x="1184" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="FXFTBYnEr4tEkG_l54QM-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Send SMS" vertex="1">
+          <mxGeometry height="200" width="200" x="-367" y="373" as="geometry" />
+        </mxCell>
+        <mxCell id="FXFTBYnEr4tEkG_l54QM-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Tillitsvalgte verktøy&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Send SMS&lt;/b&gt;&lt;br&gt;Med fletting (fase 2?)&lt;br&gt;&lt;br&gt;&lt;b&gt;Send e-post&lt;/b&gt;&lt;br&gt;Kan sende direkte fra siden&lt;/div&gt;&lt;div&gt;Kan få ut epostadresser (liste som excel og&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Forsikring tas bort fra tillitsvalgte&lt;/div&gt;&lt;div&gt;&amp;nbsp;Interesser - Tillitsvalgte kan se dette&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Utmeldte medlemmer stopper automatisk&lt;br&gt;&lt;br&gt;Utsendelselogg - Trenger ikke tillitsvalgte&lt;br&gt;Notat internt - Trenger ikke tillitsvalgte&lt;/div&gt;&lt;div&gt;Avtaler -&amp;nbsp;&lt;br&gt;Vedlegg - Trenger ikke tillitsvalgte&lt;br&gt;Samtykker og reservasjoner - Freddy finner ut av&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reskontro - Freddy finner ut av&lt;/div&gt;&lt;div&gt;Aktivitetslogg - Trenger ikke tillitsvalgte&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pending:&lt;/div&gt;&lt;div&gt;Reskontro&lt;/div&gt;&lt;div&gt;Samtykker og reservasjoner&lt;/div&gt;" vertex="1">
+          <mxGeometry height="336" width="598" x="-1242" y="389" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
