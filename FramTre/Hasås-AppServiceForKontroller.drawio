@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U_yV_2bW9zQxPwVUEsg9-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" value="App service" vertex="1">
-          <mxGeometry height="64" width="64" x="-340" y="293" as="geometry" />
+          <mxGeometry height="64" width="64" x="-347" y="312" as="geometry" />
         </mxCell>
         <mxCell id="U_yV_2bW9zQxPwVUEsg9-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="Azure Postgre sql" vertex="1">
-          <mxGeometry height="64" width="48" x="-28" y="180" as="geometry" />
+          <mxGeometry height="64" width="48" x="-36" y="180" as="geometry" />
         </mxCell>
         <mxCell id="U_yV_2bW9zQxPwVUEsg9-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" value="Azure Storage account" vertex="1">
           <mxGeometry height="52" width="64" x="-36" y="318" as="geometry" />
         </mxCell>
         <mxCell id="U_yV_2bW9zQxPwVUEsg9-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/azure/1/Azure_Storage_Azure_Files.svg;" value="Azure Storage files" vertex="1">
-          <mxGeometry height="64" width="76" x="-33" y="430" as="geometry" />
+          <mxGeometry height="64" width="76" x="-36" y="444" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
