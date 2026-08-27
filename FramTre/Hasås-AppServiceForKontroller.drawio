@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="OgD4hx5QRvC6cEyydo0Q">
-    <mxGraphModel dx="2498" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="64" width="64" x="-76" y="133" as="geometry" />
         </mxCell>
         <mxCell id="Gg5HYWZcvZhgO1MoMoOp-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Azure Devops&lt;/h1&gt;&lt;div&gt;Erlend oppretter organisasjon i Azure devops for FramTre industri.&lt;/div&gt;&lt;div&gt;Opprettelse av pipeline&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Lagring&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Postgre SQL -&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;App service -&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="345" width="652" x="575" y="140" as="geometry" />
+          <mxGeometry height="345" width="652" x="70" y="133" as="geometry" />
         </mxCell>
         <mxCell id="Gg5HYWZcvZhgO1MoMoOp-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;&lt;p&gt;Phyton 3.14&lt;br&gt;&lt;br&gt;marimo&lt;span style=&quot;color: rgb(55, 121, 123);&quot;&gt;&amp;gt;=&lt;/span&gt;0.23.0&lt;/p&gt;&lt;p&gt;openpyxl&lt;span style=&quot;color: rgb(55, 121, 123);&quot;&gt;&amp;gt;=&lt;/span&gt;3.1.0&lt;/p&gt;&lt;p&gt;pandas&lt;span style=&quot;color: rgb(55, 121, 123);&quot;&gt;&amp;gt;=&lt;/span&gt;2.0.0&lt;/p&gt;&lt;p&gt;reportlab&lt;span style=&quot;color: rgb(55, 121, 123);&quot;&gt;&amp;gt;=&lt;/span&gt;4.0.0&lt;/p&gt;&lt;p&gt;PuLP&lt;span style=&quot;color: rgb(55, 121, 123);&quot;&gt;&amp;gt;=&lt;/span&gt;2.7.0&lt;/p&gt;&lt;p&gt;psycopg[binary]&lt;span style=&quot;color: rgb(55, 121, 123);&quot;&gt;&amp;gt;=&lt;/span&gt;3.2.0&lt;/p&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="227" width="153" x="1339" y="109" as="geometry" />
