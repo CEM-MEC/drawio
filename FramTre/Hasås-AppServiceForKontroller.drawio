@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="OgD4hx5QRvC6cEyydo0Q">
-    <mxGraphModel dx="2499" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2498" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="U_yV_2bW9zQxPwVUEsg9-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/azure/1/Azure_Storage_Azure_Files.svg;" value="Azure Storage files" vertex="1">
           <mxGeometry height="64" width="76" x="-50" y="448" as="geometry" />
+        </mxCell>
+        <mxCell id="Gg5HYWZcvZhgO1MoMoOp-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Azure Devops&lt;/h1&gt;&lt;div&gt;Erlend oppretter organisasjon i Azure devops for FramTre industri.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="345" width="652" x="575" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
