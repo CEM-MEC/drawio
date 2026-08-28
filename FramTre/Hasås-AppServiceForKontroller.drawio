@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="OgD4hx5QRvC6cEyydo0Q">
-    <mxGraphModel dx="1847" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3338" dy="1362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,9 @@
             <mxPoint x="-38" y="232" as="sourcePoint" />
             <mxPoint x="-40" y="454" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aJi_PnocIa_1UOiUtvid-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Devops Organzation&lt;br&gt;&lt;br&gt;The new Azure Function&lt;br&gt;&lt;div&gt;&lt;br&gt;Comparing Send til skogdata with Send til Produksjonsleder&lt;/div&gt;" vertex="1">
+          <mxGeometry height="235" width="529" x="-1332" y="-9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
