@@ -621,6 +621,9 @@
         <mxCell id="fj4HC_pDoo57q9tyXLmf-21" parent="fj4HC_pDoo57q9tyXLmf-2" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;fontSize=9;fontFamily=Helvetica;" value="Oppretter test-skogeierlag" vertex="1">
           <mxGeometry height="30" width="115" x="38" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="fj4HC_pDoo57q9tyXLmf-24" parent="fj4HC_pDoo57q9tyXLmf-2" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;fontSize=9;fontFamily=Helvetica;" value="&lt;span style=&quot;font-family: Calibri; text-align: left;&quot;&gt;&lt;font&gt;Alle lenker på allskog.no, smser, e-poster osv.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="96" x="832" y="18" as="geometry" />
+        </mxCell>
         <mxCell id="fj4HC_pDoo57q9tyXLmf-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1427" y="1863.48" as="sourcePoint" />
