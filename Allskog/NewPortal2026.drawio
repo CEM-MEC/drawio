@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="87MAbD0vSYiB1wZmWBJy">
-    <mxGraphModel dx="4209" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,6 +590,12 @@
         </mxCell>
         <mxCell id="WLBwj_GxWydS4I7yENY--9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#66B2FF;" value="Subnet 2" vertex="1">
           <mxGeometry height="30" width="60" x="1141" y="554.4" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4HC_pDoo57q9tyXLmf-1" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Cartagena" vertex="1">
+          <mxGeometry height="157" width="774" x="1037" y="1557" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4HC_pDoo57q9tyXLmf-2" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Allskog" vertex="1">
+          <mxGeometry height="147" width="774" x="1037" y="1714" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
