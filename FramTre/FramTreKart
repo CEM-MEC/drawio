@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="lUX92eJJRew8YhjKl_jy">
+    <mxGraphModel dx="-1166" dy="-338" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Forest owner" vertex="1">
+          <mxGeometry height="60" width="30" x="2616" y="1222" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-3" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" value="" vertex="1">
+          <mxGeometry height="73.2" width="52.800000000000004" x="2609" y="1067" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-4" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" value="" vertex="1">
+          <mxGeometry height="73.2" width="52.800000000000004" x="2641" y="1088" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-5" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" value="" vertex="1">
+          <mxGeometry height="73.2" width="52.800000000000004" x="2658" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-6" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" value="" vertex="1">
+          <mxGeometry height="73.2" width="52.800000000000004" x="2520" y="1107" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-7" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" value="" vertex="1">
+          <mxGeometry height="73.2" width="52.800000000000004" x="2556.2" y="1067" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-8" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" value="" vertex="1">
+          <mxGeometry height="73.2" width="52.800000000000004" x="2556.2" y="1134" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-9" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" value="" vertex="1">
+          <mxGeometry height="73.2" width="52.800000000000004" x="2597" y="1115.8" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Timber Contract" vertex="1">
+          <mxGeometry height="162" width="162" x="2802" y="1166" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Skogbruksleder&lt;br&gt;&lt;br&gt;Forestry manager&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="3145" y="1217" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3245" y="1244" as="sourcePoint" />
+            <mxPoint x="3444" y="1247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Produksjonsleder&lt;br&gt;&lt;br&gt;Production Manager&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="3506" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-17" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3597" y="1245.5" as="sourcePoint" />
+            <mxPoint x="3796" y="1248.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-18" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Skogdata" vertex="1">
+          <mxGeometry height="60" width="120" x="3847" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send to Production Manager" vertex="1">
+          <mxGeometry height="30" width="60" x="3301" y="1177" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send to Skogdata" vertex="1">
+          <mxGeometry height="30" width="60" x="3665" y="1177" as="geometry" />
+        </mxCell>
+        <mxCell id="ss50Xf8IjeBMMkd1mbce-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sendToNextLevel(&quot;&quot;)" vertex="1">
+          <mxGeometry height="266" width="593" x="3269" y="1535" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Send inn til FramTreKart" vertex="1">
+          <mxGeometry height="60" width="120" x="2421" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-3" edge="1" parent="1" source="6jtZW2f-2fQW_W53cXjB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=9;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6jtZW2f-2fQW_W53cXjB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Identifiserer&lt;br&gt;x &amp;lt;-&amp;gt; y" vertex="1">
+          <mxGeometry height="60" width="120" x="2247" y="2173" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-5" edge="1" parent="1" source="6jtZW2f-2fQW_W53cXjB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" target="6jtZW2f-2fQW_W53cXjB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Identifiserer&lt;br&gt;de som ikke har objektid" vertex="1">
+          <mxGeometry height="60" width="120" x="2421" y="2173" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="x: x&amp;gt;y&lt;br&gt;y:x&amp;lt;y" vertex="1">
+          <mxGeometry height="41" width="50" x="2459" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-8" edge="1" parent="1" source="6jtZW2f-2fQW_W53cXjB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=9;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="6jtZW2f-2fQW_W53cXjB-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2823" y="2257" />
+              <mxPoint x="2824" y="2257" />
+              <mxPoint x="2824" y="2276" />
+              <mxPoint x="2823" y="2276" />
+            </Array>
+            <mxPoint x="2823" y="2276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Livsløpstrær som polygoner" vertex="1">
+          <mxGeometry height="60" width="120" x="2763" y="2177" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-9" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=cancel;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="2798" y="2284" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Identifiserer&lt;br&gt;de som har Allma objektid" vertex="1">
+          <mxGeometry height="60" width="120" x="2595" y="2173" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;&lt;p&gt;&lt;span style=&quot;font-size:inherit;&quot;&gt;FramTreKart Objektid (text)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:inherit;&quot;&gt;FramTreKart GlobalId (text)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:inherit;&quot;&gt;FramTreKart Status (text)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;FramTreKart ErrorMessage (text)&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="166" width="212" x="2155" y="2336" as="geometry" />
+        </mxCell>
+        <mxCell id="6jtZW2f-2fQW_W53cXjB-12" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=5;" value="&lt;span&gt;&lt;p&gt;{&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;addResults&quot;: [&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; {&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;objectId&quot;: 986,&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;globalId&quot;: &quot;{FEE15FC7-5D75-47AB-835A-4C62478EFAF5}&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;success&quot;: true&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; },&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; {&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;objectId&quot;: 987,&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;globalId&quot;: &quot;{0773B6CF-F95E-4262-AE7A-7EEFA3D4B4E6}&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;success&quot;: true&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; ]&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="180" width="179" x="2155" y="2469" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
