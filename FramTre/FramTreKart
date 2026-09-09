@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="lUX92eJJRew8YhjKl_jy">
-    <mxGraphModel dx="-262" dy="162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-808" dy="-217" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry height="162" width="162" x="2801" y="1191" as="geometry" />
         </mxCell>
         <mxCell id="ss50Xf8IjeBMMkd1mbce-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Skogbruksleder&lt;br&gt;&lt;br&gt;Forestry manager&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="3145" y="1217" as="geometry" />
+          <mxGeometry height="60" width="30" x="3113" y="1212" as="geometry" />
         </mxCell>
         <mxCell id="ss50Xf8IjeBMMkd1mbce-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -105,11 +105,26 @@
         <mxCell id="R-oOC_pkjIjWdrB3-3At-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;(header) cloudflaregatewaytoken:&lt;br&gt;1MeJhBfVCLxSRprBDeFSdusTpAneuNOrsDYaOuBvigZnUQsFMe_1Bjw7duTqBpO0d_EUroEtvtV1FQ9dPgs8rw&lt;/span&gt;" vertex="1">
           <mxGeometry height="36" width="630" x="2451" y="2483" as="geometry" />
         </mxCell>
-        <mxCell id="csLQf7i353qHIxP7UsKs-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Globe_Error.svg;" value="" vertex="1">
-          <mxGeometry height="66" width="56" x="3665" y="1080" as="geometry" />
+        <mxCell id="csLQf7i353qHIxP7UsKs-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Allma" vertex="1">
+          <mxGeometry height="30" width="60" x="2942" y="841" as="geometry" />
         </mxCell>
-        <mxCell id="csLQf7i353qHIxP7UsKs-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Globe_Error.svg;" value="" vertex="1">
-          <mxGeometry height="66" width="56" x="3311" y="1080" as="geometry" />
+        <mxCell id="csLQf7i353qHIxP7UsKs-5" edge="1" parent="1" source="csLQf7i353qHIxP7UsKs-4" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" target="ss50Xf8IjeBMMkd1mbce-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3327" y="1356" as="sourcePoint" />
+            <mxPoint x="3377" y="1306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="csLQf7i353qHIxP7UsKs-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3685" y="1172" as="sourcePoint" />
+            <mxPoint x="3025.33" y="878" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="csLQf7i353qHIxP7UsKs-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3031.17" y="859.67" as="sourcePoint" />
+            <mxPoint x="3837.83" y="1209.67" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
