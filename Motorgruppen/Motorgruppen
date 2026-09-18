@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3269" dy="2958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="2143" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,6 +248,18 @@
         </mxCell>
         <mxCell id="C9seFHKmE-eIZFqgsud--37" parent="1" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="2095.3" width="1944.84" x="-184.99999999999997" y="-908" as="geometry" />
+        </mxCell>
+        <mxCell id="n_QINRP-51an19sY8MbV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="60" width="4473" x="-1641" y="2747" as="geometry" />
+        </mxCell>
+        <mxCell id="n_QINRP-51an19sY8MbV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="Epic - Hovedprosjekt CRM" vertex="1">
+          <mxGeometry height="30" width="430.5" x="-761" y="3096" as="geometry" />
+        </mxCell>
+        <mxCell id="n_QINRP-51an19sY8MbV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Eksport av markedsføringslister til Okulus" vertex="1">
+          <mxGeometry height="26" width="239" x="-733.5" y="2934" as="geometry" />
+        </mxCell>
+        <mxCell id="n_QINRP-51an19sY8MbV-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ikke definert&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Eksport av markedsføringslister til Okulus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Hvilke data kommer inn hvor?&lt;br&gt;&lt;br&gt;Hvilke data går hvor?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="280" width="456" x="-52" y="2833" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
