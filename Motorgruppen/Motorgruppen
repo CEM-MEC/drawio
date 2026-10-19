@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3206" dy="2287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4086" dy="2788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,7 +339,7 @@
         <mxCell id="Dcc1f5_YDKYtYkoTO81--17" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=11;align=left;spacingLeft=8;spacingRight=8;strokeColor=light-dark(#ffd966, #ededed);" value="&lt;b&gt;2.4&lt;/b&gt; App for håndtering av det kuraterte laget (foldet inn i 2.3)" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="358" as="geometry" />
         </mxCell>
-        <mxCell id="Dcc1f5_YDKYtYkoTO81--18" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;2.5&lt;/b&gt; Livssyklus for cluster: opprette, slå sammen, ny hovedoppføring, slette, med revisjonsspor" vertex="1">
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--18" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=11;align=left;spacingLeft=8;spacingRight=8;strokeColor=#FFD966;" value="&lt;b&gt;2.5&lt;/b&gt; Livssyklus for cluster: opprette, slå sammen, ny hovedoppføring, slette, med revisjonsspor" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="450" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--19" parent="1" style="swimlane;html=1;startSize=70;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Inkrement 3: GDPR, samtykke og lead&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;410 t · G5 uke 3 (2027)&lt;/font&gt;" vertex="1">
@@ -405,7 +405,7 @@
         <mxCell id="Dcc1f5_YDKYtYkoTO81--39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;dashed=1;fontSize=12;align=left;spacingLeft=12;" value="&lt;b&gt;Utenfor Fase 1:&lt;/b&gt; utsendelsesmotor for markedsføring · integrasjonsplattform · synk tilbake til Axapta · innfylling av GDPR-innhold&lt;br&gt;&lt;b&gt;Behov uten arbeidspakke:&lt;/b&gt; Mailchimp-, Crystallize-, Meta Lead Ads- og Online Booking-integrasjoner · samtykke Min Bil → Axapta · import av dagens samtykker · ev. Reservasjonsregisteret" vertex="1">
           <mxGeometry height="70" width="1930" x="3310" y="2656" as="geometry" />
         </mxCell>
-        <mxCell id="1EHxAnuaM5fACTTxyQjN-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1.1&lt;/h1&gt;&lt;p&gt;- Modeldriven app er ikke laget. Avdekker behov med Kate på onsdag.&lt;/p&gt;" vertex="1">
+        <mxCell id="1EHxAnuaM5fACTTxyQjN-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1.1&lt;/h1&gt;&lt;p&gt;- Modeldriven app er ikke laget. &lt;br&gt;&amp;nbsp; &amp;nbsp;Avdekker behov med Kate på onsdag.&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="260" x="3554" y="1804" as="geometry" />
         </mxCell>
         <mxCell id="1EHxAnuaM5fACTTxyQjN-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1.3&lt;/h1&gt;&lt;p&gt;- Worklow/PA - ved endring av x felter så settes valideringsflagg til nei&lt;/p&gt;" vertex="1">
