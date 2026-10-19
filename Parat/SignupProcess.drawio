@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
-    <mxGraphModel dx="3013" dy="3925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4346" dy="4575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,29 +228,11 @@
         <mxCell id="S3nfKEqjHx5VtsqVdjtG-93" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
           <mxGeometry height="15" width="15" x="1829" y="-784.5" as="geometry" />
         </mxCell>
-        <mxCell id="S3nfKEqjHx5VtsqVdjtG-94" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="1829" y="-754.5" as="geometry" />
-        </mxCell>
-        <mxCell id="S3nfKEqjHx5VtsqVdjtG-95" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="1829" y="-725.5" as="geometry" />
-        </mxCell>
-        <mxCell id="S3nfKEqjHx5VtsqVdjtG-96" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="1829" y="-699.5" as="geometry" />
-        </mxCell>
         <mxCell id="S3nfKEqjHx5VtsqVdjtG-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Veritas Funksjonærforbund (VEFF)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="338" x="1859" y="-826" as="geometry" />
         </mxCell>
-        <mxCell id="S3nfKEqjHx5VtsqVdjtG-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Lærling&lt;/font&gt;" vertex="1">
+        <mxCell id="S3nfKEqjHx5VtsqVdjtG-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Annet&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="197" x="1859" y="-796" as="geometry" />
-        </mxCell>
-        <mxCell id="S3nfKEqjHx5VtsqVdjtG-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Student/elev&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="1859" y="-763.5" as="geometry" />
-        </mxCell>
-        <mxCell id="S3nfKEqjHx5VtsqVdjtG-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Arbeidssøkende&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="1859" y="-733.5" as="geometry" />
-        </mxCell>
-        <mxCell id="S3nfKEqjHx5VtsqVdjtG-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Pensjonist&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="1859" y="-707" as="geometry" />
         </mxCell>
         <mxCell id="S3nfKEqjHx5VtsqVdjtG-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=19;fontStyle=1" value="Tilhører du en av disse gruppene?&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Parats underorganisasjoner og -forbund er listet opp. Velg &quot;annet&quot; om du ikke tilhører en av disse gruppene&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="101" width="405" x="1821" y="-1243" as="geometry" />
