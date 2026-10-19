@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="4086" dy="2788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3206" dy="2287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
         <mxCell id="Dcc1f5_YDKYtYkoTO81--3" parent="1" style="swimlane;html=1;startSize=70;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Mobilisering&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;75 t · uke 37–39 → G1 uke 39&lt;/font&gt;" vertex="1">
           <mxGeometry height="358" width="250" x="3278" y="1227" as="geometry" />
         </mxCell>
-        <mxCell id="Dcc1f5_YDKYtYkoTO81--4" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;0.1&lt;/b&gt; Oppsett av løsning, miljøer og DevOps, publisher-prefiks og CI/CD-pipeline" vertex="1">
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--4" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;spacingLeft=8;spacingRight=8;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;0.1&lt;/b&gt; Oppsett av løsning, miljøer og DevOps, publisher-prefiks og CI/CD-pipeline" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--5" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;0.2&lt;/b&gt; Workshop og godkjenning av cluster-nøkkel og matching" vertex="1">
