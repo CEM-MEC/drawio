@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
+    <mxGraphModel dx="2086" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="440" x="70" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-1" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Fornavn" vertex="1">
+          <mxGeometry height="40" width="260" x="100" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-2" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="First name" vertex="1">
+          <mxGeometry height="30" relative="1" width="350" as="geometry">
+            <mxPoint x="100" y="300" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-6" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Etternavn" vertex="1">
+          <mxGeometry height="40" width="260" x="100" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-7" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Last name" vertex="1">
+          <mxGeometry height="30" width="350" x="100" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-8" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="E-post" vertex="1">
+          <mxGeometry height="40" width="260" x="100" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-9" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Email" vertex="1">
+          <mxGeometry height="30" width="350" x="100" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-10" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Mobiltelefon" vertex="1">
+          <mxGeometry height="40" width="260" x="100" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-11" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Mobilephone" vertex="1">
+          <mxGeometry height="30" width="350" x="100" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-16" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Har du blitt vervet? Ververs telefonnummer" vertex="1">
+          <mxGeometry height="40" width="260" x="100" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="eJfFM4er84g6KnWQ4dbL-17" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Guardian’s phone number" vertex="1">
+          <mxGeometry height="30" width="350" x="100" y="630" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
