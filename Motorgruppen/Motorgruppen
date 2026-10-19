@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="2826" dy="2073" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3738" dy="2550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,6 +263,123 @@
         </mxCell>
         <mxCell id="n_QINRP-51an19sY8MbV-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=7;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(User story)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="180" x="-761" y="3134" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--1" parent="1" style="text;html=1;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;" value="Fase 1 – Hovedprosjekt CRM-migrering: arbeidspakker" vertex="1">
+          <mxGeometry height="40" width="900" x="3278" y="1137" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--2" parent="1" style="text;html=1;fontSize=12;fontColor=#666666;align=left;" value="Kilde: Prosjektplan – Gjennomføring (11.06.2026). Timer og milepæler fra Fase 1-tillegget (2 055 t)." vertex="1">
+          <mxGeometry height="24" width="900" x="3278" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--3" parent="1" style="swimlane;html=1;startSize=70;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Mobilisering&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;75 t · uke 37–39 → G1 uke 39&lt;/font&gt;" vertex="1">
+          <mxGeometry height="358" width="250" x="3278" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--4" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;0.1&lt;/b&gt; Oppsett av løsning, miljøer og DevOps, publisher-prefiks og CI/CD-pipeline" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--5" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;0.2&lt;/b&gt; Workshop og godkjenning av cluster-nøkkel og matching" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--6" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;0.3&lt;/b&gt; Prosjektoppsett og sprintplan, oppstart av intern rekruttering hos Motor Data" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--7" parent="1" style="swimlane;html=1;startSize=70;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Inkrement 1: Fundament&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;255 t · G2 uke 43&lt;/font&gt;" vertex="1">
+          <mxGeometry height="542" width="250" x="3558" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--8" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;1.1&lt;/b&gt; Valideringsflagg på kunden: verifisering med tidsstempel og kilde, gjennomgangsvisning, sannhetstabell, plugin for kildevalidering" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--9" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;1.2&lt;/b&gt; Cluster-entitet som peker ut hovedoppføringen (silver): nøkler, oppslag, avledning, proveniens" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--10" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;1.3&lt;/b&gt; Firmavalidering mot Enhetsregisteret, utfylling av felter og mykt valideringsflagg" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--11" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;1.4&lt;/b&gt; GDPR-skjemaet: seks entiteter og kobling mellom person og behandlingsgrunnlag (innhold fylles av Motor Gruppen)" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--12" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;1.5&lt;/b&gt; Sikkerhetsmodell, løsningslag og app for kurering" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--13" parent="1" style="swimlane;html=1;startSize=70;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Inkrement 2: Deduplisering&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;450 t · G3 uke 46 · G4 uke 50&lt;/font&gt;" vertex="1">
+          <mxGeometry height="542" width="250" x="3838" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--14" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;2.1&lt;/b&gt; Automatisk innhenting av ukentlig eierleveranse til mellomlager" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--15" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;align=left;spacingLeft=8;spacingRight=8;dashed=1;" value="&lt;b&gt;2.2&lt;/b&gt; Matching av nye oppføringer mot clustere&lt;br&gt;&lt;i&gt;&lt;font color=&#39;#b85450&#39;&gt;Tillegget sier tre konfidensnivåer – designet matcher på nøkler&lt;/font&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--16" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;2.3&lt;/b&gt; Gjennomgangskø for servicekontoret: sammenligning, kandidater, handlinger" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--17" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;2.4&lt;/b&gt; App for håndtering av det kuraterte laget (foldet inn i 2.3)" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--18" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;2.5&lt;/b&gt; Livssyklus for cluster: opprette, slå sammen, ny hovedoppføring, slette, med revisjonsspor" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--19" parent="1" style="swimlane;html=1;startSize=70;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Inkrement 3: GDPR, samtykke og lead&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;410 t · G5 uke 3 (2027)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="542" width="250" x="4118" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--20" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.1&lt;/b&gt; Dobbel skriving av samtykke: gamle felter + ProcessingConsent" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--21" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.2&lt;/b&gt; GDPR-vedlikeholdsapp med rollebasert tilgang og revisjon" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--22" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.3&lt;/b&gt; Verktøy for behandlingsaktiviteter og migrering av behandlingserklæringer" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--23" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.4&lt;/b&gt; Utgående lead-flyt fra kuratert lag, kampanjekriterier, signal ved manglende respons" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--24" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.5&lt;/b&gt; Uttrekk av kampanjelister ut fra behandlingsaktiviteter" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--25" parent="1" style="swimlane;html=1;startSize=70;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Produksjonssetting&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;245 t · G6 go-live uke 11 (2027)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="542" width="250" x="4398" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--26" parent="Dcc1f5_YDKYtYkoTO81--25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;4.1&lt;/b&gt; Oversikt over integrasjonsgrensesnitt" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--27" parent="Dcc1f5_YDKYtYkoTO81--25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;4.2&lt;/b&gt; Parallelldrift 8–12 uker med avstemming og kalibrering (min. 12 importsykluser + 1 kampanjesyklus)" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--28" parent="Dcc1f5_YDKYtYkoTO81--25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;4.3&lt;/b&gt; Aktivering og aksept mot de seks kriteriene, brukeraksept fra servicekontoret" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--29" parent="Dcc1f5_YDKYtYkoTO81--25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;4.4&lt;/b&gt; Verifisering av ytelse og last" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--30" parent="Dcc1f5_YDKYtYkoTO81--25" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;4.5&lt;/b&gt; Avvikling av gammel importgren for eierdata (Motor Data)" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--31" parent="1" style="swimlane;html=1;startSize=70;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Stabilisering&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;140 t · G7 overlevering uke 19 (2027)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="266" width="250" x="4678" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--32" parent="Dcc1f5_YDKYtYkoTO81--31" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;5.1&lt;/b&gt; Beredskap gjennom de første import- og kampanjesyklusene" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--33" parent="Dcc1f5_YDKYtYkoTO81--31" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;5.2&lt;/b&gt; Driftsoverlevering: runbooks og dokumentasjon" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--34" parent="1" style="swimlane;html=1;startSize=70;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Tverrgående&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;480 t · gjennom hele fasen&lt;/font&gt;" vertex="1">
+          <mxGeometry height="450" width="250" x="4958" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--35" parent="Dcc1f5_YDKYtYkoTO81--34" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="Oppdragsansvar" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--36" parent="Dcc1f5_YDKYtYkoTO81--34" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="Prosjektledelse" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--37" parent="Dcc1f5_YDKYtYkoTO81--34" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="Funksjonell arkitektur" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--38" parent="Dcc1f5_YDKYtYkoTO81--34" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="Kvalitetssikring" vertex="1">
+          <mxGeometry height="80" width="230" x="10" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;dashed=1;fontSize=12;align=left;spacingLeft=12;" value="&lt;b&gt;Utenfor Fase 1:&lt;/b&gt; utsendelsesmotor for markedsføring · integrasjonsplattform · synk tilbake til Axapta · innfylling av GDPR-innhold&lt;br&gt;&lt;b&gt;Behov uten arbeidspakke:&lt;/b&gt; Mailchimp-, Crystallize-, Meta Lead Ads- og Online Booking-integrasjoner · samtykke Min Bil → Axapta · import av dagens samtykker · ev. Reservasjonsregisteret" vertex="1">
+          <mxGeometry height="70" width="1930" x="3278" y="1809" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
