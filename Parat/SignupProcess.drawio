@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
-    <mxGraphModel dx="2513" dy="4731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2086" dy="4488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,36 +346,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="827" width="440" x="3658" y="-2090" as="geometry" />
+          <mxGeometry height="288" width="440" x="3604" y="-1761" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-70" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Neste &amp;gt;" vertex="1">
-          <mxGeometry height="33" width="86" x="3974" y="-1318.5" as="geometry" />
+          <mxGeometry height="33" width="86" x="3914" y="-1569" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-71" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Tilbake" vertex="1">
-          <mxGeometry height="33" width="86" x="3698" y="-1312" as="geometry" />
+          <mxGeometry height="33" width="86" x="3638" y="-1562.5" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-73" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Helsearbeider" vertex="1">
-          <mxGeometry height="32" width="364" x="3690" y="-1984" as="geometry" />
+          <mxGeometry height="32" width="364" x="3636" y="-1732" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-74" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Har du autorisasjon?" vertex="1">
-          <mxGeometry height="20" width="430" x="3690" y="-1948" as="geometry" />
+          <mxGeometry height="20" width="430" x="3636" y="-1696" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-95" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="3690" y="-1909.5" as="geometry" />
+          <mxGeometry height="15" width="15" x="3636" y="-1657.5" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-96" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="3690" y="-1875.5" as="geometry" />
+          <mxGeometry height="15" width="15" x="3636" y="-1623.5" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ja&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="3720" y="-1917" as="geometry" />
+          <mxGeometry height="30" width="197" x="3666" y="-1665" as="geometry" />
         </mxCell>
         <mxCell id="Pi5cbsCbKEOjtxsiJczu-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nei&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="3720" y="-1887" as="geometry" />
+          <mxGeometry height="30" width="197" x="3666" y="-1635" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2300" y="-1021.5" as="sourcePoint" />
-            <mxPoint x="2663.96" y="-2679.535652173913" as="targetPoint" />
+            <mxPoint x="3136.58" y="-1006.06" as="sourcePoint" />
+            <mxPoint x="3582.03" y="-2078.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-11" connectable="0" parent="pH0vQr-tey5iQ79QaSIi-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=19;fontColor=default;defaultLabelBackgroundColor=gap;" value="NPL (Norges politilederlag)" vertex="1">
@@ -384,40 +384,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="827" width="440" x="2727" y="-3119" as="geometry" />
+          <mxGeometry height="827" width="440" x="3604" y="-2680" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-3" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Neste &amp;gt;" vertex="1">
-          <mxGeometry height="33" width="86" x="3043" y="-2347.5" as="geometry" />
+          <mxGeometry height="33" width="86" x="3920" y="-1908.5" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-4" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Tilbake" vertex="1">
-          <mxGeometry height="33" width="86" x="2767" y="-2341" as="geometry" />
+          <mxGeometry height="33" width="86" x="3644" y="-1902" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Forsikringer i Norges Politilederlag" vertex="1">
-          <mxGeometry height="32" width="364" x="2759" y="-3013" as="geometry" />
+          <mxGeometry height="32" width="364" x="3636" y="-2574" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Har du autorisasjon?" vertex="1">
-          <mxGeometry height="20" width="430" x="2759" y="-2977" as="geometry" />
+          <mxGeometry height="20" width="430" x="3636" y="-2538" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-7" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="2759" y="-2938.5" as="geometry" />
+          <mxGeometry height="15" width="15" x="3636" y="-2499.5" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-8" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="2759" y="-2904.5" as="geometry" />
+          <mxGeometry height="15" width="15" x="3636" y="-2465.5" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ja&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="2789" y="-2946" as="geometry" />
+          <mxGeometry height="30" width="197" x="3666" y="-2507" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nei&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="2789" y="-2916" as="geometry" />
+          <mxGeometry height="30" width="197" x="3666" y="-2477" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-12" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Stillingsprosent: *" vertex="1">
-          <mxGeometry height="20" width="430" x="2764" y="-2471" as="geometry" />
+          <mxGeometry height="20" width="430" x="3641" y="-2032" as="geometry" />
         </mxCell>
         <mxCell id="pH0vQr-tey5iQ79QaSIi-13" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Additionall" vertex="1">
-          <mxGeometry height="85" width="350" x="2764" y="-2449" as="geometry" />
+          <mxGeometry height="85" width="350" x="3641" y="-2010" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;Spørsmålet om arbeidsdyktighet og alvorlige diagnoser er nødvendig for de obligatoriske kollektive forsikringene &quot;Gruppeliv Dødsfallsforsikring&quot; og &quot;alvorlig sykdom&quot; som du vil være omfattet av som medlem i Norges Politilederlag.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;De diagnosene vi spør om er kreft, hjernesvulst, hjerteinfarkt, hjerneslag, alvorlig angina pectoris, multippel sklerose, motornevronsykdom, vanlige tverrsnittlammelser, tap av armer og ben, blindhet, døvhet, store brannskader, alvorlig leddgikt, alvorlig epilepsi, Alzheimers sykdom, utposning på blodåre i hjernen, utposning på hovedpulsåren, blodpropp i hjernen, nyresvikt som krever dialyse eller Parkinsons.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Informasjon om forsikringene finner du her.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;For å være omfattet av våre obligatoriske forsikringer må du avgi følgende bekreftelse:&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Jeg bekrefter at jeg er fullt ut arbeidsdyktig, og at jeg ikke har, eller i løpet av de siste 5 år har hatt, en av de diagnoser &quot;alvorlig sykdom&quot; dekker (Se over): *&lt;/p&gt;" vertex="1">
-          <mxGeometry height="372" width="370" x="2753" y="-2880" as="geometry" />
+          <mxGeometry height="372" width="370" x="3630" y="-2441" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="543" width="440" x="248" y="2082" as="geometry" />
@@ -471,28 +471,28 @@
           <mxGeometry height="20" width="430" x="1503" y="2149" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-39" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Stilling" vertex="1">
-          <mxGeometry height="32" width="364" x="1504" y="2433" as="geometry" />
+          <mxGeometry height="32" width="364" x="1505" y="2420" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-40" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Stillingstittel: *" vertex="1">
-          <mxGeometry height="20" width="430" x="1504" y="2467" as="geometry" />
+          <mxGeometry height="20" width="430" x="1505" y="2454" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-41" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Stillingsprosent: *" vertex="1">
-          <mxGeometry height="20" width="430" x="1504" y="2555" as="geometry" />
+          <mxGeometry height="20" width="430" x="1505" y="2542" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-42" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Organization name" vertex="1">
           <mxGeometry height="30" width="350" x="1502" y="2180.5" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-48" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Salary" vertex="1">
-          <mxGeometry height="30" width="350" x="1503" y="2661" as="geometry" />
+          <mxGeometry height="30" width="350" x="1504" y="2648" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-49" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Working percentage" vertex="1">
-          <mxGeometry height="30" width="350" x="1504" y="2577" as="geometry" />
+          <mxGeometry height="30" width="350" x="1505" y="2564" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-50" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Position (free text)" vertex="1">
-          <mxGeometry height="30" width="350" x="1504" y="2495" as="geometry" />
+          <mxGeometry height="30" width="350" x="1505" y="2482" as="geometry" />
         </mxCell>
-        <mxCell id="MESAC6d0Qj6qYFJvGU92-53" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Hva er din brutto årslønn før skatt? Oppgi dette for 100 % stilling:" vertex="1">
-          <mxGeometry height="20" width="510" x="1505" y="2627" as="geometry" />
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-53" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Hva er din brutto årslønn før skatt? &lt;br&gt;Oppgi dette for 100 % stilling:" vertex="1">
+          <mxGeometry height="32" width="510" x="1505" y="2615" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-55" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Fornavn og mellomnavn" vertex="1">
           <mxGeometry height="40" width="260" x="886" y="2095.5" as="geometry" />
@@ -549,10 +549,10 @@
           <mxGeometry height="30" width="200" x="1012" y="2661" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-83" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Avdeling" vertex="1">
-          <mxGeometry height="20" width="348" x="1505" y="2356" as="geometry" />
+          <mxGeometry height="20" width="348" x="1504" y="2326.5" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-84" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Sub unit" vertex="1">
-          <mxGeometry height="30" width="350" x="1504" y="2387.5" as="geometry" />
+          <mxGeometry height="30" width="350" x="1503" y="2358" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-85" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Google address search" vertex="1">
           <mxGeometry height="30" width="251" x="886" y="2509" as="geometry" />
@@ -633,6 +633,127 @@
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=26;" value="Step 3" vertex="1">
           <mxGeometry height="30" width="317" x="1556" y="3215" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-115" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3142.64" y="-793.94" as="sourcePoint" />
+            <mxPoint x="3591.12" y="-926" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-116" connectable="0" parent="MESAC6d0Qj6qYFJvGU92-115" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=19;fontColor=default;defaultLabelBackgroundColor=gap;" value="Forsvar" vertex="1">
+          <mxGeometry relative="1" x="-0.3017" y="-1" as="geometry">
+            <mxPoint x="29" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="907" width="440" x="3611" y="-1372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-118" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Neste &amp;gt;" vertex="1">
+          <mxGeometry height="33" width="86" x="3919" y="-548.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-119" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Tilbake" vertex="1">
+          <mxGeometry height="33" width="86" x="3643" y="-542" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-120" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Parat forsvars forsikringer" vertex="1">
+          <mxGeometry height="32" width="364" x="3649" y="-1337.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;Parat forsvar har egen forsikringsavtale med If. Du får full oversikt over alle forsikringene dine på &quot;Mine sider&quot;.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Vi har to obligatoriske forsikringer med reservasjonsrett. Det betyr at du kan reservere deg mot disse, men vær oppmerksom på at Parat forsvars forsikringspakke ikke krever helse­skjema hvis du kjøper den samtidig som du melder deg inn i Parat forsvar. Ønsker du å kjøpe forsikringen på et senere tidspunkt, kreves en helsevurdering.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Informasjon om forsikringene.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Kryss av her hvis det er forsikringer du ikke ønsker.&lt;/p&gt;&lt;h3 dir=&quot;auto&quot;&gt;Kollektive obligatoriske forsikringer:&lt;/h3&gt;&lt;p dir=&quot;auto&quot;&gt;☐ Jeg &lt;strong&gt;ønsker ikke&lt;/strong&gt; Parat forsvar-pakken&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;☐ Jeg &lt;strong&gt;ønsker ikke&lt;/strong&gt; Parat forsvar Innbo&lt;/p&gt;&lt;h3 dir=&quot;auto&quot;&gt;Andre kollektive forsikringer er:&lt;/h3&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;Parat forsvar helseforsikring (trenger ikke helseerklæring)&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;Parat forsvar reise&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;Parat forsvar partner&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;p dir=&quot;auto&quot;&gt;Dersom du ønsker noen av de kollektive frivillige forsikringene &lt;strong&gt;må&lt;/strong&gt; du krysse av for den eller de du ønsker.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;☐ &lt;strong&gt;Jeg ønsker&lt;/strong&gt; Parat forsvar Helseforsikring&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;☐ &lt;strong&gt;Jeg ønsker&lt;/strong&gt; Parat forsvar Reiseforsikring&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;☐ &lt;strong&gt;Jeg ønsker&lt;/strong&gt; Parat forsvar Partnerforsikring&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Som medlem i Parat forsvar får du 15 prosent rabatt på andre skadeforsikringer hos If, for eksempel bil, bolig, barn, mc og husdyr.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;I tillegg kan du gjennom fordelsprogrammet til If få inntil 20 prosent rabatt på private skadeforsikringer.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;☐ For at jeg skal få rabatter hos If forsikring, samtykker jeg til at Parat kan dele min nødvendige informasjon med dem.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Hvilken informasjon deler vi?&lt;/p&gt;" vertex="1">
+          <mxGeometry height="758.5" width="379" x="3645" y="-1282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-138" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3150" y="-730" as="sourcePoint" />
+            <mxPoint x="3558.08" y="-135.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-139" connectable="0" parent="MESAC6d0Qj6qYFJvGU92-138" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=19;fontColor=default;defaultLabelBackgroundColor=gap;" value="The rest" vertex="1">
+          <mxGeometry relative="1" x="-0.3017" y="-1" as="geometry">
+            <mxPoint x="29" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="795" width="440" x="3611" y="-407" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-141" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Neste &amp;gt;" vertex="1">
+          <mxGeometry height="33" width="86" x="3920" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-142" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Tilbake" vertex="1">
+          <mxGeometry height="33" width="86" x="3644" y="330.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-143" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Betaling av kontingent" vertex="1">
+          <mxGeometry height="32" width="364" x="3643" y="-387" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-145" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="3636" y="-279.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-146" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="3636" y="-245.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Jeg ønsker å betale kongenten med trekk i lønn&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="358" x="3666" y="-287" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Jeg ønsker å betale kontingenten med giro&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="358" x="3666" y="-257" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-149" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Bekreftelse" vertex="1">
+          <mxGeometry height="20" width="430" x="3648" y="241" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-151" parent="1" style="text;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot; style=&quot;line-height: 100%;&quot;&gt;Kontingenten trekkes direkte fra din lønn for hver lønnsutbetaling og opplyses på lønnsslippen. Vi sender beskjed til ditt lønningskontor og ber dem starte trekket på en gitt dato&lt;/p&gt;" vertex="1">
+          <mxGeometry height="66" width="370" x="3641" y="-364" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-152" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Vervet av annet medlem?" vertex="1">
+          <mxGeometry height="20" width="430" x="3638" y="-62" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-153" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=13;" value="Lønnssamtale&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Ønsker du å benytte deg av tilbudet om en 30-minutters lønnssamtale med en rådgiver i Parat&lt;/span&gt;" vertex="1">
+          <mxGeometry height="61" width="379" x="3641" y="-202" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-154" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="3641" y="-139.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-155" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="3641" y="-105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ja&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="358" x="3671" y="-147" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nei&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="358" x="3671" y="-117" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-158" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="3643" y="-28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-159" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="3643" y="5.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ja&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="358" x="3673" y="-36" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nei&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="358" x="3673" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-162" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Ververs mobilnummer:" vertex="1">
+          <mxGeometry height="40" width="260" x="3641" y="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-163" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Mobilephone" vertex="1">
+          <mxGeometry height="30" width="350" x="3641" y="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-164" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Ververs fornavn" vertex="1">
+          <mxGeometry height="40" width="260" x="3641" y="131.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-165" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Address" vertex="1">
+          <mxGeometry height="30" width="185" x="3641" y="171.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-166" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" value="Ververs etternavn" vertex="1">
+          <mxGeometry height="40" width="322" x="3845" y="131.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-167" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Housenumber" vertex="1">
+          <mxGeometry height="30" width="179" x="3845" y="171.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-168" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="3645" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Jeg har lest og akseptert Parats vedtekster for medlemskap" vertex="1">
+          <mxGeometry height="30" width="350" x="3651" y="269" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
