@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
-    <mxGraphModel dx="2086" dy="4488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3023" dy="5022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,6 +754,93 @@
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Jeg har lest og akseptert Parats vedtekster for medlemskap" vertex="1">
           <mxGeometry height="30" width="350" x="3651" y="269" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-170" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="648" width="440" x="4813" y="-1270" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-171" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Send inn" vertex="1">
+          <mxGeometry height="33" width="86" x="4958" y="-704" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-173" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Dine meldemsfordeler" vertex="1">
+          <mxGeometry height="32" width="364" x="4845" y="-1250" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-179" parent="1" style="text;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;De fleste medlemmer bruker fordelene Parat har med If, Gjensidige og Nordea Bank. Mange sparer inn hele kontingenten. Gi dine samtykker her.&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3 dir=&quot;auto&quot; class=&quot;&quot;&gt;Gjensidige forsikring og pensjon&lt;/h3&gt;&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;&lt;br&gt;For at jeg skal få rabatter hos Gjensidige-selskapene, samtykker jeg at Parat kan dele min nødvendige informasjon med dem.&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;&lt;u&gt;[Hvilken informasjon deler vi?]&lt;/u&gt;&lt;/p&gt;&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Jeg ønsker råd og markedsføring på:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3 dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;Nordea Bank&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;☑ For at jeg skal få medlemspriser hos Nordea Bank, samtykker jeg at Parat kan dele min nødvendige informasjon med dem.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;[Hvilken informasjon deler vi?]&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p dir=&quot;auto&quot; class=&quot;&quot;&gt;Jeg ønsker råd og markedsføring på:&lt;/p&gt;" vertex="1">
+          <mxGeometry height="563" width="370" x="4843" y="-1227" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-204" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4103.24" y="-2181.82" as="sourcePoint" />
+            <mxPoint x="4788.59" y="-858.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-206" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4069.75" y="-1595.91" as="sourcePoint" />
+            <mxPoint x="4753.81" y="-866.93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-208" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4069.75" y="-920.55" as="sourcePoint" />
+            <mxPoint x="4778.45" y="-836.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-210" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4069.75" y="-37.94" as="sourcePoint" />
+            <mxPoint x="4768.58" y="-795.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-213" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240.5" width="440" x="5650" y="-1022" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-216" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Welcome to Parat!" vertex="1">
+          <mxGeometry height="32" width="364" x="5682" y="-1002" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-222" parent="1" style="text;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;Vi setter stor pris på at du har valgt å bli medlem, og vi i Parat skal jobbe for at du skal få en bedre arbeidsdag.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;Straks medlemsservice har bekreftet ditt medlemskap vil du ha tilgang til Min side. Her kan du når som helst logge deg inn og endre dine innstillinger.&lt;br&gt;&lt;br&gt;Hilsen Parat&lt;/p&gt;" vertex="1">
+          <mxGeometry height="185" width="370" x="5680" y="-979" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-240" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5318.58" y="-885.42" as="sourcePoint" />
+            <mxPoint x="5621.93" y="-890.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-241" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="4843" y="-769" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-242" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="E-post" vertex="1">
+          <mxGeometry height="30" width="81" x="4863" y="-776" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-243" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="4922" y="-769" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-244" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="SMS" vertex="1">
+          <mxGeometry height="30" width="81" x="4942" y="-776" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-245" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="4983" y="-769" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-246" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Telefon Gjensidige forsikring" vertex="1">
+          <mxGeometry height="30" width="179" x="5003" y="-776" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-247" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="4847" y="-1019" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-248" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="E-post" vertex="1">
+          <mxGeometry height="30" width="81" x="4867" y="-1026" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-249" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="4926" y="-1019" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-250" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="SMS" vertex="1">
+          <mxGeometry height="30" width="81" x="4946" y="-1026" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-251" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="4987" y="-1019" as="geometry" />
+        </mxCell>
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-252" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Telefon Gjensidige forsikring" vertex="1">
+          <mxGeometry height="30" width="179" x="5007" y="-1026" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
