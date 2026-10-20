@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
-    <mxGraphModel dx="2513" dy="4673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4346" dy="5675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1085,23 +1085,23 @@
         <mxCell id="MESAC6d0Qj6qYFJvGU92-380" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Tilbake" vertex="1">
           <mxGeometry height="33" width="86" x="2557" y="1910" as="geometry" />
         </mxCell>
-        <mxCell id="MESAC6d0Qj6qYFJvGU92-381" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=19;fontStyle=1" value="Jeg er arbeidsledig&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Lærling - Forsvaret&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="101" width="405" x="2563" y="1557" as="geometry" />
+        <mxCell id="MESAC6d0Qj6qYFJvGU92-381" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=19;fontStyle=1" value="Jeg er arbeidsledig&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;For nye medlemmer som er registrert som arbeidsledig ved innmelding trenger vi informasjon om når du ble ledig. Og om du har arbeidsavklaringspenger fra NAV eller ikke.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="131.5" width="405" x="2563" y="1557" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-382" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Date" vertex="1">
-          <mxGeometry height="30" width="101" x="2563" y="1663" as="geometry" />
+          <mxGeometry height="30" width="101" x="2563" y="1686" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-383" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="2551" y="1715" as="geometry" />
+          <mxGeometry height="15" width="15" x="2551" y="1738" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-384" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;" value="" vertex="1">
-          <mxGeometry height="15" width="15" x="2551" y="1749" as="geometry" />
+          <mxGeometry height="15" width="15" x="2551" y="1772" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-385" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Jeg er arbeidsledig&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="2581" y="1707.5" as="geometry" />
+          <mxGeometry height="30" width="197" x="2581" y="1730.5" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-386" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Jeg er permitert&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="197" x="2581" y="1737.5" as="geometry" />
+          <mxGeometry height="30" width="197" x="2581" y="1760.5" as="geometry" />
         </mxCell>
         <mxCell id="MESAC6d0Qj6qYFJvGU92-387" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" value="Comment" vertex="1">
           <mxGeometry height="85.75" width="350" x="2557" y="1802.25" as="geometry" />
