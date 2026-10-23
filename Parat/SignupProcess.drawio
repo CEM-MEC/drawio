@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
-    <mxGraphModel dx="4744" dy="5775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5594" dy="5775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1356,6 +1356,9 @@
         </mxCell>
         <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-98" parent="1" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="16" width="16" x="4997" y="-42" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-99" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h3&gt;Validations&lt;/h3&gt;&lt;p&gt;Most pages include validations to ensure that required fields have been completed or answered, and that text fields follow the expected format. For example, annual salary must be entered as a five-digit number, and both email addresses and national identity numbers must be valid.&lt;/p&gt;&lt;p&gt;For insurance options, there is also explanatory text describing the consequences of not selecting an insurance policy.&lt;/p&gt;&lt;p&gt;Responses entered by users are continuously interpreted and converted into appropriate values for import into Winorg. The requirement to register this information in Winorg is also the reason why many of these validations exist in the first place.&lt;/p&gt;&lt;p&gt;These validations may not necessarily be required in a new implementation. Each validation should therefore be reviewed individually.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="259" width="550" x="-734" y="298.496666666667" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
