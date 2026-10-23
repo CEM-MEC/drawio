@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
-    <mxGraphModel dx="14231" dy="10725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="16264" dy="11786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1312,6 +1312,47 @@
             <mxPoint x="4024.75" y="2366.67" as="sourcePoint" />
             <mxPoint x="4235.17" y="2358.33" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-83" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1371.57" y="867.71" as="sourcePoint" />
+            <mxPoint x="1725.14" y="3807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-84" connectable="0" parent="Bmru2NzVVJbJ9Qg5VYjq-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=9;fontColor=default;defaultLabelBackgroundColor=gap;" value="&lt;span style=&quot;font-size: 19px; white-space: normal;&quot;&gt;Arbeidssøkende&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1107" y="7" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="214.5" width="440" x="1820" y="3784" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-86" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Tusen takk" vertex="1">
+          <mxGeometry height="32" width="364" x="1852" y="3804" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-87" parent="1" style="text;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;Som pensjonist får du et medlemskap hvor du betaler kun for 1 måned pr år. Du har samme fordeler og rettigheter som ved et ordinært medlemskap&lt;/p&gt;" vertex="1">
+          <mxGeometry height="185" width="370" x="1850" y="3827" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240.5" width="440" x="2551.5" y="3827" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-90" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontColor=#102337;spacing=0;fontStyle=1;fontSize=21;fontColor=#425B71;" value="Tusen takk" vertex="1">
+          <mxGeometry height="32" width="364" x="2583.5" y="3847" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-91" parent="1" style="text;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;p dir=&quot;auto&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;Din informasjon er nå registrert. Dagen etter medlemsservice har bekreftet ditt medlemskap vil du ha tilgang til Min side. Her kan du når som helst logge deg inn og endre dine innstillinger.&lt;/p&gt;&lt;p dir=&quot;auto&quot;&gt;&lt;br&gt;Hilsen Parat&lt;/p&gt;" vertex="1">
+          <mxGeometry height="185" width="370" x="2581.5" y="3870" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-92" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2313.25" y="3919.17" as="sourcePoint" />
+            <mxPoint x="2523.67" y="3910.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-93" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Neste &amp;gt;" vertex="1">
+          <mxGeometry height="33" width="86" x="2148" y="3936.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-94" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" value="Tilbake" vertex="1">
+          <mxGeometry height="33" width="86" x="1872" y="3934" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
