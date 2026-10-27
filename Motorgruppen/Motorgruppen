@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3705" dy="2590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4965" dy="3322" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,8 +506,8 @@
         <mxCell id="TOxKMLUZtd2tu09rNigA-32" parent="1" style="text;html=1;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;" value="Tidsestimater" vertex="1">
           <mxGeometry height="40" width="900" x="3288" y="774" as="geometry" />
         </mxCell>
-        <mxCell id="TOxKMLUZtd2tu09rNigA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="Møte med Kate&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Likte skjermbildene. Noen deler av importen burde være med.&lt;br&gt;Hun ønsker en god kontroll - så NH har gjort flere forbedringer.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="157" width="301" x="4031" y="1842" as="geometry" />
+        <mxCell id="TOxKMLUZtd2tu09rNigA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="Møte med Kate&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Likte skjermbildene. Noen deler av importen burde være med.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Hun ønsker en god kontroll - så NH har gjort flere forbedringer.&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="157" width="301" x="4012" y="1813" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
