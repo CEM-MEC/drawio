@@ -497,16 +497,11 @@
             <mxPoint x="4" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TOxKMLUZtd2tu09rNigA-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;defaultLabelBackgroundColor=page;fillColor=#ffff88;strokeColor=#0245FF;strokeWidth=3;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3703.01" y="1024" as="sourcePoint" />
-            <mxPoint x="3703" y="862.52" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="TOxKMLUZtd2tu09rNigA-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;434,5 t -&amp;nbsp;&lt;/b&gt;21,94 %" vertex="1">
+          <mxGeometry height="24" width="362" x="3564" y="1026" as="geometry" />
         </mxCell>
-        <mxCell id="TOxKMLUZtd2tu09rNigA-29" connectable="0" parent="TOxKMLUZtd2tu09rNigA-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=17;defaultLabelBackgroundColor=page;" value="173 timer" vertex="1">
-          <mxGeometry relative="1" x="0.7705" y="2" as="geometry">
-            <mxPoint x="4" y="-31" as="offset" />
-          </mxGeometry>
+        <mxCell id="TOxKMLUZtd2tu09rNigA-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;173 t -&amp;nbsp;&lt;/b&gt;8,74 %" vertex="1">
+          <mxGeometry height="24" width="144" x="3926" y="1026" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
