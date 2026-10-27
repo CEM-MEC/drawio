@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="4046" dy="2788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3705" dy="2590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,16 +316,16 @@
           <mxGeometry height="542" width="250" x="3838" y="1227" as="geometry" />
         </mxCell>
         <mxCell id="1EHxAnuaM5fACTTxyQjN-17" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="80" width="121" x="10" y="450" as="geometry" />
+          <mxGeometry height="80" width="156" x="10" y="450" as="geometry" />
         </mxCell>
         <mxCell id="1EHxAnuaM5fACTTxyQjN-15" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="80" width="24" x="10" y="358" as="geometry" />
+          <mxGeometry height="80" width="36" x="10" y="358" as="geometry" />
         </mxCell>
         <mxCell id="1EHxAnuaM5fACTTxyQjN-14" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="80" width="115" x="10" y="266" as="geometry" />
+          <mxGeometry height="80" width="156" x="10" y="266" as="geometry" />
         </mxCell>
         <mxCell id="1EHxAnuaM5fACTTxyQjN-13" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="80" width="54" x="10" y="82" as="geometry" />
+          <mxGeometry height="80" width="184" x="10" y="82" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--14" parent="Dcc1f5_YDKYtYkoTO81--13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=11;align=left;spacingLeft=8;spacingRight=8;strokeColor=#FFD966;" value="&lt;b&gt;2.1&lt;/b&gt; Automatisk innhenting av ukentlig eierleveranse til mellomlager" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
@@ -345,10 +345,13 @@
         <mxCell id="Dcc1f5_YDKYtYkoTO81--19" parent="1" style="swimlane;html=1;startSize=70;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Inkrement 3: GDPR, samtykke og lead&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;410 t · G5 uke 3 (2027)&lt;/font&gt;" vertex="1">
           <mxGeometry height="542" width="250" x="4118" y="1227" as="geometry" />
         </mxCell>
+        <mxCell id="TOxKMLUZtd2tu09rNigA-34" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
+          <mxGeometry height="80" width="39" x="10" y="174" as="geometry" />
+        </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--20" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.1&lt;/b&gt; Dobbel skriving av samtykke: gamle felter + ProcessingConsent" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
         </mxCell>
-        <mxCell id="Dcc1f5_YDKYtYkoTO81--21" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.2&lt;/b&gt; GDPR-vedlikeholdsapp med rollebasert tilgang og revisjon" vertex="1">
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--21" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=11;align=left;spacingLeft=8;spacingRight=8;strokeColor=#EA6B66;" value="&lt;b&gt;3.2&lt;/b&gt; GDPR-vedlikeholdsapp med rollebasert tilgang og revisjon" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="174" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--22" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.3&lt;/b&gt; Verktøy for behandlingsaktiviteter og migrering av behandlingserklæringer" vertex="1">
@@ -502,6 +505,9 @@
         </mxCell>
         <mxCell id="TOxKMLUZtd2tu09rNigA-32" parent="1" style="text;html=1;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;" value="Tidsestimater" vertex="1">
           <mxGeometry height="40" width="900" x="3288" y="774" as="geometry" />
+        </mxCell>
+        <mxCell id="TOxKMLUZtd2tu09rNigA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="Møte med Kate&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Likte skjermbildene. Noen deler av importen burde være med.&lt;br&gt;Hun ønsker en god kontroll - så NH har gjort flere forbedringer.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="157" width="301" x="4031" y="1842" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
