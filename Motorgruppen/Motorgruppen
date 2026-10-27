@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="4046" dy="2788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3705" dy="2590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -420,16 +420,13 @@
         <mxCell id="1EHxAnuaM5fACTTxyQjN-10" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Kommentar&lt;/h1&gt;&lt;p&gt;- Usikre rader er redusert med svært mye&lt;br&gt;&lt;br&gt;&lt;b&gt;Datafactory&lt;/b&gt;&lt;br&gt;- Unik og Stabil id på Person, Organisasjon og Bil. (5 timer fra Datafactory). &lt;br&gt;&lt;br&gt;Registreringsstatus og registreringsdato. I dag så vi har forstått beregnes ut fra eksisterende data.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="239" width="260" x="3554" y="2208" as="geometry" />
         </mxCell>
-        <mxCell id="5wBLmYEvSLedwXBdYdxc-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=11;" value="Carl Erik setter opp møte med&amp;nbsp; Christian, Magnus og Niels Henrik.&lt;br&gt;Uke 44?&lt;br&gt;Torsdag(13-14 NEI) /Fredag" vertex="1">
-          <mxGeometry height="67" width="213" x="3335" y="2029" as="geometry" />
-        </mxCell>
         <mxCell id="5wBLmYEvSLedwXBdYdxc-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=11;" value="Rollebasert&lt;br&gt;(ingen stillinger inn i dette)" vertex="1">
-          <mxGeometry height="46" width="207" x="3335" y="2136" as="geometry" />
+          <mxGeometry height="46" width="207" x="3323" y="2239" as="geometry" />
         </mxCell>
         <mxCell id="5wBLmYEvSLedwXBdYdxc-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Godkjent" vertex="1">
-          <mxGeometry height="30" width="98" x="3340" y="2291" as="geometry" />
+          <mxGeometry height="30" width="98" x="3333" y="2306" as="geometry" />
         </mxCell>
-        <mxCell id="5wBLmYEvSLedwXBdYdxc-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;font-size: 6px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Det er forskjell på Garantistartdato og (første) Registreringsdato i 0.5% av tilfellene.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Noen ganger vil registreringsdatoen være fra utlandet.&amp;nbsp;&lt;br&gt;Første registreringsdato i norge (registrert første gang i norge)&lt;br&gt;Første registreringsdato i utlandet(registrert første gang)&lt;br&gt;Registert på nåværende eier (registrert første gang på eier)&lt;/font&gt;" vertex="1">
+        <mxCell id="5wBLmYEvSLedwXBdYdxc-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=0" value="&lt;font style=&quot;font-size: 6px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Det er forskjell på Garantistartdato og (første) Registreringsdato i 0.5% av tilfellene.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Noen ganger vil registreringsdatoen være fra utlandet.&amp;nbsp;&lt;br&gt;Første registreringsdato i norge (registrert første gang i norge)&lt;br&gt;Første registreringsdato i utlandet(registrert første gang)&lt;br&gt;Registert på nåværende eier (registrert første gang på eier)&lt;/font&gt;" vertex="1">
           <mxGeometry height="275" width="180" x="3313" y="2324" as="geometry" />
         </mxCell>
         <mxCell id="TOxKMLUZtd2tu09rNigA-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" value="1980 timer totalt" vertex="1">
