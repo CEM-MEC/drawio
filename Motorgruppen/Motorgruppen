@@ -1,269 +1,9 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="4978" dy="2838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-653" dy="425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LqVJu08u3PKmjo9EklUH-1" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.clock;" value="Trigger" vertex="1">
-          <mxGeometry height="86" width="86" x="-348" y="6.600000000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Azure" vertex="1">
-          <mxGeometry height="681" width="1565" x="-76" y="-9" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-7" parent="LqVJu08u3PKmjo9EklUH-3" style="swimlane;startSize=0;strokeColor=#2100FF;" value="" vertex="1">
-          <mxGeometry height="456" width="1016" x="276" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-27" edge="1" parent="LqVJu08u3PKmjo9EklUH-7" source="LqVJu08u3PKmjo9EklUH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LqVJu08u3PKmjo9EklUH-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-8" parent="LqVJu08u3PKmjo9EklUH-7" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="ImportJob" vertex="1">
-          <mxGeometry height="116" width="160" x="51" y="283" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-9" parent="LqVJu08u3PKmjo9EklUH-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-10" parent="LqVJu08u3PKmjo9EklUH-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="JobNr" vertex="1">
-          <mxGeometry height="30" width="160" y="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-11" parent="LqVJu08u3PKmjo9EklUH-8" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="DateTime" vertex="1">
-          <mxGeometry height="30" width="160" y="86" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-13" parent="LqVJu08u3PKmjo9EklUH-7" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="CurrentDataInCRM" vertex="1">
-          <mxGeometry height="86" width="160" x="263" y="142" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-14" parent="LqVJu08u3PKmjo9EklUH-13" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-16" parent="LqVJu08u3PKmjo9EklUH-13" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="VIN" vertex="1">
-          <mxGeometry height="30" width="160" y="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-19" parent="LqVJu08u3PKmjo9EklUH-7" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="FindingChanges" vertex="1">
-          <mxGeometry height="146" width="160" x="571" y="178" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-20" parent="LqVJu08u3PKmjo9EklUH-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-73" parent="LqVJu08u3PKmjo9EklUH-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportJobNr" vertex="1">
-          <mxGeometry height="30" width="160" y="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-21" parent="LqVJu08u3PKmjo9EklUH-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Row" vertex="1">
-          <mxGeometry height="30" width="160" y="86" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-25" parent="LqVJu08u3PKmjo9EklUH-19" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Difference" vertex="1">
-          <mxGeometry height="30" width="160" y="116" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-26" edge="1" parent="LqVJu08u3PKmjo9EklUH-7" source="LqVJu08u3PKmjo9EklUH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="LqVJu08u3PKmjo9EklUH-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-51" edge="1" parent="LqVJu08u3PKmjo9EklUH-7" source="LqVJu08u3PKmjo9EklUH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LqVJu08u3PKmjo9EklUH-47" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="411" y="402" as="sourcePoint" />
-            <mxPoint x="710" y="378" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-47" parent="LqVJu08u3PKmjo9EklUH-7" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="ImportRow" vertex="1">
-          <mxGeometry height="116" width="160" x="263" y="283" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-48" parent="LqVJu08u3PKmjo9EklUH-47" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-49" parent="LqVJu08u3PKmjo9EklUH-47" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ImportJobNr" vertex="1">
-          <mxGeometry height="30" width="160" y="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-50" parent="LqVJu08u3PKmjo9EklUH-47" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="VIN" vertex="1">
-          <mxGeometry height="30" width="160" y="86" as="geometry" />
-        </mxCell>
-        <mxCell id="glOyAyHKgjkXf0rJRs08-1" parent="LqVJu08u3PKmjo9EklUH-7" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerApps.svg;" value="Dataflow" vertex="1">
-          <mxGeometry height="65.16" width="68" x="22" y="6" as="geometry" />
-        </mxCell>
-        <mxCell id="glOyAyHKgjkXf0rJRs08-2" parent="LqVJu08u3PKmjo9EklUH-3" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.onedrive;fillColor=#094AB1;strokeColor=none" value="" vertex="1">
-          <mxGeometry height="43.2" width="71.2" x="35" y="37" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-18" edge="1" parent="LqVJu08u3PKmjo9EklUH-3" source="glOyAyHKgjkXf0rJRs08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LqVJu08u3PKmjo9EklUH-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="131.99999999999955" y="132.00000000000023" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-28" edge="1" parent="1" source="LqVJu08u3PKmjo9EklUH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LqVJu08u3PKmjo9EklUH-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-30" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="299" width="1635" x="250" y="-368" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-12" parent="LqVJu08u3PKmjo9EklUH-30" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/Dataverse.svg;" value="" vertex="1">
-          <mxGeometry height="52.400000000000006" width="68" x="47" y="21.000000000000007" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-33" parent="LqVJu08u3PKmjo9EklUH-30" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Contacts" vertex="1">
-          <mxGeometry height="86" width="160" x="767" y="79" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-34" parent="LqVJu08u3PKmjo9EklUH-33" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-52" parent="LqVJu08u3PKmjo9EklUH-33" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Possible Duplicate (Lookup)" vertex="1">
-          <mxGeometry height="30" width="160" y="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-37" parent="LqVJu08u3PKmjo9EklUH-30" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Vehicle" vertex="1">
-          <mxGeometry height="56" width="160" x="971" y="79" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-38" parent="LqVJu08u3PKmjo9EklUH-37" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-39" parent="LqVJu08u3PKmjo9EklUH-30" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Ownership" vertex="1">
-          <mxGeometry height="56" width="160" x="1175" y="79" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-40" parent="LqVJu08u3PKmjo9EklUH-39" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-41" parent="LqVJu08u3PKmjo9EklUH-30" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Ownership" vertex="1">
-          <mxGeometry height="56" width="160" x="1363" y="79" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-42" parent="LqVJu08u3PKmjo9EklUH-41" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Guid" vertex="1">
-          <mxGeometry height="30" width="160" y="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-43" edge="1" parent="1" source="LqVJu08u3PKmjo9EklUH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LqVJu08u3PKmjo9EklUH-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-44" edge="1" parent="1" source="LqVJu08u3PKmjo9EklUH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LqVJu08u3PKmjo9EklUH-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-45" edge="1" parent="1" source="LqVJu08u3PKmjo9EklUH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LqVJu08u3PKmjo9EklUH-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LqVJu08u3PKmjo9EklUH-46" edge="1" parent="1" source="LqVJu08u3PKmjo9EklUH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LqVJu08u3PKmjo9EklUH-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="glOyAyHKgjkXf0rJRs08-3" edge="1" parent="1" source="LqVJu08u3PKmjo9EklUH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="glOyAyHKgjkXf0rJRs08-2" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-249" y="91" as="sourcePoint" />
-            <mxPoint x="23.999999999999545" y="91.00000000000023" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--1" parent="1" style="text;html=1;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;" value="Import og behandling av data fra OneDrive til Dynamics 365 / Dataverse" vertex="1">
-          <mxGeometry height="40" width="900" x="229" y="1549" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="1. Kilde – OneDrive" vertex="1">
-          <mxGeometry height="270" width="300" x="229" y="1609" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="OneDrive-mappe&#xa;/Import/Inbound" vertex="1">
-          <mxGeometry height="50" width="260" x="249" y="1649" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="4–6 filer (CSV/XLSX)&#xa;Fast filnavnmønster per kilde bestemmer&#xa;hvilken mapping som brukes" vertex="1">
-          <mxGeometry height="60" width="260" x="249" y="1719" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Arkivering etter kjøring&#xa;/Processed og /Failed" vertex="1">
-          <mxGeometry height="50" width="260" x="249" y="1799" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="2. Innlesing og staging" vertex="1">
-          <mxGeometry height="270" width="340" x="589" y="1609" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Power Automate&#xa;Trigger: fil opprettet/endret i mappe&#xa;(alt. planlagt kjøring)" vertex="1">
-          <mxGeometry height="60" width="300" x="609" y="1649" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Dataflow / Power Query&#xa;Les fil → normaliser, trim, valider&#xa;(format, obligatoriske felt, duplikater i fil)" vertex="1">
-          <mxGeometry height="60" width="300" x="609" y="1724" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Staging i Dataverse&#xa;Importbatch + Importrad&#xa;(rådata + normaliserte felt)" vertex="1">
-          <mxGeometry height="60" width="300" x="609" y="1799" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="3. Sammenligning og matching mot CRM" vertex="1">
-          <mxGeometry height="270" width="340" x="989" y="1609" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="Matcheregler per entitet" vertex="1">
-          <mxGeometry height="40" width="300" x="1009" y="1649" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=10;" value="Account: org.nr → navn + adresse&#xa;Contact: e-post → mobil → navn + adresse&#xa;Vehicle: VIN → registreringsnummer&#xa;Vehicle Owner: Vehicle + eier-referanse" vertex="1">
-          <mxGeometry height="80" width="300" x="1009" y="1699" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Resultat per rad: entydig match / usikker match /&#xa;ingen match (ny post) / ingen endring" vertex="1">
-          <mxGeometry height="60" width="300" x="1009" y="1799" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--14" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Sikker match og&#xa;endring som kan&#xa;behandles automatisk?" vertex="1">
-          <mxGeometry height="130" width="240" x="1039" y="1939" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="4. Automatisk behandling&#xa;Opprett eller oppdater post direkte i CRM&#xa;Logg endring på importraden" vertex="1">
-          <mxGeometry height="80" width="300" x="629" y="1964" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--16" parent="1" style="shape=note;whiteSpace=wrap;html=1;size=20;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacingLeft=8;" value="Ingen endring i data → raden markeres som&#xa;&quot;Ingen endring&quot; og lukkes uten skriving mot CRM.&#xa;Avviste poster beholdes i staging for sporbarhet." vertex="1">
-          <mxGeometry height="100" width="320" x="330" y="2266" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;dashed=1;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=14;" value="5. Manuell verifisering" vertex="1">
-          <mxGeometry height="290" width="600" x="959" y="2129" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Kontrolltabell i Dataverse&#xa;Importrader med status &quot;Til kontroll&quot;&#xa;+ foreslått match og begrunnelse" vertex="1">
-          <mxGeometry height="70" width="260" x="984" y="2169" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Modelldrevet app&#xa;Saksbehandler går gjennom&#xa;postene i egen visning" vertex="1">
-          <mxGeometry height="70" width="260" x="1274" y="2169" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;spacingLeft=12;" value="Beslutning per rad&#xa;• Opprett ny Contact / Account / Vehicle / Vehicle Owner&#xa;• Koble mot eksisterende post&#xa;• Oppdater eksisterende data&#xa;• Avvis eller ignorer" vertex="1">
-          <mxGeometry height="120" width="550" x="984" y="2269" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;" value="6. Dynamics 365 / Dataverse&#xa;Account · Contact · Vehicle · Vehicle Owner" vertex="1">
-          <mxGeometry height="90" width="560" x="499" y="2464" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="Status og sporbarhet&#xa;Batchstatus, radstatus, handling,&#xa;feilmelding, behandlet av / når" vertex="1">
-          <mxGeometry height="90" width="285" x="1257.5" y="2464" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--23" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--24" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--25" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--26" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="C9seFHKmE-eIZFqgsud--11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--27" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--28" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontStyle=1;" target="C9seFHKmE-eIZFqgsud--15" value="Ja">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--29" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontStyle=1;" target="C9seFHKmE-eIZFqgsud--18" value="Nei / usikker match">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--30" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--31" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--32" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="C9seFHKmE-eIZFqgsud--21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--33" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;fontStyle=1;" target="C9seFHKmE-eIZFqgsud--21" value="Godkjent">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--34" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;" target="C9seFHKmE-eIZFqgsud--22" value="Skriv tilbake status">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--35" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Trigger" vertex="1">
-          <mxGeometry height="80" width="80" x="62" y="1697" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--36" edge="1" parent="1" source="C9seFHKmE-eIZFqgsud--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;" target="C9seFHKmE-eIZFqgsud--2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9seFHKmE-eIZFqgsud--37" parent="1" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="2095.3" width="1944.84" x="-184.99999999999997" y="-908" as="geometry" />
-        </mxCell>
-        <mxCell id="n_QINRP-51an19sY8MbV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="60" width="4473" x="-1641" y="2747" as="geometry" />
-        </mxCell>
-        <mxCell id="n_QINRP-51an19sY8MbV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="Epic - Hovedprosjekt CRM" vertex="1">
-          <mxGeometry height="30" width="430.5" x="-761" y="3096" as="geometry" />
-        </mxCell>
-        <mxCell id="n_QINRP-51an19sY8MbV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Eksport av markedsføringslister til Okulus" vertex="1">
-          <mxGeometry height="26" width="239" x="-733.5" y="2934" as="geometry" />
-        </mxCell>
-        <mxCell id="n_QINRP-51an19sY8MbV-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ikke definert&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Eksport av markedsføringslister til Okulus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Hvilke data kommer inn hvor?&lt;br&gt;&lt;br&gt;Hvilke data går hvor?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="280" width="456" x="-52" y="2833" as="geometry" />
-        </mxCell>
-        <mxCell id="n_QINRP-51an19sY8MbV-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=7;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(User story)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="-761" y="3134" as="geometry" />
-        </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--1" parent="1" style="text;html=1;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;" value="Fase 1 – Hovedprosjekt CRM-migrering: arbeidspakker" vertex="1">
           <mxGeometry height="40" width="900" x="3278" y="1137" as="geometry" />
         </mxCell>
@@ -510,13 +250,13 @@
           <mxGeometry height="24" width="196" x="3564" y="1024" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;03.11&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Klart til å demonstrere for Kate. Niels Henrik kommer ned. Workshop&lt;div&gt;&lt;br&gt;- Tabellene klare for GDPR, vi gjør lite med skjemaene før da så kan vi avdekke behov sammen .&lt;/div&gt;&lt;div&gt;&lt;br&gt;- 3 Demoer klare&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Oversettelse kommer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fremtiden:&lt;/div&gt;&lt;div&gt;- Mange duplikater. Kanskje et prosjekt til senere?&lt;/div&gt;&lt;div&gt;- Vurdere linsensmodell?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;Carl Erik fikser god oversikt over integrasjoner til 10.11&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="358" width="230" x="3854" y="1803" as="geometry" />
+          <mxGeometry height="358" width="230" x="4178" y="2949" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="20.10&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="247" x="3512" y="2932" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;10.11&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Cartagena forbereder hva de erstatter i AX&lt;br&gt;&lt;br&gt;- Revisjonsspor? Hvilke behov er det?&lt;br&gt;&lt;br&gt;- Leads opprettes fra AX. Dette må flyttes. Mye usikkerhetsmomenter? Cartagena må vite hva som oppretter data i AX, slik at det flyttes over til Dataverse. &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;(Hør først med Claude). &lt;/b&gt;Hvor ligger ssis-jobben?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Alle integrasjoner som brukes i dag mot AX skal flyttes over til Dataverse (finnes i Wiki)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Spør Peritus om: Salgsmelding og Registrering av bil/sluttkunde.&lt;br&gt;&lt;br&gt;&lt;br&gt;- Niels Henrik sier noen ord om hvordan Salgsmelding er tiltenkt i dag.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="383" width="230" x="5959" y="1983" as="geometry" />
+          <mxGeometry height="383" width="230" x="6230" y="1838" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;202 t (10,20 %)&lt;/b&gt;" vertex="1">
           <mxGeometry height="24" width="168" x="3760" y="1024" as="geometry" />
@@ -832,6 +572,9 @@
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-101" parent="1" style="text;html=1;fontSize=10;align=left;verticalAlign=top;fontColor=#616161;whiteSpace=wrap;" value="Pil i begge ender = toveis.&lt;br&gt;Mappingsfeltene er forenklet; se wikisidene for detaljer." vertex="1">
           <mxGeometry height="50" width="290" x="6220" y="1714" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manglende saker&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Definisjon&amp;nbsp;" vertex="1">
+          <mxGeometry height="358" width="230" x="2788" y="1871" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
