@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="4719" dy="2730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4978" dy="2838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -632,7 +632,7 @@
         <mxCell id="EJNvxfS2epTDCXOeZB8f-46" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-17" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-18" value="Ukentlig CSV">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-47" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-17" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="REST-oppslag VIN/KUID/regnr/fnr/orgnr&lt;br&gt;(publisert 16.09.26 – kallere ikke etablert)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-47" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-17" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-48" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-18" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-25" value="Ukentlig SFTP: eierskapsuttrekk per merke (fulle snapshots)">
@@ -643,7 +643,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-50" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-18" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="EJNvxfS2epTDCXOeZB8f-32" value="DF-001 søke-API: lead-berikelse ved ukjent kontakt (inkl. reservasjoner)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-50" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-18" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="EJNvxfS2epTDCXOeZB8f-32" value="">
           <mxGeometry relative="1" x="-0.4263" y="-5" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -651,27 +651,27 @@
         <mxCell id="EJNvxfS2epTDCXOeZB8f-51" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-19" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#C62828;strokeWidth=3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-20" value="Lead ads">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-52" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-20" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#C62828;strokeWidth=3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-30" value="Leads – feiler månedlig/kvartalsvis (SPOF utenfor MDAS&#39; kontroll)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-52" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-20" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#C62828;strokeWidth=3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-30" value="">
           <mxGeometry relative="1" x="-0.4127" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-53" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-21" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="Transport-/PDI-status (app-apim-import-axess)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-53" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-21" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-54" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-23" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-24" value="Entra ID → SimpleAuth (ikke publisert i prod)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-54" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-23" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-55" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-24" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-26" value="Kunde, salgs-/innkjøpsordre, lager (AX-004)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-55" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-24" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-26" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-56" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-24" value="Salgsordre med Crystallize kunde-ID (AX-004)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-56" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-57" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="app-apim-mp-webshop: kundeoppslag/ordre (ikke etablert)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-57" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-58" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.7;entryX=0;entryY=0.5;" target="EJNvxfS2epTDCXOeZB8f-37" value="Produktpush AX-007 (GraphQL PIM)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-58" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.7;entryX=0;entryY=0.5;" target="EJNvxfS2epTDCXOeZB8f-37" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="7080" y="916" />
@@ -679,7 +679,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-59" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-27" value="CarCBSalesOpertunityQueryView (nattlig)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-59" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-27" value="">
           <mxGeometry relative="1" x="0.1786" y="51" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -689,13 +689,13 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-62" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-27" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="Forhandler.CRMLeads, CRMLeasingOppfølging">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-62" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-27" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-63" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="GetCustomerDetailsFromAX – nattlig 01:00 REST&lt;br&gt;contact + af_consent (AutoFacets)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-63" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-64" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-30" value="AX-013 PtsCarCbService: kunde-/biloppslag on-demand (også SmartPlanner)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-64" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-30" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-65" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="API (bygget på Dataverse)">
@@ -704,7 +704,7 @@
         <mxCell id="EJNvxfS2epTDCXOeZB8f-66" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-31" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="API (forutsatt fungerende)">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-67" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-31" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-43" value="Ordresync – manuell ID-matching ved forhandler-onboarding">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-67" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-31" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-43" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-68" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-33" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="Samtykke/profil via Web API; leser kunde-/samtykkedata – delvis fungerende">
@@ -734,10 +734,10 @@
         <mxCell id="EJNvxfS2epTDCXOeZB8f-76" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-38" value="Kontakter + samtykke">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-77" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-38" value="Manuell eksport per kampanje – avmeldinger synkes ikke tilbake">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-77" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-38" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-78" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.9;entryX=0;entryY=0.5;" target="EJNvxfS2epTDCXOeZB8f-39" value="Kampanjeuttrekk (manuelt) → fil \\Space\...\TilOculos, nattlig&lt;br&gt;← avmeldinger kopieres manuelt tilbake">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-78" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.9;entryX=0;entryY=0.5;" target="EJNvxfS2epTDCXOeZB8f-39" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="7065" y="938" />
@@ -745,23 +745,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-79" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-28" value="AX-008 nattlig SQL-push">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-79" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-28" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-80" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-28" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-29" value="SQL-lesing">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-80" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-28" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-81" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="Rapportdata">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-81" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-82" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-41" value="Leads (unngå dobbeltregistrering)">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-83" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-42" value="Lead push SaMS-001/002 (status uavklart)">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-83" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-42" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-84" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-42" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#BDBDBD;strokeWidth=1;dashed=1;dashPattern=1 3;fontColor=#9E9E9E;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="Dataeksport (referanse)">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-84" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-42" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#BDBDBD;strokeWidth=1;dashed=1;dashPattern=1 3;fontColor=#9E9E9E;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6975.04" y="1720.53" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-85" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-43" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#BDBDBD;strokeWidth=1;dashed=1;dashPattern=1 3;fontColor=#9E9E9E;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-44" value="INCADEA-001 (referanse)">
           <mxGeometry relative="1" as="geometry" />
