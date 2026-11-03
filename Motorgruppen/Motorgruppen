@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3476" dy="2413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2668" dy="1968" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,10 +292,10 @@
           <mxGeometry height="80" width="195" x="10" y="450" as="geometry" />
         </mxCell>
         <mxCell id="1EHxAnuaM5fACTTxyQjN-2" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="80" width="195" x="10" y="266" as="geometry" />
+          <mxGeometry height="80" width="215" x="10" y="266" as="geometry" />
         </mxCell>
         <mxCell id="1EHxAnuaM5fACTTxyQjN-1" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="80" width="169" x="10" y="82" as="geometry" />
+          <mxGeometry height="80" width="221" x="10" y="82" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--8" parent="Dcc1f5_YDKYtYkoTO81--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=11;align=left;spacingLeft=8;spacingRight=8;strokeColor=#97D077;" value="&lt;b&gt;1.1&lt;/b&gt; Valideringsflagg på kunden: verifisering med tidsstempel og kilde, gjennomgangsvisning, sannhetstabell, plugin for kildevalidering" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
