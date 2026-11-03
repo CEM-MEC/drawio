@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3747" dy="2425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4516" dy="2788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,6 +526,308 @@
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Utenfor scope" vertex="1">
           <mxGeometry height="30" width="97" x="3467" y="1068" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-12" parent="1" style="rounded=1;arcSize=2;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#BDBDBD;verticalAlign=top;align=left;spacingLeft=10;spacingTop=6;fontStyle=1;fontSize=14;dashed=1;" value="Eksterne kilder" vertex="1">
+          <mxGeometry height="1000" width="300" x="6205" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-13" parent="1" style="rounded=1;arcSize=2;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#90CAF9;verticalAlign=top;align=left;spacingLeft=10;spacingTop=6;fontStyle=1;fontSize=14;dashed=1;" value="ERP og integrasjonslag" vertex="1">
+          <mxGeometry height="1000" width="520" x="6545" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-14" parent="1" style="rounded=1;arcSize=2;whiteSpace=wrap;html=1;fillColor=#EDE7F6;strokeColor=#B39DDB;verticalAlign=top;align=left;spacingLeft=10;spacingTop=6;fontStyle=1;fontSize=14;dashed=1;" value="CRM-plattform (Dynamics 365 / Dataverse)" vertex="1">
+          <mxGeometry height="1000" width="560" x="7105" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-15" parent="1" style="rounded=1;arcSize=2;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#A5D6A7;verticalAlign=top;align=left;spacingLeft=10;spacingTop=6;fontStyle=1;fontSize=14;dashed=1;" value="Kundeflater og markedsføring" vertex="1">
+          <mxGeometry height="1000" width="560" x="7705" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-16" parent="1" style="rounded=1;arcSize=2;whiteSpace=wrap;html=1;fillColor=#FFF8E1;strokeColor=#FFD54F;verticalAlign=top;align=left;spacingLeft=10;spacingTop=6;fontStyle=1;fontSize=14;dashed=1;" value="Forhandlersystemer og rapportering" vertex="1">
+          <mxGeometry height="260" width="1720" x="6545" y="1519" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#757575;fontSize=12;" value="&lt;b&gt;Statens vegvesen&lt;/b&gt;&lt;br&gt;Kjøretøyregisteret (akfell)" vertex="1">
+          <mxGeometry height="70" width="200" x="6245" y="529" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#757575;fontSize=12;" value="&lt;b&gt;DataFactory.no&lt;/b&gt;&lt;br&gt;Eierdata-leverandør" vertex="1">
+          <mxGeometry height="70" width="200" x="6245" y="749" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#757575;fontSize=12;" value="&lt;b&gt;Meta&lt;/b&gt;&lt;br&gt;Facebook / Instagram lead ads" vertex="1">
+          <mxGeometry height="70" width="200" x="6245" y="939" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFEBEE;strokeColor=#C62828;fontSize=12;" value="&lt;b&gt;Zapier&lt;/b&gt;&lt;br&gt;(eid og driftet av OMD)" vertex="1">
+          <mxGeometry height="70" width="200" x="6245" y="1059" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#757575;fontSize=12;" value="&lt;b&gt;Axess Logistics&lt;/b&gt;&lt;br&gt;PDI / transport" vertex="1">
+          <mxGeometry height="70" width="200" x="6245" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#BDBDBD;fontSize=12;fontColor=#757575;dashed=1;" value="&lt;b&gt;Renault&lt;/b&gt;&lt;br&gt;Reservedel-/kjøretøy-API" vertex="1">
+          <mxGeometry height="70" width="200" x="6245" y="1359" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1565C0;fontSize=12;" value="&lt;b&gt;Integrasjonsplattform&lt;/b&gt;&lt;br&gt;Azure API Management&lt;br&gt;&lt;i&gt;(ax-integration, statens-vegvesen)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="6585" y="519" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1565C0;fontSize=12;" value="&lt;b&gt;Peritus AX Integration Engine&lt;/b&gt;&lt;br&gt;.NET Web API" vertex="1">
+          <mxGeometry height="80" width="190" x="6845" y="519" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1565C0;fontSize=12;" value="&lt;b&gt;Filserver @ Motordata&lt;/b&gt;&lt;br&gt;V:\Download" vertex="1">
+          <mxGeometry height="60" width="180" x="6585" y="739" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#0D47A1;fontSize=12;fontSize=13;" value="&lt;b&gt;Axapta (AX 2012 R3)&lt;/b&gt;&lt;br&gt;ERP – master for kunde, kjøretøy, service, faktura&lt;br&gt;(~300k kunder)" vertex="1">
+          <mxGeometry height="110" width="290" x="6745" y="839" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1565C0;fontSize=12;" value="&lt;b&gt;Kingswaysoft SSIS&lt;/b&gt;&lt;br&gt;AXtoCRMIntegration&lt;br&gt;(SQL08, nattlig)" vertex="1">
+          <mxGeometry height="80" width="220" x="6805" y="1059" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#424242;fontSize=12;shape=cylinder3;boundedLbl=1;size=8;fillColor=#FFFFFF;strokeColor=#1565C0;" value="&lt;b&gt;MDAS_TRANSFER&lt;/b&gt;&lt;br&gt;SQL staging-DB (13 tabeller)" vertex="1">
+          <mxGeometry height="70" width="200" x="6585" y="1239" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1565C0;fontSize=12;" value="&lt;b&gt;Internt webportal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="6585" y="1379" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4527A0;fontSize=12;" value="&lt;b&gt;AutoCRM&lt;/b&gt; (AutoFacets)&lt;br&gt;Kampanje- og leadhåndtering" vertex="1">
+          <mxGeometry height="70" width="220" x="7135" y="529" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4527A0;fontSize=12;" value="&lt;b&gt;SmartPlanner / AFX&lt;/b&gt; (AutoFacets)&lt;br&gt;Verkstedbooking" vertex="1">
+          <mxGeometry height="70" width="220" x="7415" y="529" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D1C4E9;strokeColor=#311B92;fontSize=12;fontSize=13;" value="&lt;b&gt;Dynamics 365 Sales / Dataverse&lt;/b&gt;&lt;br&gt;contact, lead, opportunity,&lt;br&gt;af_*, peritus_bil, peritus_bileier" vertex="1">
+          <mxGeometry height="110" width="300" x="7225" y="839" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;fontSize=12;" value="&lt;b&gt;Min Bil&lt;/b&gt;&lt;br&gt;Kundeportal (OTP / Vipps)" vertex="1">
+          <mxGeometry height="70" width="200" x="7745" y="529" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;fontSize=12;" value="&lt;b&gt;Online Booking (OLB)&lt;/b&gt;&lt;br&gt;iframe på merke-/forhandlersider" vertex="1">
+          <mxGeometry height="70" width="200" x="7745" y="699" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#757575;fontSize=12;" value="&lt;b&gt;MG Dealer Site API&lt;/b&gt;&lt;br&gt;(MG-001)" vertex="1">
+          <mxGeometry height="50" width="190" x="8025" y="519" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#757575;fontSize=12;" value="&lt;b&gt;NOBIL&lt;/b&gt;&lt;br&gt;Ladestasjoner (NB-001)" vertex="1">
+          <mxGeometry height="50" width="190" x="8025" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;fontSize=12;" value="&lt;b&gt;Crystallize / MotorPart.no&lt;/b&gt;&lt;br&gt;PIM + nettbutikk (974 reg. kunder)" vertex="1">
+          <mxGeometry height="70" width="220" x="7745" y="969" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;fontSize=12;" value="&lt;b&gt;Mailchimp / Mandrill&lt;/b&gt;&lt;br&gt;Nyhetsbrev / transaksjonell e-post" vertex="1">
+          <mxGeometry height="70" width="220" x="7745" y="1129" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#E65100;fontSize=12;" value="&lt;b&gt;Oculos&lt;/b&gt;&lt;br&gt;Kampanje: e-post, SMS, DM&lt;br&gt;(legacy, utfases)" vertex="1">
+          <mxGeometry height="70" width="220" x="7745" y="1289" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#F9A825;fontSize=12;" value="&lt;b&gt;Targit&lt;/b&gt;&lt;br&gt;Rapportering (2x daglig)" vertex="1">
+          <mxGeometry height="70" width="200" x="6605" y="1579" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#F9A825;fontSize=12;" value="&lt;b&gt;CQS / Carlo&lt;/b&gt;&lt;br&gt;Tilbud og ordre (end-of-life)" vertex="1">
+          <mxGeometry height="70" width="200" x="6885" y="1579" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#F9A825;fontSize=12;dashed=1;" value="&lt;b&gt;SaMS&lt;/b&gt;&lt;br&gt;(ikke lansert)" vertex="1">
+          <mxGeometry height="70" width="180" x="7145" y="1579" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#F9A825;fontSize=12;" value="&lt;b&gt;Navision&lt;/b&gt; per forhandler&lt;br&gt;Carlo / Incadea (16 DB-er)" vertex="1">
+          <mxGeometry height="70" width="220" x="7415" y="1579" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#BDBDBD;fontSize=12;fontColor=#757575;dashed=1;" value="&lt;b&gt;Compello&lt;/b&gt;&lt;br&gt;Fakturagodkjenning" vertex="1">
+          <mxGeometry height="70" width="170" x="7705" y="1579" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#F9A825;fontSize=12;" value="&lt;b&gt;MPO&lt;/b&gt;&lt;br&gt;Servicekatalog og priser" vertex="1">
+          <mxGeometry height="70" width="200" x="7945" y="1579" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-46" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-17" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-18" value="Ukentlig CSV">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-47" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-17" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="REST-oppslag VIN/KUID/regnr/fnr/orgnr&lt;br&gt;(publisert 16.09.26 – kallere ikke etablert)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-48" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-18" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-25" value="Ukentlig SFTP: eierskapsuttrekk per merke (fulle snapshots)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-49" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-25" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-26" value="Import">
+          <mxGeometry relative="1" x="0.0052" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-50" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-18" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="EJNvxfS2epTDCXOeZB8f-32" value="DF-001 søke-API: lead-berikelse ved ukjent kontakt (inkl. reservasjoner)">
+          <mxGeometry relative="1" x="-0.4263" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-51" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-19" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#C62828;strokeWidth=3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-20" value="Lead ads">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-52" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-20" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#C62828;strokeWidth=3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-30" value="Leads – feiler månedlig/kvartalsvis (SPOF utenfor MDAS&#39; kontroll)">
+          <mxGeometry relative="1" x="-0.4127" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-53" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-21" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="Transport-/PDI-status (app-apim-import-axess)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-54" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-23" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-24" value="Entra ID → SimpleAuth (ikke publisert i prod)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-55" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-24" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-26" value="Kunde, salgs-/innkjøpsordre, lager (AX-004)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-56" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-24" value="Salgsordre med Crystallize kunde-ID (AX-004)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-57" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-23" value="app-apim-mp-webshop: kundeoppslag/ordre (ikke etablert)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-58" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.7;entryX=0;entryY=0.5;" target="EJNvxfS2epTDCXOeZB8f-37" value="Produktpush AX-007 (GraphQL PIM)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7080" y="916" />
+              <mxPoint x="7080" y="1004" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-59" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-27" value="CarCBSalesOpertunityQueryView (nattlig)">
+          <mxGeometry relative="1" x="0.1786" y="51" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-60" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-27" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="">
+          <mxGeometry relative="1" x="0.1876" y="-23" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-62" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-27" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="Forhandler.CRMLeads, CRMLeasingOppfølging">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-63" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="GetCustomerDetailsFromAX – nattlig 01:00 REST&lt;br&gt;contact + af_consent (AutoFacets)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-64" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-30" value="AX-013 PtsCarCbService: kunde-/biloppslag on-demand (også SmartPlanner)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-65" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="API (bygget på Dataverse)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-66" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-31" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="API (forutsatt fungerende)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-67" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-31" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-43" value="Ordresync – manuell ID-matching ved forhandler-onboarding">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-68" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-33" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="Samtykke/profil via Web API; leser kunde-/samtykkedata – delvis fungerende">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-69" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-33" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-70" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-33" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-31" value="UpdateCustomerConsent →&lt;br&gt;← GetAppointmentList/Detail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-71" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-34" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-32" value="Kunde-/biloppslag, samtykke">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-72" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-34" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-31" value="Opprett timeavtale">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-73" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-33" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-34" value="OLB innebygd (iframe)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-74" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-35" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-33" value="Dokumenter, tips, forhandlerinfo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-75" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-36" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-33" value="Ladestasjoner">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-76" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-37" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-38" value="Kontakter + samtykke">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-77" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-38" value="Manuell eksport per kampanje – avmeldinger synkes ikke tilbake">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-78" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.9;entryX=0;entryY=0.5;" target="EJNvxfS2epTDCXOeZB8f-39" value="Kampanjeuttrekk (manuelt) → fil \\Space\...\TilOculos, nattlig&lt;br&gt;← avmeldinger kopieres manuelt tilbake">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7065" y="938" />
+              <mxPoint x="7065" y="1324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-79" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-28" value="AX-008 nattlig SQL-push">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-80" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-28" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-29" value="SQL-lesing">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-81" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-26" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="Rapportdata">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-82" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-41" value="Leads (unngå dobbeltregistrering)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-83" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-30" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-42" value="Lead push SaMS-001/002 (status uavklart)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-84" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-42" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#BDBDBD;strokeWidth=1;dashed=1;dashPattern=1 3;fontColor=#9E9E9E;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-40" value="Dataeksport (referanse)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-85" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-43" style="html=1;rounded=1;endArrow=block;endFill=1;startArrow=block;startFill=1;strokeColor=#BDBDBD;strokeWidth=1;dashed=1;dashPattern=1 3;fontColor=#9E9E9E;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-44" value="INCADEA-001 (referanse)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-86" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-45" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-31" value="Priser – manuell overføring per tilbud">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-87" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-45" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-43" value="Priser – manuell">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-88" edge="1" parent="1" source="EJNvxfS2epTDCXOeZB8f-22" style="html=1;rounded=1;endArrow=block;endFill=1;strokeColor=#BDBDBD;strokeWidth=1;dashed=1;dashPattern=1 3;fontColor=#9E9E9E;fontSize=10;labelBackgroundColor=#FFFFFF;labelBorderColor=none;whiteSpace=wrap;" target="EJNvxfS2epTDCXOeZB8f-26" value="Reservedel-/kjøretøydata (referanse)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-89" parent="1" style="text;html=1;fontSize=20;align=left;verticalAlign=middle;" value="&lt;b&gt;MotorGruppen – eksisterende integrasjoner og dataflyt (as-is)&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;Kilde: prosjektwiki Systems/Integrations m.fl., per 15.10.2026&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="900" x="6205" y="419" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-90" parent="1" style="rounded=1;arcSize=4;html=1;fillColor=#FFFFFF;strokeColor=#9E9E9E;verticalAlign=top;align=left;spacingLeft=8;" value="&lt;b&gt;Tegnforklaring&lt;/b&gt;" vertex="1">
+          <mxGeometry height="260" width="320" x="6205" y="1519" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-91" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#2E7D32;strokeWidth=2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6220" y="1559" as="sourcePoint" />
+            <mxPoint x="6300" y="1559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-92" parent="1" style="text;html=1;fontSize=11;align=left;verticalAlign=middle;" value="Automatisk – fungerer" vertex="1">
+          <mxGeometry height="20" width="200" x="6310" y="1549" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-93" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;dashed=1;dashPattern=8 4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6220" y="1589" as="sourcePoint" />
+            <mxPoint x="6300" y="1589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-94" parent="1" style="text;html=1;fontSize=11;align=left;verticalAlign=middle;" value="Manuell prosess" vertex="1">
+          <mxGeometry height="20" width="200" x="6310" y="1579" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-95" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#C62828;strokeWidth=3;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6220" y="1619" as="sourcePoint" />
+            <mxPoint x="6300" y="1619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-96" parent="1" style="text;html=1;fontSize=11;align=left;verticalAlign=middle;" value="Ustabil / kritisk avhengighet" vertex="1">
+          <mxGeometry height="20" width="200" x="6310" y="1609" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-97" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#757575;strokeWidth=1.5;dashed=1;dashPattern=2 3;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6220" y="1649" as="sourcePoint" />
+            <mxPoint x="6300" y="1649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-98" parent="1" style="text;html=1;fontSize=11;align=left;verticalAlign=middle;" value="Ikke etablert / uavklart" vertex="1">
+          <mxGeometry height="20" width="200" x="6310" y="1639" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-99" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#BDBDBD;strokeWidth=1;dashed=1;dashPattern=1 3;fontColor=#9E9E9E;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6220" y="1679" as="sourcePoint" />
+            <mxPoint x="6300" y="1679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-100" parent="1" style="text;html=1;fontSize=11;align=left;verticalAlign=middle;" value="Referanse – utenfor scope" vertex="1">
+          <mxGeometry height="20" width="200" x="6310" y="1669" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-101" parent="1" style="text;html=1;fontSize=10;align=left;verticalAlign=top;fontColor=#616161;whiteSpace=wrap;" value="Pil i begge ender = toveis.&lt;br&gt;Mappingsfeltene er forenklet; se wikisidene for detaljer." vertex="1">
+          <mxGeometry height="50" width="290" x="6220" y="1714" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
