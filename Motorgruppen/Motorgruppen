@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3476" dy="2413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3201" dy="2261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,7 +346,7 @@
           <mxGeometry height="542" width="250" x="4118" y="1227" as="geometry" />
         </mxCell>
         <mxCell id="TOxKMLUZtd2tu09rNigA-34" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
-          <mxGeometry height="80" width="39" x="10" y="174" as="geometry" />
+          <mxGeometry height="80" width="57" x="10" y="174" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--20" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.1&lt;/b&gt; Dobbel skriving av samtykke: gamle felter + ProcessingConsent" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
@@ -362,6 +362,9 @@
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--24" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.5&lt;/b&gt; Uttrekk av kampanjelister ut fra behandlingsaktiviteter" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-6" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
+          <mxGeometry height="80" width="9" x="10" y="358" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--25" parent="1" style="swimlane;html=1;startSize=70;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;whiteSpace=wrap;rounded=1;arcSize=4;collapsible=0;" value="&lt;b&gt;Produksjonssetting&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;245 t · G6 go-live uke 11 (2027)&lt;/font&gt;" vertex="1">
           <mxGeometry height="542" width="250" x="4398" y="1227" as="geometry" />
@@ -509,14 +512,14 @@
         <mxCell id="TOxKMLUZtd2tu09rNigA-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;173 t (8,74 %)&lt;/b&gt;" vertex="1">
           <mxGeometry height="24" width="144" x="3760" y="1024" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="03.11&lt;br&gt;&lt;br&gt;- Klart til å demonstrere for Kate&lt;div&gt;&lt;br&gt;- Tabellene klare for GDPR, vi gjør lite med skjemaene før da så kan vi avdekke behov sammen .&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Oversettelse kommer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Mange duplikater. Kanskje et prosjekt til senere?&lt;/div&gt;&lt;div&gt;- Vurdere linsensmodell?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="03.11&lt;br&gt;&lt;br&gt;- Klart til å demonstrere for Kate. Niels Henrik kommer ned. Workshop&lt;div&gt;&lt;br&gt;- Tabellene klare for GDPR, vi gjør lite med skjemaene før da så kan vi avdekke behov sammen .&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Oversettelse kommer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Mange duplikater. Kanskje et prosjekt til senere?&lt;/div&gt;&lt;div&gt;- Vurdere linsensmodell?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="289" width="230" x="4162" y="1807" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="20.10&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="247" x="3512" y="2932" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;10.11&lt;br&gt;&lt;br&gt;- Revisjonsspor? Hvilke behov er det?&lt;/span&gt;" vertex="1">
-          <mxGeometry height="133.17" width="230" x="4713" y="1807" as="geometry" />
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;10.11&lt;br&gt;&lt;br&gt;- Revisjonsspor? Hvilke behov er det?&lt;br&gt;&lt;br&gt;- Leads opprettes fra AX. Dette må flyttes. Mye usikkerhetsmomenter? Cartagena må vite hva som oppretter data i AX, slik at det flyttes over til Dataverse&lt;/span&gt;" vertex="1">
+          <mxGeometry height="228" width="230" x="4713" y="1807" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
