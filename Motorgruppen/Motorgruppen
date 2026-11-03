@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3592" dy="2476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3476" dy="2413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,7 +276,7 @@
         <mxCell id="1EHxAnuaM5fACTTxyQjN-11" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="80" width="215" x="10" y="82" as="geometry" />
         </mxCell>
-        <mxCell id="Dcc1f5_YDKYtYkoTO81--4" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;spacingLeft=8;spacingRight=8;fillColor=none;" value="&lt;b&gt;0.1&lt;/b&gt; Oppsett av løsning, miljøer og DevOps, publisher-prefiks og CI/CD-pipeline" vertex="1">
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--4" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;spacingLeft=8;spacingRight=8;fillColor=none;strokeColor=#0245FF;" value="&lt;b&gt;0.1&lt;/b&gt; Oppsett av løsning, miljøer og DevOps, publisher-prefiks og CI/CD-pipeline" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--5" parent="Dcc1f5_YDKYtYkoTO81--3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;0.2&lt;/b&gt; Workshop og godkjenning av cluster-nøkkel og matching" vertex="1">
