@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="3201" dy="2261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3191" dy="2255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,7 +360,7 @@
         <mxCell id="Dcc1f5_YDKYtYkoTO81--23" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.4&lt;/b&gt; Utgående lead-flyt fra kuratert lag, kampanjekriterier, signal ved manglende respons" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="358" as="geometry" />
         </mxCell>
-        <mxCell id="Dcc1f5_YDKYtYkoTO81--24" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.5&lt;/b&gt; Uttrekk av kampanjelister ut fra behandlingsaktiviteter" vertex="1">
+        <mxCell id="Dcc1f5_YDKYtYkoTO81--24" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.5&lt;/b&gt; Kampanjeuttrekk" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="450" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-6" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
@@ -518,7 +518,7 @@
         <mxCell id="EJNvxfS2epTDCXOeZB8f-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="20.10&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="247" x="3512" y="2932" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;10.11&lt;br&gt;&lt;br&gt;- Revisjonsspor? Hvilke behov er det?&lt;br&gt;&lt;br&gt;- Leads opprettes fra AX. Dette må flyttes. Mye usikkerhetsmomenter? Cartagena må vite hva som oppretter data i AX, slik at det flyttes over til Dataverse&lt;/span&gt;" vertex="1">
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;10.11&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Revisjonsspor? Hvilke behov er det?&lt;br&gt;&lt;br&gt;- Leads opprettes fra AX. Dette må flyttes. Mye usikkerhetsmomenter? Cartagena må vite hva som oppretter data i AX, slik at det flyttes over til Dataverse. &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;(Hør først med Claude). &lt;/b&gt;Hvor ligger ssis-jobben?&lt;/span&gt;" vertex="1">
           <mxGeometry height="228" width="230" x="4713" y="1807" as="geometry" />
         </mxCell>
       </root>
