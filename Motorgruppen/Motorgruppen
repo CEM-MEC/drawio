@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="-354" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="343" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,6 +578,15 @@
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;05.11 - Samtykker og GDPR&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Hvordan brukes det i dag?&lt;div&gt;- Hvilke systemer bruker det?&amp;nbsp;&lt;br&gt;- Skal noen andre systemer integreres med disse samtykkene?&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="278" width="324" x="3558" y="1802" as="geometry" />
+        </mxCell>
+        <mxCell id="tzXbCYn-HcFIqmgVGUOC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Integrasjoner må gjøres mot nytt sted&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="238" x="7339" y="1927" as="geometry" />
+        </mxCell>
+        <mxCell id="tzXbCYn-HcFIqmgVGUOC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Gammel data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="238" x="7337" y="1954" as="geometry" />
+        </mxCell>
+        <mxCell id="tzXbCYn-HcFIqmgVGUOC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- Vi trenger Teksten&amp;nbsp; fra motordata&lt;br&gt;- Import av gammel data&lt;br&gt;- Testing&amp;nbsp;&lt;br&gt;- Integrasjoner må kobles mot nytt sted&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Nytt ERP og kundesystem" vertex="1">
+          <mxGeometry height="58" width="382" x="7264" y="1832" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
