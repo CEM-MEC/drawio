@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="343" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-502" dy="590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,8 +255,8 @@
         <mxCell id="EJNvxfS2epTDCXOeZB8f-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="20.10&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="247" x="3512" y="2932" as="geometry" />
         </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;10.11&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Cartagena forbereder hva de erstatter i AX&lt;br&gt;&lt;br&gt;- Revisjonsspor? Hvilke behov er det?&lt;br&gt;&lt;br&gt;- Leads opprettes fra AX. Dette må flyttes. Mye usikkerhetsmomenter? Cartagena må vite hva som oppretter data i AX, slik at det flyttes over til Dataverse. &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;(Hør først med Claude). &lt;/b&gt;Hvor ligger ssis-jobben?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Alle integrasjoner som brukes i dag mot AX skal flyttes over til Dataverse (finnes i Wiki)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Spør Peritus om: Salgsmelding og Registrering av bil/sluttkunde.&lt;br&gt;&lt;br&gt;&lt;br&gt;- Niels Henrik sier noen ord om hvordan Salgsmelding er tiltenkt i dag.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="383" width="230" x="6230" y="1838" as="geometry" />
+        <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;10.11&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Cartagena forbereder hva de erstatter i AX&lt;br&gt;&lt;br&gt;- Revisjonsspor? Hvilke behov er det?&lt;br&gt;&lt;br&gt;- Leads opprettes fra AX. Dette må flyttes. Mye usikkerhetsmomenter? Cartagena må vite hva som oppretter data i AX, slik at det flyttes over til Dataverse. &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;(Hør først med Claude). &lt;/b&gt;Hvor ligger ssis-jobben?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Alle integrasjoner som brukes i dag mot AX skal flyttes over til Dataverse (finnes i Wiki)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Spør Peritus om: Salgsmelding og Registrering av bil/sluttkunde.&lt;br&gt;&lt;br&gt;- Peritus:&lt;br&gt;&amp;nbsp;* Er alle samtykker i dag synket med Dataverse?&lt;br&gt;&lt;br&gt;- Niels Henrik sier noen ord om hvordan Salgsmelding er tiltenkt i dag.&lt;br&gt;&lt;br&gt;- Hva er autofacets?&lt;br&gt;&lt;br&gt;- Kampanjeuttrekk (Peritus)&lt;br&gt;Hvilke søk som gjøres i dag? Hvordan ser formatet ut?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="522" width="230" x="6230" y="1838" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;202 t (10,20 %)&lt;/b&gt;" vertex="1">
           <mxGeometry height="24" width="168" x="3760" y="1024" as="geometry" />
@@ -587,6 +587,31 @@
         </mxCell>
         <mxCell id="tzXbCYn-HcFIqmgVGUOC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- Vi trenger Teksten&amp;nbsp; fra motordata&lt;br&gt;- Import av gammel data&lt;br&gt;- Testing&amp;nbsp;&lt;br&gt;- Integrasjoner må kobles mot nytt sted&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Nytt ERP og kundesystem" vertex="1">
           <mxGeometry height="58" width="382" x="7264" y="1832" as="geometry" />
+        </mxCell>
+        <mxCell id="1gsohswCPtT5cXprmbxn-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Avventer at Kate kommer tilbake:&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;- Godkjenning av model drive app&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="165" width="250" x="3838" y="1795" as="geometry" />
+        </mxCell>
+        <mxCell id="1gsohswCPtT5cXprmbxn-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;defaultLabelBackgroundColor=page;fillColor=#ffff88;strokeColor=#0245FF;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4387.01" y="1041.48" as="sourcePoint" />
+            <mxPoint x="4387" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gsohswCPtT5cXprmbxn-3" connectable="0" parent="1gsohswCPtT5cXprmbxn-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=17;defaultLabelBackgroundColor=page;" value="04.01 - Planlegge prodsetting med andre parter" vertex="1">
+          <mxGeometry relative="1" x="0.7705" y="2" as="geometry">
+            <mxPoint x="4" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gsohswCPtT5cXprmbxn-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;defaultLabelBackgroundColor=page;fillColor=#ffff88;strokeColor=#0245FF;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5660.01" y="1038.48" as="sourcePoint" />
+            <mxPoint x="5660" y="877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gsohswCPtT5cXprmbxn-6" connectable="0" parent="1gsohswCPtT5cXprmbxn-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=17;defaultLabelBackgroundColor=page;" value="Sommer: Rydde i data" vertex="1">
+          <mxGeometry relative="1" x="0.7705" y="2" as="geometry">
+            <mxPoint x="4" y="-31" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
