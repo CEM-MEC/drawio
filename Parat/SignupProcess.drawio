@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-JRByXqLjHVPokW5LFYT">
-    <mxGraphModel dx="2907" dy="4488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFF8EA,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="3222" dy="4500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFF8EA,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1209,7 +1209,7 @@
           <mxGeometry height="15" width="15" x="3607" y="2298" as="geometry" />
         </mxCell>
         <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 180%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Bygg og anlegg&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Domstolene&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Farmasi&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Forsvar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Hotell -og restaurant&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Høyskole og universitet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Luftfart&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Media&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;NAV - kommune&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;NAV - stat&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Politi&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Tannhelse&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Vakt og sikkerhet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Veritas&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;Annen sektor&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="315.5" width="197" x="3632" y="2228" as="geometry" />
+          <mxGeometry height="609" width="197" x="3632" y="2081" as="geometry" />
         </mxCell>
         <mxCell id="Bmru2NzVVJbJ9Qg5VYjq-48" parent="1" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;" value="Tilbake" vertex="1">
           <mxGeometry height="33" width="86" x="3596" y="2723" as="geometry" />
