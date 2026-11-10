@@ -231,11 +231,11 @@
         </mxCell>
         <mxCell id="TOxKMLUZtd2tu09rNigA-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;defaultLabelBackgroundColor=page;fillColor=#ffff88;strokeColor=#0245FF;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3976.01" y="1040.48" as="sourcePoint" />
-            <mxPoint x="3976" y="879.0000000000001" as="targetPoint" />
+            <mxPoint x="4024.01" y="1044.48" as="sourcePoint" />
+            <mxPoint x="4024" y="883.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TOxKMLUZtd2tu09rNigA-27" connectable="0" parent="TOxKMLUZtd2tu09rNigA-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=17;defaultLabelBackgroundColor=page;" value="03.11" vertex="1">
+        <mxCell id="TOxKMLUZtd2tu09rNigA-27" connectable="0" parent="TOxKMLUZtd2tu09rNigA-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=17;defaultLabelBackgroundColor=page;" value="10.11" vertex="1">
           <mxGeometry relative="1" x="0.7705" y="2" as="geometry">
             <mxPoint x="4" y="-31" as="offset" />
           </mxGeometry>
@@ -246,9 +246,6 @@
         <mxCell id="TOxKMLUZtd2tu09rNigA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontStyle=1" value="27.10&lt;br&gt;&lt;br&gt;Møte med Kate&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Likte skjermbildene. Noen deler av importen burde være med.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Hun ønsker en god kontroll - så NH har gjort flere forbedringer.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hør med NH om når Import er ferdig og man kan ta en demo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Demo:&lt;br&gt;Gå igjennom hva som er bygget.&lt;br&gt;Hvordan ligger dataen.&lt;/div&gt;" vertex="1">
           <mxGeometry height="232" width="247" x="3841" y="2957" as="geometry" />
         </mxCell>
-        <mxCell id="TOxKMLUZtd2tu09rNigA-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;235,5 t (11,89 %)&lt;/b&gt;" vertex="1">
-          <mxGeometry height="24" width="196" x="3564" y="1024" as="geometry" />
-        </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;03.11&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Klart til å demonstrere for Kate. Niels Henrik kommer ned. Workshop&lt;div&gt;&lt;br&gt;- Tabellene klare for GDPR, vi gjør lite med skjemaene før da så kan vi avdekke behov sammen .&lt;/div&gt;&lt;div&gt;&lt;br&gt;- 3 Demoer klare&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Oversettelse kommer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fremtiden:&lt;/div&gt;&lt;div&gt;- Mange duplikater. Kanskje et prosjekt til senere?&lt;/div&gt;&lt;div&gt;- Vurdere linsensmodell?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;Carl Erik fikser god oversikt over integrasjoner til 10.11&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="358" width="230" x="4178" y="2949" as="geometry" />
         </mxCell>
@@ -257,9 +254,6 @@
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-4" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;10.11&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Hva erstattes i AX?&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;Oversikt over hva som oppretter data i AX i dag, slik at alt kan flyttes.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Leads som opprettes fra AX: hvordan flyttes dette, og hvilke usikkerhetsmomenter finnes?&lt;/li&gt;&lt;br&gt;&lt;li&gt;Hvor ligger SSIS-jobben, og hvem eier den?&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Integrasjoner&lt;/strong&gt;&lt;/p&gt;&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;Gjennomgang av dagens integrasjoner mot AX (oversikt i Wiki).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Avklaring: alle skal flyttes over til Dataverse.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;I en overgang må integrasjoner flyttes. Hvem tar ansvar?&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nytt ERP-system?&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Salgsmelding og registrering&lt;/strong&gt; (Niels Henrik / Peritus)&lt;/p&gt;&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;Niels Henrik: hvordan Salgsmelding er tiltenkt i dag.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Peritus: dagens flyt for Salgsmelding og registrering av bil og sluttkunde.&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Samtykker og revisjonsspor&lt;/strong&gt; (Peritus)&lt;/p&gt;&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;Er alle samtykker i dag synkronisert med Dataverse?&lt;/li&gt;&lt;br&gt;&lt;li&gt;Revisjonsspor: hvilke behov har vi for logging og sporbarhet?&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Kampanjeuttrekk&lt;/strong&gt; (Peritus)&lt;/p&gt;&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;Hvilke uttrekk gjøres i dag?&lt;/li&gt;&lt;br&gt;&lt;li&gt;Hvilket format brukes, og hvem mottar uttrekkene?&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Avklaringer&lt;/strong&gt;&lt;/p&gt;&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;Hva er autofacets?&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Oppsummering og neste steg&lt;/strong&gt;&lt;/p&gt;&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;Hvem gjør hva, og innen når.&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="956" width="701" x="6230" y="1838" as="geometry" />
-        </mxCell>
-        <mxCell id="EJNvxfS2epTDCXOeZB8f-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;202 t (10,20 %)&lt;/b&gt;" vertex="1">
-          <mxGeometry height="24" width="168" x="3760" y="1024" as="geometry" />
         </mxCell>
         <mxCell id="EJNvxfS2epTDCXOeZB8f-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;align=center;verticalAlign=middle;fontColor=#333333;" value="&lt;b&gt;8 t&lt;/b&gt;" vertex="1">
           <mxGeometry height="24" width="26" x="3564" y="1068" as="geometry" />
@@ -757,6 +751,12 @@
         </mxCell>
         <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-57" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Segoe UI;fontSize=10;fontColor=#4A4F57;strokeColor=#6B7480;strokeWidth=1.4;align=center;verticalAlign=middle;labelBackgroundColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" target="Vk-cS-CF9QCO9G2Jvi4f-9">
           <mxGeometry relative="1" x="-0.03" as="geometry" />
+        </mxCell>
+        <mxCell id="6ljvChzpyADxGjW3-2OO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;235,5 t (11,89 %)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24" width="196" x="3564" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="6ljvChzpyADxGjW3-2OO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;236,75 t (11,96 %)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24" width="197" x="3760" y="1024" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
