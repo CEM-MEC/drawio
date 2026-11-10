@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="-819" dy="425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-502" dy="590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -643,8 +643,8 @@
         <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-12" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#2E7D32&quot;&gt;Registrerings­hendelse&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_vehicleregistrationevent&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Hendelser i kjøretøyets historikk&lt;/span&gt;" vertex="1">
           <mxGeometry height="115" width="175" x="8908" y="989" as="geometry" />
         </mxCell>
-        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-13" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#2E7D32&quot;&gt;Kjøretøyforhold&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_vehicleownership&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Hvem eier / leaser kjøretøyet – og i hvilken periode&lt;/span&gt;" vertex="1">
-          <mxGeometry height="115" width="175" x="9098" y="989" as="geometry" />
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-13" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size: 13px; color: rgb(46, 125, 50);&quot;&gt;Kjøretøyforhold&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px; color: rgb(138, 143, 152); font-family: Consolas, monospace;&quot;&gt;ctg_vehicleownership&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px; color: rgb(58, 63, 71);&quot;&gt;Hvem eier kjøretøyet – og i hvilken periode&lt;/span&gt;" vertex="1">
+          <mxGeometry height="115" width="175" x="9097" y="989" as="geometry" />
         </mxCell>
         <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-14" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7B3FA0;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#7B3FA0&quot;&gt;Behandlingsaktivitet&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_processingactivity&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Formål, rettslig grunnlag og lagringstid&lt;/span&gt;" vertex="1">
           <mxGeometry height="95" width="250" x="9933" y="814" as="geometry" />
@@ -721,7 +721,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-37" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.2;exitY=1;entryX=1;entryY=0.9;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-10" value="gjelder person">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry relative="1" x="0.2068" y="-2" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="10266" y="1085" />
             </Array>
@@ -740,7 +741,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-42" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.42;exitY=0;entryX=0.652;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-2" value="kobles til kontakt / firma">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" x="-0.4173" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-43" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;dashed=1;dashPattern=6 4;strokeColor=#9AA1AB;exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-7" value="verifisert av">
           <mxGeometry relative="1" as="geometry" />
