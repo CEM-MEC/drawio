@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="-502" dy="590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-123" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,6 +612,154 @@
           <mxGeometry relative="1" x="0.7705" y="2" as="geometry">
             <mxPoint x="4" y="-31" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:22px;color:#1F2933&quot;&gt;Datamodell – oversikt&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px;color:#6B7480&quot;&gt;Egendefinerte tabeller (ctg_) og hvordan de henger sammen med kunder og brukere&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="560" x="7690.25" y="4115.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-2" parent="1" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=#EEF4FB;strokeColor=#1E5AA8;strokeOpacity=35;verticalAlign=top;align=left;spacingLeft=14;spacingTop=6;fontSize=15;fontStyle=1;fontColor=#1E5AA8;" value="Kunder – person eller firma" vertex="1">
+          <mxGeometry height="380" width="460" x="8170.25" y="4233.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-3" parent="1" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=#EEF7EE;strokeColor=#2E7D32;strokeOpacity=35;verticalAlign=top;align=left;spacingLeft=14;spacingTop=6;fontSize=15;fontStyle=1;fontColor=#2E7D32;" value="Kjøretøy" vertex="1">
+          <mxGeometry height="380" width="400" x="7690.25" y="4233.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-4" parent="1" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=#F6EFFA;strokeColor=#7B3FA0;strokeOpacity=35;verticalAlign=top;align=left;spacingLeft=14;spacingTop=6;fontSize=15;fontStyle=1;fontColor=#7B3FA0;" value="Personvern (GDPR)" vertex="1">
+          <mxGeometry height="480" width="580" x="8710.25" y="4233.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-5" parent="1" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=#FDF5EA;strokeColor=#C26A00;strokeOpacity=35;verticalAlign=top;align=left;spacingLeft=14;spacingTop=6;fontSize=15;fontStyle=1;fontColor=#C26A00;" value="Import fra register (mellomlagring)" vertex="1">
+          <mxGeometry height="190" width="940" x="7690.25" y="4673.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-6" parent="1" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=#F3F4F6;strokeColor=#5F6B7A;strokeOpacity=35;verticalAlign=top;align=left;spacingLeft=14;spacingTop=6;fontSize=15;fontStyle=1;fontColor=#5F6B7A;" value="Oppslag og oppsett" vertex="1">
+          <mxGeometry height="110" width="580" x="8710.25" y="4753.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-7" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#37474F;strokeWidth=2.2;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#37474F&quot;&gt;Bruker&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;systemuser · standard&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Ansatte / saksbehandlere&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="8290.25" y="4115.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-8" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1E5AA8;strokeWidth=2.2;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#1E5AA8&quot;&gt;Kontakt&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;contact · standard&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Personer · verifisering, dødsfall, importnøkkel&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="195" x="8195.25" y="4288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-9" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1E5AA8;strokeWidth=2.2;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#1E5AA8&quot;&gt;Firma&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;account · standard&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Foretak · org.nr og status fra Enhetsregisteret&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="195" x="8410.25" y="4288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-10" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1E5AA8;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#1E5AA8&quot;&gt;Kontaktklynge&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_contactcluster&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Samler duplikater av samme person, med én hovedpost&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="195" x="8195.25" y="4473.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-11" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#2E7D32&quot;&gt;Kjøretøy&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_vehicle&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;VIN, reg.nr, merke, modell og registreringsstatus&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="300" x="7740.25" y="4288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-12" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#2E7D32&quot;&gt;Registrerings­hendelse&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_vehicleregistrationevent&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Hendelser i kjøretøyets historikk&lt;/span&gt;" vertex="1">
+          <mxGeometry height="115" width="175" x="7710.25" y="4463.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-13" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2E7D32;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#2E7D32&quot;&gt;Kjøretøyforhold&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_vehicleownership&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Hvem eier / leaser kjøretøyet – og i hvilken periode&lt;/span&gt;" vertex="1">
+          <mxGeometry height="115" width="175" x="7900.25" y="4463.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-14" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7B3FA0;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#7B3FA0&quot;&gt;Behandlingsaktivitet&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_processingactivity&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Formål, rettslig grunnlag og lagringstid&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="250" x="8735.25" y="4288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-15" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7B3FA0;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#7B3FA0&quot;&gt;Interesseavveining&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_legitimateinterestassessment&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Vurdering av berettiget interesse&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="240" x="9020.25" y="4288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-16" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7B3FA0;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#7B3FA0&quot;&gt;Behandlingsgrunnlag&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_personprocessingbasis&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Hvorfor vi behandler en gitt person – og til når&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="250" x="8735.25" y="4438.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-17" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7B3FA0;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#7B3FA0&quot;&gt;Reservasjon / sperre&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_processingsuppression&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Reservasjoner og innsigelser mot behandling&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="240" x="9020.25" y="4438.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-18" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7B3FA0;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#7B3FA0&quot;&gt;Samtykke&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_processingconsent&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Gitt / trukket samtykke, med kanal&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="250" x="8735.25" y="4588.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-19" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7B3FA0;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#7B3FA0&quot;&gt;Personvernerklæring&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_processingstatement&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Versjonert tekst som samtykker viser til&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="240" x="9020.25" y="4588.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-20" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C26A00;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#C26A00&quot;&gt;Importkjøring&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_importrunreport&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Rapport per kjøring: antall, status, feil&lt;/span&gt;" vertex="1">
+          <mxGeometry height="105" width="200" x="7710.25" y="4728.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-21" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C26A00;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#C26A00&quot;&gt;Relasjonsstaging&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_importrelationshipstaging&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Eierforhold klargjort før lagring&lt;/span&gt;" vertex="1">
+          <mxGeometry height="105" width="200" x="7930.25" y="4728.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-22" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C26A00;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#C26A00&quot;&gt;Import part–kjøretøy&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_importpartyvehicle&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Kjøretøy knyttet til en importert part&lt;/span&gt;" vertex="1">
+          <mxGeometry height="105" width="200" x="8150.25" y="4728.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-23" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C26A00;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#C26A00&quot;&gt;Importert part&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_importpartydirective&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Person/firma fra import – og hvem den kobles til&lt;/span&gt;" vertex="1">
+          <mxGeometry height="105" width="240" x="8370.25" y="4728.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-24" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5F6B7A;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#5F6B7A&quot;&gt;Postnummer&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_norwegianpostalcode&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Norske postnummer og kommuner&lt;/span&gt;" vertex="1">
+          <mxGeometry height="62" width="250" x="8735.25" y="4791.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-25" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5F6B7A;strokeWidth=1.4;shadow=1;spacing=6;fontFamily=Segoe UI;" value="&lt;b style=&quot;font-size:13px;color:#5F6B7A&quot;&gt;Systemvariabel&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:9px;color:#8A8F98;font-family:Consolas,monospace&quot;&gt;ctg_systemvariable&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:11px;color:#3A3F47&quot;&gt;Innstillinger for integrasjoner&lt;/span&gt;" vertex="1">
+          <mxGeometry height="62" width="240" x="9020.25" y="4791.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-26" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.3;exitY=1;entryX=0.3;entryY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-10" value="tilhører">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-27" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERone;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.7;exitY=0;entryX=0.7;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-8" value="hovedpost">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-28" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=1;exitY=0.5;entryX=0;entryY=0.27;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-2" value="leietaker / daglig bruker">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-29" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=1;exitY=0.45;entryX=0;entryY=0.75;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-2" value="part (eier, leietaker …)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-30" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.5;exitY=0;entryX=0.82;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-31" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.5;exitY=0;entryX=0.19;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-32" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0;exitY=0.25;entryX=1;entryY=0.25;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-9" value="ansvarlig / databehandler">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-33" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0;exitY=0.25;entryX=1;entryY=0.25;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-34" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-35" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0;exitY=0.67;entryX=1;entryY=0.3;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-10" value="gjelder person">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-36" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0;exitY=0.3;entryX=1;entryY=0.75;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9002.25" y="4467.25" />
+              <mxPoint x="9002.25" y="4359.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-37" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.2;exitY=1;entryX=1;entryY=0.9;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-10" value="gjelder person">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9068.25" y="4559.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-38" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-39" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-40" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-41" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-42" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;exitX=0.42;exitY=0;entryX=0.652;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-2" value="kobles til kontakt / firma">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-43" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;dashed=1;dashPattern=6 4;strokeColor=#9AA1AB;exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-7" value="verifisert av">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-44" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=ERmany;endArrow=ERone;startFill=0;endFill=0;strokeColor=#6B7480;strokeWidth=1.4;fontSize=10;fontColor=#4A4F57;labelBackgroundColor=#FFFFFF;fontFamily=Segoe UI;dashed=1;dashPattern=6 4;strokeColor=#9AA1AB;exitX=0.5;exitY=0;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="Vk-cS-CF9QCO9G2Jvi4f-7" value="ansvarlig / vurdert av">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9000.25" y="4155.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk-cS-CF9QCO9G2Jvi4f-57" edge="1" parent="1" source="Vk-cS-CF9QCO9G2Jvi4f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Segoe UI;fontSize=10;fontColor=#4A4F57;strokeColor=#6B7480;strokeWidth=1.4;align=center;verticalAlign=middle;labelBackgroundColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" target="Vk-cS-CF9QCO9G2Jvi4f-9">
+          <mxGeometry relative="1" x="-0.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
