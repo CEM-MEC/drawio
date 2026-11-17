@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jEIxzZldczrSgRje9iTV">
-    <mxGraphModel dx="-1110" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-819" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
           <mxGeometry height="542" width="250" x="4118" y="1227" as="geometry" />
         </mxCell>
         <mxCell id="TOxKMLUZtd2tu09rNigA-34" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
-          <mxGeometry height="80" width="57" x="10" y="174" as="geometry" />
+          <mxGeometry height="80" width="106" x="10" y="174" as="geometry" />
         </mxCell>
         <mxCell id="Dcc1f5_YDKYtYkoTO81--20" parent="Dcc1f5_YDKYtYkoTO81--19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;3.1&lt;/b&gt; Dobbel skriving av samtykke: gamle felter + ProcessingConsent" vertex="1">
           <mxGeometry height="80" width="230" x="10" y="82" as="geometry" />
